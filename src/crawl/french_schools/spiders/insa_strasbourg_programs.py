@@ -12,7 +12,7 @@ BASE_URL = "http://www.insa-strasbourg.fr/fr/programme-des-etudes/"
 PROGRAM_URL = "http://www.insa-strasbourg.fr/fr/programmes-des-etudes/{}/{}"
 
 remove_spaces = re.compile('\s+')
-titre = re.compile('>(\w*)<')
+titre = re.compile('>(.*)<')
 
 class InsaStrasbourgSpider(scrapy.Spider, ABC):
     """
@@ -38,18 +38,25 @@ class InsaStrasbourgSpider(scrapy.Spider, ABC):
         programs = []
         for link in links:
             if link[:4] in ['<h2>', '<str']:
-                nom_formation = titre.search(link).groups[0]
+                find = titre.search(link)
+                if find is not None:
+                    nom_formation = find.groups()[0]
+                else:
+                    a =0
             if 'contenu' in link:
-                programs.append((nom_formation, link[link.find('–')+2:link.find(':')-1]))
+                if link.find('–') >= 0:
+                    programs.append((nom_formation, link[link.find('–')+2:link.find(':')-1]))
+                else:
+                    programs.append((nom_formation, link[4:link.find(':') - 1]))
         #program_ids = [link[link.find('–')+2:link.find(':')-1] if '–' in link else link[4:link.find(':')-1]
         #               for link in links if 'contenu' in link]
         links = response.xpath("//article//li//a[contains(text(), 'contenu')]").getall()
         links = [link[9:link[9:].find('"')+9] for link in links]
-        for program_id, link in zip(program_ids, links):
+        for program, link in zip(programs, links):
             yield scrapy.Request(url=link,
                                  callback=self.parse_program,
-                                 cb_kwargs={'program_id': programs[1],
-                                            'nom_formation': programs[0]})
+                                 cb_kwargs={'program_id': program[1],
+                                            'nom_formation': program[0]})
 
     @staticmethod
     def parse_program(response, program_id, nom_formation):
