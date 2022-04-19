@@ -10,7 +10,7 @@ from pathlib import Path
 CRAWLING_OUTPUT_FOLDER = Path(__file__).parent.parent.parent.parent.joinpath(
     "data", "crawling-output"
 )
-YEAR = 2021
+YEAR = 2022
 
 ########################################################################
 #

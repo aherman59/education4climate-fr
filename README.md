@@ -46,7 +46,7 @@ You can adapt settings in *src/crawl/french_schools/settings.py*
 
 ```
 cd src/score
-python course.py --school SCHOOL --year YEAR
+python courses.py --school SCHOOL --year YEAR
 ```
 
 Output files will be *data\scoring-output\SCHOOL_courses_scoring_YEAR.csv* and *data\scoring-output\SCHOOL_matches_YEAR.json*

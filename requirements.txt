@@ -1,3 +1,7 @@
 scrapy
 pandas
 borb
+pdfminer.six
+
+unidecode
+langdetect

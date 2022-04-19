@@ -1,0 +1,82 @@
+{
+    "EP42-MAT: Mat\u00e9riaux": {
+        "fr": {
+            "[recyclage, environnement]": [
+                "ant une aptitude au recyclage   materiaux plus re",
+                "us respectueux de l environnement    "
+            ]
+        }
+    },
+    "MECA41-CMCO: Choix de Mat\u00e9riaux en COnception": {
+        "fr": {
+            "eco-?conception": [
+                " cours concernera l'eco-conception "
+            ]
+        }
+    },
+    "EP51-ED-MEE: Marche et Economie de l'Energie ": {
+        "fr": {
+            "energ[^ ]+ renouvelab[^ ]+": [
+                "smes de soutien des energies renouvelables    introduction to "
+            ]
+        }
+    },
+    "EP51-ED-SOLA: Solaire ": {
+        "fr": {
+            "energ[^ ]+ renouvelab[^ ]+": [
+                " positionnement des energies renouvelables dans le contexte en"
+            ],
+            "energ[^ ]+ solaire": [
+                "cio economique de l'energie solaire     contribution  f"
+            ]
+        }
+    },
+    "GC42-HYDRO: Hydrologie": {
+        "fr": {
+            "[ecosyst[^ ]+, pollution]": [
+                " rehabilitation des ecosystemes     * comment ameli",
+                "es    * impacts des pollutions sur l'environnemen"
+            ]
+        }
+    },
+    "MRIE31-GRI1: Projet Gestion Risques Industriels 1": {
+        "fr": {
+            "protection (?:de l')?environnement": [
+                "ion classee pour la protection de l'environnement  cette approche per"
+            ]
+        }
+    },
+    "MECA51-IDSG: Initiation au Design industriel": {
+        "fr": {
+            "eco-?conception": [
+                "n a l'ergonomie   * eco-conception    ** les enjeux de",
+                " ** les enjeux de l'eco-conception   ** quelques outil",
+                "ur la pratique de l'eco-conception  * initiation aux o"
+            ]
+        }
+    },
+    "MRIE32-EAC: Ecoconception et Analyse du Cycle de vie": {
+        "fr": {
+            "eco-?conception": [
+                "ecoconception et analyse du cycle",
+                " les principes de l'ecoconception des produits   * et"
+            ]
+        }
+    },
+    "GC51-I-CLIMNAT: Risques Climatiques et Naturels": {
+        "fr": {
+            "risques? (?:lies? )?(?:au )?climat[^ ]+": [
+                "risques climatiques et naturels "
+            ]
+        }
+    },
+    "CFI51-ENV: Environnement": {
+        "fr": {
+            "[ecosyst[^ ]+, pollution]": [
+                "re industriel   * l'ecosysteme terre  cycles globa",
+                "ment planetaire   * pollution atmospherique   * r",
+                "tment   atmospheric pollution   wastes   legal as"
+            ]
+        }
+    }
+}

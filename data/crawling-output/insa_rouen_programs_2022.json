@@ -1,0 +1,4684 @@
+[
+  {
+    "id": "Premier cycle ing\u00e9nieur",
+    "name": "Premier cycle ing\u00e9nieur",
+    "cycles": [
+      "L3",
+      "M1",
+      "M2"
+    ],
+    "url": "https://www.insa-rouen.fr/formation/premier-cycle-ingenieur/programme-de-la-specialite",
+    "teaching_units": [
+      {
+        "id": "STPI11-SF1",
+        "name": "UE Sciences Fondamentales 1",
+        "ects": 11,
+        "courses": [
+          "STPI11-M2",
+          "STPI11-I1",
+          "STPI11-CCN",
+          "STPI11-M1",
+          "STPI11-math-sout"
+        ],
+        "semester": 1
+      },
+      {
+        "id": "STPI11-SF2",
+        "name": "UE Sciences Fondamentales 2",
+        "ects": 11,
+        "courses": [
+          "STPI11-P2-1",
+          "STPI11-P3",
+          "STPI11-C1",
+          "STPI11-Remed-P3",
+          "STPI11-phys-sout",
+          "STPI11-P2SIB",
+          "STPI11-C1- soutien "
+        ],
+        "semester": 1
+      },
+      {
+        "id": "STPI11-STI",
+        "name": "UE Sciences Technologie pour l'Ing\u00e9nieur",
+        "ects": null,
+        "courses": [
+          "STPI11-CTI"
+        ],
+        "semester": 1
+      },
+      {
+        "id": "STPI11-HUMA1",
+        "name": "UE UE Humanit\u00e9s 1",
+        "ects": 8,
+        "courses": [
+          "H-11-ALL-DEB-STPI",
+          "H-11-COM-STPI",
+          "H-11-ANG-STPI",
+          "H-11-ALL-STPI",
+          "H-11-ESP-STPI",
+          "H-11-APS-STPI",
+          "H-11-ESP-DEB-STPI",
+          "H-11-FLE-STPI",
+          "H-11-ANG-STPI-SIB",
+          "H-121-SME-CHOR-ECAO",
+          "H-121-SME-INSTR-ECAO",
+          "H-121-SDE-ECAO",
+          "H-121-STE-JOUER-ECAO",
+          "H-121-STE-SPECT-ECAO",
+          "H-121-SME-ORCH-ECAO",
+          "H-121-SME-MUSI-ECAO",
+          "H-121-VEE-ECAO"
+        ],
+        "semester": 1
+      },
+      {
+        "id": "STPI12-SF3",
+        "name": "UE Sciences Fondamentales 3",
+        "ects": 10,
+        "courses": [
+          "STPI12-M4",
+          "STPI12-math-sout",
+          "STPI12-M5",
+          "STPI12-I2",
+          "STPI12-I2- soutien "
+        ],
+        "semester": 2
+      },
+      {
+        "id": "STPI12-SF4",
+        "name": "UE Sciences Fondamentales 4",
+        "ects": 8,
+        "courses": [
+          "STPI12-P1-1",
+          "STPI12-P2-2",
+          "STPI12-P2SIB",
+          "STPI12-C2",
+          "STPI12-P4-1",
+          "STPI12-C2- soutien ",
+          "STPI12-phys-sout"
+        ],
+        "semester": 2
+      },
+      {
+        "id": "STPI12-STI",
+        "name": "UE Sciences Technologie pour l'Ing\u00e9nieur",
+        "ects": 5,
+        "courses": [
+          "STPI12-APP",
+          "STPI12-CTI",
+          "STPI12-CTP1"
+        ],
+        "semester": 2
+      },
+      {
+        "id": "STPI12-HUM2",
+        "name": "UE UE Humanit\u00e9s  2",
+        "ects": 7,
+        "courses": [
+          "H-122-VEE-ECAO",
+          "H-12-ALL-STPI",
+          "H-12-ALL-DEB-STPI",
+          "H-12-ANG-STPI",
+          "H-12-ANG-STPI-SIB",
+          "H-12-APS-STPI",
+          "H-12-ESP-DEB-STPI",
+          "H-12-FLE-STPI",
+          "H-122-SAPE-ECAO",
+          "H-122-SDE-ECAO",
+          "H-122-SIE-VIDEO-STPI",
+          "H-122-SME-CHOR-ECAO",
+          "H-122-SME-INSTR-ECAO",
+          "H-122-STE-INIT-ECAO",
+          "H-122-STE-JOUER-ECAO",
+          "H-122-STE-SPECT-ECAO",
+          "H-12-ESP-STPI",
+          "H-122-SME-MUSI-ECAO",
+          "H-122-SME-ORCH-ECAO",
+          "H-122-SIE-CGC-ECAO"
+        ],
+        "semester": 2
+      },
+      {
+        "id": "STPI21-SF5",
+        "name": "UE Sciences Fondamentales 5",
+        "ects": 10,
+        "courses": [
+          "STPI21-M3",
+          "STPI21-M6",
+          "STPI21-Prj Info",
+          "STPI21-Prj Math"
+        ],
+        "semester": 3
+      },
+      {
+        "id": "STPI21-SF6",
+        "name": "UE Sciences Fondamentales 6",
+        "ects": 11,
+        "courses": [
+          "STPI21-P4-2",
+          "STPI21-P5",
+          "STPI21-T1",
+          "STPI21-C3",
+          "STPI21-P1-2",
+          "STPI11-C1- soutien "
+        ],
+        "semester": 3
+      },
+      {
+        "id": "STPI21-STI2",
+        "name": "UE Sciences et Technologies pour l'Ing\u00e9nieur 2",
+        "ects": 3,
+        "courses": [
+          "STPI21-ADM",
+          "STPI21-Stage-Exe",
+          "STPI21-Stage-Exe-2A"
+        ],
+        "semester": 3
+      },
+      {
+        "id": "STPI21-HUM3",
+        "name": "UE UE Humanit\u00e9s 3",
+        "ects": 6,
+        "courses": [
+          "H-21-ANG-STPI",
+          "H-21-ANG-STPI-SIB",
+          "H-21-APS-STPI",
+          "H-21-ESP-STPI",
+          "H-21-ALL-STPI",
+          "H-21-FLE-STPI",
+          "H2-SPORT-ETUD-STPI",
+          "H-21-ESP-Deb-STPI",
+          "H-21-ALL-DEB-STPI",
+          "H-121-SME-ORCH-ECAO",
+          "H-121-SME-CHOR-ECAO",
+          "H-122-SIE-VIDEO-STPI",
+          "H-121-SDE-ECAO",
+          "H-21-SIE-PHOTO-STPI",
+          "H-21-SIE-VIDEO-STPI",
+          "H-121-STE-JOUER-ECAO",
+          "H-121-STE-SPECT-ECAO",
+          "H-121-VEE-ECAO",
+          "H-121-SME-MUSI-ECAO"
+        ],
+        "semester": 3
+      },
+      {
+        "id": "STPI22-Spe1",
+        "name": "UE UE de Sp\u00e9cialit\u00e9 1",
+        "ects": 12,
+        "courses": [
+          "STPI22-CS1",
+          "STPI22-CTI 2",
+          "STPI22-CS2",
+          "STPI22-GC",
+          "STPI22-I3",
+          "STPI22-M7",
+          "STPI22-M8",
+          "STPI22-M9",
+          "STPI22-P8",
+          "STPI22-P9",
+          "STPI22-I4",
+          "STPI22-MAO",
+          "STPI22-P10",
+          "STPI22-CO",
+          "STPI22-CTI 3",
+          "STPI22-M10"
+        ],
+        "semester": 4
+      },
+      {
+        "id": "STPI22-Spe2",
+        "name": "UE UE de Sp\u00e9cialit\u00e9 2",
+        "ects": 10,
+        "courses": [
+          "STPI22-TIPNE",
+          "STPI22-P6",
+          "STPI22-I3",
+          "STPI22-M8",
+          "STPI22-CS1",
+          "STPI22-CS2",
+          "STPI22-P9",
+          "STPI22-M7",
+          "STPI22-M9",
+          "STPI22-P8",
+          "STPI22-CTI 2",
+          "STPI22-TIPNE-tut",
+          "STPI22-M10",
+          "STPI22-Bridge"
+        ],
+        "semester": 4
+      },
+      {
+        "id": "STPI22-HUM4",
+        "name": "UE UE Humanit\u00e9s 4",
+        "ects": 8,
+        "courses": [
+          "H2-SPORT-ETUD-STPI",
+          "H-22-ALL-STPI",
+          "H-22-ANG-STPI",
+          "H-22-ESP-STPI",
+          "H-22-FLE-STPI",
+          "H-22-APS-STPI",
+          "H-22-COM-STPI",
+          "H-22-ANG-CULT-STPI",
+          "H-22-ESP-Deb-STPI",
+          "H-22-ALL-DEB-STPI",
+          "H-22-ALL-ENERG-STPI",
+          "H-122-ESP-STPI-LV3",
+          "H-122-ITA-STPI-LV3",
+          "H-122-PORT-STPI-LV3",
+          "H-122-SAPE-ECAO",
+          "H-122-SDE-ECAO",
+          "H-122-SME-CHOR-ECAO",
+          "H-122-SME-ORCH-ECAO",
+          "H-122-STE-SPECT-ECAO",
+          "H-122-STE-INIT-ECAO",
+          "H-122-SIE-CGC-ECAO",
+          "H-122-SIE-VIDEO-STPI",
+          "H-122-VEE-ECAO",
+          "H-122-STE-JOUER-ECAO",
+          "H-122-ANG-REM-ECAO",
+          "H-122-CHI-STPI-LV3",
+          "H-122-SME-MUSI-ECAO",
+          "H-2342-FLE-THEM-ECAO"
+        ],
+        "semester": 4
+      }
+    ],
+    "ects": 120
+  },
+  {
+    "id": "Performance num\u00e9rique industrielle",
+    "name": "Performance num\u00e9rique industrielle",
+    "cycles": [
+      "L3",
+      "M1",
+      "M2"
+    ],
+    "url": "https://www.insa-rouen.fr/formation/specialites-ingenieurses/performance-numerique-industrielle",
+    "teaching_units": [
+      {
+        "id": "PF-NI31 M1",
+        "name": "UE Sciences fondamentales",
+        "ects": 10,
+        "courses": [
+          "PF-NI31 B1_SM1",
+          "PF-NI31 B1_SM2",
+          "PF-NI31 B1_SM3",
+          "PF-NI31 B1_SM4",
+          "PF-NI31 B1_SM5"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "PF-NI31 M2",
+        "name": "UE Sciences appliqu\u00e9es \u00e0 la sp\u00e9cialit\u00e9",
+        "ects": 10,
+        "courses": [
+          "PF-NI31 B2_SMMA1",
+          "PF-NI31 B2_SMMA2",
+          "PF-NI31 B2_SMMA3",
+          "PF-NI31 B2_SMMA4",
+          "PF-NI31 B2_SMMA5"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "PF-NI31 M5",
+        "name": "UE Management de projet",
+        "ects": 1,
+        "courses": [
+          "PF-NI31 B5_SMMA1"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "PF-NI31 M7",
+        "name": "UE Anglais et Culture Internationale",
+        "ects": 1,
+        "courses": [
+          "PF-NI31 B7_SMMA1"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "PF-NI31 EXPE",
+        "name": "UE Exp\u00e9rience dans l'entreprise",
+        "ects": 8,
+        "courses": [
+          "PF-NI31 EXPE"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "PF-NI32 M1",
+        "name": "UE Sciences fondamentales",
+        "ects": 10,
+        "courses": [
+          "PF-NI32 B1_SM6",
+          "PF-NI32 B1_SM7",
+          "PF-NI32 B1_SM9",
+          "PF-NI32 B1_SM10"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "PF-NI32 M2",
+        "name": "UE Sciences appliqu\u00e9es \u00e0 la sp\u00e9cialit\u00e9",
+        "ects": 5,
+        "courses": [
+          "PF-NI32 B2_SMMA6",
+          "PF-NI32 B2_MA2",
+          "PF-NI32 B2_MA1",
+          "PF-NI32 B2_SM1",
+          "PF-NI32 B2_SM2",
+          "PF-NI32 B2_SMMA7"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "PF-NI32 M4",
+        "name": "UE Sciences de l'entreprise",
+        "ects": 1,
+        "courses": [
+          "PF-NI32 B4_SMMA1"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "PF-NI32 M5",
+        "name": "UE Management de projet",
+        "ects": 2,
+        "courses": [
+          "PF-NI32 B5_SMMA4"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "PF-NI32 M6",
+        "name": "UE Soft skills",
+        "ects": 1,
+        "courses": [
+          "PF-NI32 B6-SMMA1"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "PF-NI32 M7",
+        "name": "UE Anglais et Culture Internationale",
+        "ects": 2,
+        "courses": [
+          "PF-NI32 B7_SMMA1"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "PF-NI32 EXPE",
+        "name": "UE Exp\u00e9rience dans l'entreprise",
+        "ects": 9,
+        "courses": [
+          "PF-NI32 EXPE"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "PF-NI41 M2",
+        "name": "UE Sciences appliqu\u00e9es \u00e0 la sp\u00e9cialit\u00e9",
+        "ects": 5,
+        "courses": [
+          "PF-NI41 B1_SM8",
+          "PF-NI41 B2_MA3",
+          "PF-NI41 B2_MA4",
+          "PF-NI41 B2_SM3",
+          "PF-NI41 B2_SM4"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "PF-NI41 M3",
+        "name": "UE Ing\u00e9nierie des syst\u00e8mes num\u00e9riques 4.0",
+        "ects": 7,
+        "courses": [
+          "PF-NI41 B3_SMMA1",
+          "PF-NI41 B3_MA2",
+          "PF-NI41 B3_SM1",
+          "PF-NI41 B3_MA1",
+          "PF-NI41 B3_SM2",
+          "PF-NI41 B3_MA3",
+          "PF-NI41 B3_SM3"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "PF-NI41 M4",
+        "name": "UE Sciences de l'entreprise",
+        "ects": 3,
+        "courses": [
+          "PF-NI41 B4_SMMA3",
+          "PF-NI41 B4_SMMA"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "PF-NI41 M5",
+        "name": "UE Management de projet",
+        "ects": 1,
+        "courses": [
+          "PF-NI41 B5_SMMA4"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "PF-NI41 M6",
+        "name": "UE Soft skills",
+        "ects": 3,
+        "courses": [
+          "PF-NI41 B6_SMMA2",
+          "PF-NI41 B6_SMMA3",
+          "PF-NI41 B6_SMMA4"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "PF-NI41 M7",
+        "name": "UE Anglais et Culture Internationale",
+        "ects": 1,
+        "courses": [
+          "PF-NI41 B7_SMMA1"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "PF-NI41 EXPE",
+        "name": "UE Exp\u00e9rience dans l'entreprise",
+        "ects": 9,
+        "courses": [
+          "PF-NI41 EXPE"
+        ],
+        "semester": 7
+      }
+    ],
+    "ects": 89
+  },
+  {
+    "id": "G\u00e9nie \u00e9nerg\u00e9tique (parcours EP)",
+    "name": "G\u00e9nie \u00e9nerg\u00e9tique (parcours EP)",
+    "cycles": [
+      "L3",
+      "M1",
+      "M2"
+    ],
+    "url": "https://www.insa-rouen.fr/formation/specialites-ingenieurses/genie-energetique-parcours-energetique-et-propulsion",
+    "teaching_units": [
+      {
+        "id": "EP41-EFT3",
+        "name": "UE Energie, fluide et transferts 3",
+        "ects": 10,
+        "courses": [
+          "EP41-TFTR",
+          "EP41-TPTH",
+          "EP41-COMB",
+          "EP41-2PHAS 1"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "EP41-FLUID",
+        "name": "UE M\u00e9canique des Fluides",
+        "ects": 9,
+        "courses": [
+          "EP41-TMACH 1",
+          "EP41-DYNGAZ",
+          "EP41-AERO ",
+          "EP41-TURB"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "EP41-SPI3",
+        "name": "UE Sciences pour l'Ing\u00e9nieur 3",
+        "ects": 6,
+        "courses": [
+          "EP41-MAIL ",
+          "EP41-SNE",
+          "EP41-CAO",
+          "EP41-STAT"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "EP41-HUMA3",
+        "name": "UE Humanit\u00e9s 3",
+        "ects": 4,
+        "courses": [
+          "H-41-ANG-EP",
+          "H-41-APS-EP",
+          "EP41-INSAJOB",
+          "H-41-ANG-TEST-TOEIC",
+          "H-41-ALL-EP-MECA",
+          "H-3451-ALL-DEB1",
+          "H-41-ESP-EP-MECA",
+          "H-41-ESP-DPT-DEB",
+          "H-41-ANG-PREP-TOEIC",
+          "H-451-FLE-EP",
+          "H-3451-VEE-ECAO",
+          "H3451-SME-ORCH-ECAO",
+          "H-3451-ALL-DEB2"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "EP42-SPI4",
+        "name": "UE Sciences pour l'ing\u00e9nieur",
+        "ects": 11,
+        "courses": [
+          "EP42-MAT",
+          "EP42-AUTO",
+          "EP42-THSTAT",
+          "EP42-TMACH2",
+          "EP42-CONF",
+          "EP42-VIB",
+          "EP42-2PHAS"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "EP42-PIE4",
+        "name": "UE Projet Insa Entreprise",
+        "ects": 12,
+        "courses": [
+          "EP42-PIE"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "EP42-HUMA4",
+        "name": "UE Humanit\u00e9s",
+        "ects": 7,
+        "courses": [
+          "H-42-ANG-EP",
+          "H-42-APS-EP",
+          "H-42-GRH-EP",
+          "H-42-ANG-TEST-TOEIC",
+          "H-342-JAP-DEB-ECAO",
+          "H-342-TCI-ECAO",
+          "H-342-PHILO&SC-ECAO",
+          "H-342-HIST&G\u00c9OP-ECAO",
+          "H-342-ITA-DEB-ECAO",
+          "H-342-STE-INIT-ECAO",
+          "H-342-SIGN-ECAO",
+          "H-342-ARAB-DEB-ECAO",
+          "H-3451-VEE-ECAO",
+          "H-342-SME-CHOR-ECAO",
+          "H-342-ANG-CIVI-ECAO"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "EP51-ED-SYST",
+        "name": "UE Syst\u00e8mes Energ\u00e9tiques Utilisation de l'Energie",
+        "ects": 9,
+        "courses": [
+          "EP51-ED-ENB",
+          "EP51-ED-TP",
+          "EP51-ED-ACOU",
+          "EP51-ED-ENBTP"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "EP51-ED-REEE",
+        "name": "UE R\u00e9gulation, Economie de l'Energie Environnement",
+        "ects": 5,
+        "courses": [
+          "EP51-ED-POL",
+          "EP51-ED-MEE",
+          "EP51-ED-ACV",
+          "EP51-ED-BC",
+          "EP51-ED-CHAUD"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "EP51-ED-PT",
+        "name": "UE Production - Transformation",
+        "ects": 8,
+        "courses": [
+          "EP51-ED-BIOM",
+          "EP51-ED-EOLE ",
+          "EP51-ED-SOLA",
+          "EP51-ED-GEO",
+          "EP51-ELP",
+          "EP51-ED-FROID"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "EP51-SPEC",
+        "name": "UE Stage de Specialite  juin-septembre",
+        "ects": 4,
+        "courses": [
+          "EP51-SPEC"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "EP51-SP-PROP",
+        "name": "UE Ingenierie de la Propulsion",
+        "ects": 7,
+        "courses": [
+          "EP51-ELP",
+          "EP51-SP-NVH",
+          "EP51-SP-LES/DNS",
+          "EP51-SP-CFD"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "EP51-SP-AERO",
+        "name": "UE Propulsion aeronautique",
+        "ects": 7,
+        "courses": [
+          "EP51-SP-TBREA2",
+          "EP51-SP-TBREA1",
+          "EP51-SP-COMB-T"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "EP51-SP-AUTO",
+        "name": "UE Propulsion automobile",
+        "ects": 8,
+        "courses": [
+          "EP51-ATOM",
+          "EP51-SP-TP",
+          "EP51-SP-COMB",
+          "EP51-SP-PROPELEC"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "EP51-SP-CONF-UE",
+        "name": "UE Conferences Moteurs",
+        "ects": 4,
+        "courses": [
+          "EP51-SP-CONF",
+          "H-51-ANG-TOEIC",
+          "H-51-ANG-INSA5"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "EP51-SPEC",
+        "name": "UE Stage de Specialite  juin-septembre",
+        "ects": 4,
+        "courses": [
+          "EP51-SPEC"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "EP52-STAGEING",
+        "name": "UE Stage Ing\u00e9nieur",
+        "ects": 30,
+        "courses": [
+          "EP52 -INGE"
+        ],
+        "semester": 10
+      },
+      {
+        "id": "EP52-STAGEING",
+        "name": "UE Stage Ing\u00e9nieur",
+        "ects": 30,
+        "courses": [
+          "EP52 -INGE"
+        ],
+        "semester": 10
+      }
+    ],
+    "ects": 175
+  },
+  {
+    "id": "Performance en innovation et s\u00e9curit\u00e9 des proc\u00e9d\u00e9s",
+    "name": "Performance en innovation et s\u00e9curit\u00e9 des proc\u00e9d\u00e9s",
+    "cycles": [
+      "L3",
+      "M1",
+      "M2"
+    ],
+    "url": "https://www.insa-rouen.fr/formation/specialites-ingenieurses/performance-en-innovation-et-securite-des-procedes",
+    "teaching_units": [
+      {
+        "id": "PERF-ISP31-ISP",
+        "name": "UE Ing\u00e9nierie de la S\u00e9curit\u00e9 des Proc\u00e9d\u00e9s",
+        "ects": 4,
+        "courses": [
+          "PF-ISP32-NUC1",
+          "PF-ISP31-BESST",
+          "PF-ISP31-SARI1",
+          "PF-ISP31-HSE",
+          "PF-ISP31-SPC"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "PERF-ISP31-GP",
+        "name": "UE G\u00e9nie des Proc\u00e9d\u00e9s",
+        "ects": 5,
+        "courses": [
+          "PF-ISP31-MF1",
+          "PF-ISP31-BIL",
+          "PF-ISP31-OU1",
+          "PF-ISP31-TT1"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "PERF-ISP31-SING",
+        "name": "UE Sciences pour l'Ing\u00e9nieur",
+        "ects": 6,
+        "courses": [
+          "PF-ISP31-MATH1",
+          "PF-ISP31-MENU1",
+          "PF-ISP31-STAT1",
+          "PF-ISP31-CG1",
+          "PF-ISP31-PID"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "PERF-ISP31-HUM",
+        "name": "UE Humanit\u00e9s",
+        "ects": 5,
+        "courses": [
+          "PF-ISP31-ANG",
+          "PF-ISP31-INNOV",
+          "PF-ISP31-ANG-R",
+          "PF-ISP31-APS"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "PERF-ISP31-ENT",
+        "name": "UE Exp\u00e9rience dans l'entreprise",
+        "ects": 10,
+        "courses": [
+          "PF-ISP31-EXPE",
+          "PF-ISP31-TPERSO"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "PERF-ISP32-GP",
+        "name": "UE G\u00e9nie des Proc\u00e9d\u00e9s",
+        "ects": 5,
+        "courses": [
+          "PF-ISP32-MF2",
+          "PF-ISP32-GRC1",
+          "PF-ISP32-OU2",
+          "PF-ISP32-TT2"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "PERF-ISP32-ISP",
+        "name": "UE Ing\u00e9nierie de la S\u00e9curit\u00e9 des Proc\u00e9d\u00e9s",
+        "ects": 4,
+        "courses": [
+          "PF-ISP32-SARI2",
+          "PF-ISP32-STAT2",
+          "PF-ISP31-SPC",
+          "PF-ISP31-HSE",
+          "PF-ISP32-NUC1"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "PERF-ISP32-SING",
+        "name": "UE Sciences pour l'Ing\u00e9nieur",
+        "ects": 4,
+        "courses": [
+          "PF-ISP32-MATH2",
+          "PF-ISP32-MSP1",
+          "PF-ISP32-SCD"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "PERF-ISP32-HUM",
+        "name": "UE Humanit\u00e9s",
+        "ects": 7,
+        "courses": [
+          "PF-ISP32-GPRO",
+          "PF-ISP32-ANG",
+          "PF-ISP32-GSF1",
+          "PF-ISP32-GSF2",
+          "PF-ISP32-ANG-S",
+          "PF-ISP32-ANG-R",
+          "PF-ISP32-NEGO",
+          "PF-ISP32-ON"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "PERF-ISP32-ENT",
+        "name": "UE Exp\u00e9rience dans l'entreprise",
+        "ects": 10,
+        "courses": [
+          "PF-ISP32-EXPE",
+          "PF-ISP32-TPERSO"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "PERF-ISP41-GP",
+        "name": "UE G\u00e9nie des Proc\u00e9d\u00e9s",
+        "ects": 8,
+        "courses": [
+          "PF-ISP41-TCHIM",
+          "PF-ISP41-THERMO",
+          "PF-ISP41-TPGP",
+          "PF-ISP41-CINTRANS"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "PERF-ISP41-ISP",
+        "name": "UE Ing\u00e9nierie de la S\u00e9curit\u00e9 des Proc\u00e9d\u00e9s",
+        "ects": 5,
+        "courses": [
+          "PF-ISP41-NUC2",
+          "PF-ISP41-AIC1",
+          "PF-ISP41-CT",
+          "PF-ISP41-GRSC"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "PERF-ISP41-HUM",
+        "name": "UE Humanit\u00e9s",
+        "ects": 7,
+        "courses": [
+          "PF-ISP41-ANG",
+          "PF-ISP41-ANG-S",
+          "PF-ISP41-TOEIC",
+          "PF-ISP41-DTGRH",
+          "PF-ISP41-IE1"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "PERF-ISP41-ENT",
+        "name": "UE Exp\u00e9rience dans l'entreprise",
+        "ects": 10,
+        "courses": [
+          "PF-ISP41-EXPE",
+          "PF-ISP41-TPERSO"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "PERF-ISP42-GP",
+        "name": "UE G\u00e9nie des Proc\u00e9d\u00e9s",
+        "ects": 5,
+        "courses": [
+          "PF-ISP42-GRC2",
+          "PF-ISP42-THI",
+          "PF-ISP42-MSP3",
+          "PF-ISP42-MSP2"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "PERF-ISP42-ISP",
+        "name": "UE Ing\u00e9nierie de la S\u00e9curit\u00e9 des Proc\u00e9d\u00e9s",
+        "ects": 6,
+        "courses": [
+          "PF-ISP42-AIC2",
+          "PF-ISP42-GC",
+          "PF-ISP42-TPSECU",
+          "PF-ISP42-ARI",
+          "PF-ISP42-GAR"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "PERF-ISP42-SING",
+        "name": "UE Sciences pour l'Ing\u00e9nieur",
+        "ects": 6,
+        "courses": [
+          "PF-ISP42-AUTO",
+          "PF-ISP42-ANA",
+          "PF-ISP42-TPANA",
+          "PF-ISP42-INTEREX",
+          "PF-ISP42-ECL",
+          "PF-ISP42-IG",
+          "PF-ISP42-GE",
+          "PF-ISP42-NEGO"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "PERF-ISP42-HUM",
+        "name": "UE Humanit\u00e9s",
+        "ects": 3,
+        "courses": [
+          "PF-ISP42-ANG",
+          "PF-ISP42-ANG-S",
+          "PF-ISP42-COM"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "PERF-ISP42-ENT",
+        "name": "UE Exp\u00e9rience dans l'entreprise",
+        "ects": 10,
+        "courses": [
+          "PF-ISP42-EXPE",
+          "PF-ISP42-TPERSO"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "PERF-ISP51-GP",
+        "name": "UE G\u00e9nie des Proc\u00e9d\u00e9s",
+        "ects": 10,
+        "courses": [
+          "PF-ISP51-PRORECH",
+          "PF-ISP51-INTENS",
+          "PF-ISP51-EVALECO",
+          "PF-ISP51-MF3",
+          "PF-ISP51-TPGP2",
+          "PF-ISP51-MSP4"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "PERF-ISP51-ISP",
+        "name": "UE Ingenierie de la S\u00e9curit\u00e9 des Proc\u00e9d\u00e9s",
+        "ects": 5,
+        "courses": [
+          "PF-ISP51-DIMPRO",
+          "PF-ISP51-MODI",
+          "PF-ISP51-DAPOL ",
+          "PF-ISP51-CYBERSEC "
+        ],
+        "semester": 9
+      },
+      {
+        "id": "PERF-ISP51-HUM",
+        "name": "UE Humanit\u00e9s",
+        "ects": 5,
+        "courses": [
+          "PF-ISP51-ANG",
+          "PF-ISP51-GC "
+        ],
+        "semester": 9
+      },
+      {
+        "id": "PERF-ISP51-ENT",
+        "name": "UE Experiences en Entreprises",
+        "ects": 10,
+        "courses": [
+          "PF-ISP51-EXPE",
+          "PF-ISP51-TPERSO"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "PERF-ISP52-EXP",
+        "name": "UE Experiences en Entreprises",
+        "ects": 30,
+        "courses": [
+          "PF-ISP52-EXPE"
+        ],
+        "semester": 10
+      }
+    ],
+    "ects": 180
+  },
+  {
+    "id": "Performance \u00e9nerg\u00e9tique",
+    "name": "Performance \u00e9nerg\u00e9tique",
+    "cycles": [
+      "L3",
+      "M1",
+      "M2"
+    ],
+    "url": "https://www.insa-rouen.fr/formation/specialites-ingenieurses/performance-energetique",
+    "teaching_units": [
+      {
+        "id": "PERF-E31-ENERG",
+        "name": "UE ENERGIE 1",
+        "ects": 5,
+        "courses": [
+          "PF-E31-TP1A1",
+          "PF-E31-MF1",
+          "PF-E31-THERMO1",
+          "PF-E31-MF2",
+          "PF-E31-TFT1"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "PERF-E31-CONST",
+        "name": "UE CONSTRUCTION 1",
+        "ects": 3,
+        "courses": [
+          "PF-E31-STRUCT1",
+          "PF-E31-MATCO",
+          "PF-E31-CDAO"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "PERF-E31-SI",
+        "name": "UE SCIENCES POUR  L'INGENIEUR 1",
+        "ects": 5,
+        "courses": [
+          "PF-E31-MATH",
+          "PF-E31-INFO",
+          "PF-E31-ANUM",
+          "PF-E31-RESEA",
+          "PF-E31-ISE"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "PERF-E31-HUMA",
+        "name": "UE HUMANITES 1",
+        "ects": 5,
+        "courses": [
+          "PF-E31-ANG",
+          "PF-E31-GSF1",
+          "PF-E31-GSF2",
+          "PF-E31-APS",
+          "PF-E31-INDIV",
+          "PF-E31-VISIT1",
+          "PF-E31-ANG-R"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "PERF-E31-EXPE31",
+        "name": "UE EXPERIENCE DANS L'ENTREPRISE 1",
+        "ects": 10,
+        "courses": [
+          "PF-E31-EXPE"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "PERF-E32-CONST",
+        "name": "UE CONSTRUCTION 2",
+        "ects": 3,
+        "courses": [
+          "PF-E32-STRUCT2",
+          "PF-E32-COST",
+          "PF-E32-BCAR"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "PERF-E32-SI",
+        "name": "UE SCIENCES POUR  L'INGENIEUR 2",
+        "ects": 5,
+        "courses": [
+          "PF-E32-TSIC",
+          "PF-E32-VBA",
+          "PF-E32-TPEA",
+          "PF-E32-AUTO"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "PERF-E32-HUMA",
+        "name": "UE HUMANITES 2",
+        "ects": 6,
+        "courses": [
+          "PF-E32-GPROJ",
+          "PF-E32-GESTION",
+          "PF-E32-ANG-S",
+          "PF-E32-ANG",
+          "PF-E32-ANG-R",
+          "PF-E32-INDIV"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "PERF-E32-EXPE32",
+        "name": "UE EXPERIENCE DANS L'ENTREPRISE",
+        "ects": 10,
+        "courses": [
+          "PF-E32-EXPE"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "PERF-E32-ENERG",
+        "name": "UE ENERGIE 2",
+        "ects": 6,
+        "courses": [
+          "PF-E32-THERMO2",
+          "PF-E32-TP1A2",
+          "PF-E32-BTHH",
+          "PF-E32-P2D"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "PERF-E41-ENERG",
+        "name": "UE ENERGIE 3",
+        "ects": 6,
+        "courses": [
+          "PF-E41-ENBAT1",
+          "PF-E41-TP2A1",
+          "PF-E41-GSE",
+          "PF-E41-FROID",
+          "PF-E41-TFT2"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "PERF-E41-CONST",
+        "name": "UE CONSTRUCTION 3",
+        "ects": 4,
+        "courses": [
+          "PF-E41-GTECH",
+          "PF-E41-CSTRUCT",
+          "PF-E41-BIM"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "PERF-E41-SC.ING",
+        "name": "UE SCIENCES POUR L INGENIEUR 3",
+        "ects": 2,
+        "courses": [
+          "PF-E41-INFO2",
+          "PF-E41-GTB"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "PERF-E41-HUMA",
+        "name": "UE HUMANITES 3",
+        "ects": 7,
+        "courses": [
+          "PF-E41-ANG",
+          "PF-E41-GRH",
+          "PF-E41-INGFI",
+          "PF-E41-TOEIC",
+          "PF-E41-QUA",
+          "PF-E41-ANG-S",
+          "PF-E41-VISIT2",
+          "PF-E41-INDIV"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "PERF-E41-EXPER",
+        "name": "UE EXPERIENCE DANS L ENTREPRISE",
+        "ects": 10,
+        "courses": [
+          "PF-E41-EXPE"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "PERF-E42-ENERG",
+        "name": "UE ENERGIE 4",
+        "ects": 6,
+        "courses": [
+          "PF-E42-TP2A2",
+          "PF-E42-COMB",
+          "PF-E42-ENBAT2",
+          "PF-E42-IPMVP",
+          "PF-E42-DRC"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "PERF-E42-CONST",
+        "name": "UE CONSTRUCTION 4",
+        "ects": 6,
+        "courses": [
+          "PF-E42-TECHNO",
+          "PF-E42-TPC1",
+          "PF-E42-ACOU",
+          "PF-E42-ECOCON"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "PERF-E42-SC.ING",
+        "name": "UE SCIENCES POUR L'INGENIEUR 4",
+        "ects": 4,
+        "courses": [
+          "PF-E42-ENPU",
+          "PF-E42-MAINT",
+          "PF-E42-CFD"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "PERF-E42-EXPE",
+        "name": "UE EXPERIENCE DANS L ENTREPRISE",
+        "ects": 10,
+        "courses": [
+          "PF-E42-EXPE"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "PERF-E42-HUMA",
+        "name": "UE HUMANITES 4",
+        "ects": 4,
+        "courses": [
+          "PF-E42-ANG-S",
+          "PF-E42-GEC",
+          "PF-E42-ANG",
+          "PF-E42-INDIV",
+          "PF-E42-CHIF",
+          "PF-E42-EXAMEN TOEIC"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "PERF-E51-CONST",
+        "name": "UE CONSTRUCTION 5",
+        "ects": 5,
+        "courses": [
+          "PF-E51-CONSTD",
+          "PF-E51-URBA"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "PERF-E51-ENERG",
+        "name": "UE ENERGIE 5",
+        "ects": 9,
+        "courses": [
+          "PF-E51-TURB",
+          "PF-E51-DMC",
+          "PF-E51-TAIR",
+          "PF-E51-RGENV",
+          "PF-E51-GEO",
+          "PF-E51-BIOM",
+          "PF-E51-MEE",
+          "PF-E51-SOLA"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "PERF-E51-HUMA",
+        "name": "UE HUMANITES 5",
+        "ects": 5,
+        "courses": [
+          "PF-E51-CONF",
+          "PF-E51-RECH",
+          "PF-E51-VISIT3",
+          "PF-E51-ANG",
+          "PF-E51-INDIV"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "PERF-E51-EXPER",
+        "name": "UE EXPERIENCE DANS L'ENTREPRISE",
+        "ects": 10,
+        "courses": [
+          "PF-E51-EXPE"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "PERF-E52-EXPER",
+        "name": "UE EXPERIENCE DANS L'ENTREPRISE",
+        "ects": 30,
+        "courses": [
+          "PF-E52-EXPE"
+        ],
+        "semester": 10
+      }
+    ],
+    "ects": 176
+  },
+  {
+    "id": "Performance industrielle et innovation",
+    "name": "Performance industrielle et innovation",
+    "cycles": [
+      "L3",
+      "M1",
+      "M2"
+    ],
+    "url": "https://www.insa-rouen.fr/formation/specialites-ingenieurses/performance-industrielle-et-innovation",
+    "teaching_units": [
+      {
+        "id": "PERF-II31-MECA",
+        "name": "UE MECANIQUE",
+        "ects": 6,
+        "courses": [
+          "PF-II31-MSI",
+          "PF-II31-CAO1",
+          "PF-II31-RMAT",
+          "PF-II31-PFA"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "PERF-II31-MI",
+        "name": "UE METHODES INDUSTRIELLES",
+        "ects": 3,
+        "courses": [
+          "PF-II31-PCM",
+          "PF-II31-GPROJ",
+          "PF-II31-AMC",
+          "PF-II31-MSP",
+          "PF-II31-GRI"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "PERF-II31-SI",
+        "name": "UE SCIENCES POUR L'INGENIEUR",
+        "ects": 3,
+        "courses": [
+          "PF-II31-MATH1",
+          "PF-II31-INFO",
+          "PF-II31-MATH2"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "PERF-II31-HUMA",
+        "name": "UE HUMANITES",
+        "ects": 5,
+        "courses": [
+          "PF-II31-ANG",
+          "PF-II31-GSF1",
+          "PF-II31-ANGR",
+          "PF-II31-GSF2",
+          "PF-II31-APS"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "PERF-II31-INNO",
+        "name": "UE INNOVATION  (parcours innovent-e)",
+        "ects": 2,
+        "courses": [
+          "PF-II31-CRI",
+          "PF-II31-48H"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "PERF-II31-AUTRE",
+        "name": "UE AUTRE",
+        "ects": null,
+        "courses": [
+          "PF-II31-INDIV",
+          "PF-II31-VISIT"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "PERF-II31-EXPER",
+        "name": "UE EXPERIENCE DANS L'ENTREPRISE",
+        "ects": 10,
+        "courses": [
+          "PF-II31-EXPE"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "PERF-II32-MECA",
+        "name": "UE MECANIQUE",
+        "ects": 5,
+        "courses": [
+          "PF-II32-MAT",
+          "PF-II32-BE1",
+          "PF-II32-PFAB",
+          "PF-II32-MF1"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "PERF-II32-MI",
+        "name": "UE METHODES INDUSTRIELLES",
+        "ects": 4,
+        "courses": [
+          "PF-II32-LEAN",
+          "PF-II32-GPROD",
+          "PF-II32-SEC"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "PERF-II32-SI",
+        "name": "UE SCIENCES POUR L'INGENIEUR",
+        "ects": 4,
+        "courses": [
+          "PF-II32-ELEC",
+          "PF-II32-INFO"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "PERF-II32-HUMA",
+        "name": "UE HUMANITES",
+        "ects": 4,
+        "courses": [
+          "PF-II32-GESTION",
+          "PF-II32-ANGR",
+          "PF-II32-RTOEIC",
+          "PF-II32-ANG2"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "PERF-II32-INNO",
+        "name": "UE INNOVATION  (parcours innovent-e)",
+        "ects": 2,
+        "courses": [
+          "PF-II32-MKI"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "PERF-II32-AUTRE",
+        "name": "UE AUTRE",
+        "ects": null,
+        "courses": [
+          "PF-II32-INDIV",
+          "PF-II32-VISIT"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "PERF-II32-EXPER",
+        "name": "UE EXPERIENCE DANS L'ENTREPRISE",
+        "ects": 10,
+        "courses": [
+          "PF-II32-EXPE"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "PERF-II41-MECA",
+        "name": "UE MECANIQUE",
+        "ects": 6,
+        "courses": [
+          "PF-II41-MSTRUC",
+          "PF-II41-MFLU2",
+          "PF-II41-MMC",
+          "PF-II41-MEXP ",
+          "PF-II41-FA1"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "PERF-II41-MI",
+        "name": "UE METHODES INDUSTRIELLES",
+        "ects": 4,
+        "courses": [
+          "PF-II41-GP2",
+          "PF-II41-DESIGN",
+          "PF-II41-IST",
+          "PF-II41-SACH",
+          "PF-II41-PLEX"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "PERF-II41-SI",
+        "name": "UE SCIENCES POUR L'INGENIEUR",
+        "ects": 2,
+        "courses": [
+          "PF-II41-MATH2",
+          "PF-II41-INFO2"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "PERF-II41-HUMA",
+        "name": "UE HUMANITES",
+        "ects": 5,
+        "courses": [
+          "PF-II41-ANG3",
+          "PF-II41-ANGL-SL",
+          "PF-II41-PTOEIC",
+          "PF-II41-MAGT",
+          "PF-II41-COM"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "PERF-II41-INNO",
+        "name": "UE INNOVATION",
+        "ects": 2,
+        "courses": [
+          "PF-II41-PRIN",
+          "PF-II41-INNOV"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "PERF-II41-AUTRE",
+        "name": "UE AUTRE",
+        "ects": null,
+        "courses": [
+          "PF-II41-VISIT",
+          "PF-II41-INDIV"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "PERF-II41-EXPER",
+        "name": "UE EXPERIENCE DANS L'ENTREPRISE",
+        "ects": 10,
+        "courses": [
+          "PF-II41-EXPE"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "PERF-II42-MECA",
+        "name": "UE MECANIQUE",
+        "ects": 5,
+        "courses": [
+          "PF-II42-FAO1",
+          "PF-II42-VIB",
+          "PF-II42-MAT"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "PERF-II42-MI",
+        "name": "UE METHODES INDUSTRIELLES",
+        "ects": 4,
+        "courses": [
+          "PF-II42-6SIG",
+          "PF-II42-MSP ",
+          "PF-II42-QUA"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "PERF-II42-SI",
+        "name": "UE SCIENCES POUR L'INGENIEUR",
+        "ects": 3,
+        "courses": [
+          "PF-II42-AUTO"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "PERF-II42-HUMA",
+        "name": "UE HUMANITES",
+        "ects": 3,
+        "courses": [
+          "PF-II42-ANG4",
+          "PF-II42-ANG-S",
+          "PF-II42-GRH"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "PERF-II42-INNO",
+        "name": "UE INNOVATION",
+        "ects": 3,
+        "courses": [
+          "PF-II42-RCE",
+          "PF-II42-MIE"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "PERF-II42-AUTRE",
+        "name": "UE AUTRE",
+        "ects": null,
+        "courses": [
+          "PF-II42-VISIT",
+          "PF-II42-INDIV"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "PERF-II42-EXPER",
+        "name": "UE EXPERIENCE DANS L'ENTREPRISE",
+        "ects": 10,
+        "courses": [
+          "PF-II42-EXPE"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "PERF-II51-MECA",
+        "name": "UE M\u00e9canique",
+        "ects": 8,
+        "courses": [
+          "PF-II51 FIAB",
+          "PF-II51 MMFL",
+          "PF-II51 MNUM",
+          "PF-II51 FABADD",
+          "PF-II51 MSYS"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "PERF-II51-MN",
+        "name": "UE M\u00e9thodes Industrielles",
+        "ects": 5,
+        "courses": [
+          "PF-II51 NEGO",
+          "PF-II51 ERP",
+          "PF-II51 SCM",
+          "PF-II51 IR"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "PERF-II51-HUMA",
+        "name": "UE Humanit\u00e9s",
+        "ects": 4,
+        "courses": [
+          "PF-II51 ANG7",
+          "PF-II51 MI",
+          "PF-II51 ANG8",
+          "PF-II51 EXAMEN TOEIC"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "PERF-II51-INNOV",
+        "name": "UE Innovation",
+        "ects": 2,
+        "courses": [
+          "PF-II51 CCHG",
+          "PF-II51 VIE"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "PERF-II51-AUTRE",
+        "name": "UE AUTRE",
+        "ects": null,
+        "courses": [
+          "PF-II51 INDIV",
+          "PF-II51-VISIT"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "PERF-II51-EXPER",
+        "name": "UE EXPERIENCE DANS L ENTREPRISE",
+        "ects": 10,
+        "courses": [
+          "PF-II51 EXPE"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "PERF-II52-EXPER",
+        "name": "UE EXPERIENCE DANS L ENTREPRISE",
+        "ects": 10,
+        "courses": [
+          "PF-II52 EXPE"
+        ],
+        "semester": 10
+      }
+    ],
+    "ects": 154
+  },
+  {
+    "id": "Math\u00e9matiques appliqu\u00e9es",
+    "name": "Math\u00e9matiques appliqu\u00e9es",
+    "cycles": [
+      "L3",
+      "M1",
+      "M2"
+    ],
+    "url": "https://www.insa-rouen.fr/formation/specialites-ingenieurses/mathematiques-appliquees",
+    "teaching_units": [
+      {
+        "id": "GM31_MMSN",
+        "name": "UE UE Mod\u00e9lisation Math\u00e9matique et Simulation Num\u00e9rique",
+        "ects": 8,
+        "courses": [
+          "GMAT31-MMSN-CalSc",
+          "GMAT31-MMSN-AnaNum",
+          "GMAT31-MMSN-AnaFonc"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "GM31_MSRO",
+        "name": "UE UE Mod\u00e9lisation Stochastique et Recherche Op\u00e9rationnelle",
+        "ects": 7,
+        "courses": [
+          "GMAT31-MSRO-Proba",
+          "GMAT31-MSRO-OD",
+          "GMAT31-MSRO-Mesures"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "GM31_INFO",
+        "name": "UE UE Informatique",
+        "ects": 6,
+        "courses": [
+          "GMAT31-Soutien-C",
+          "GMAT31-Soutien-Algo",
+          "GMAT31-INFO-C",
+          "GMAT31-INFO-Algo"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "GM31_Proj-Stage",
+        "name": "UE UE Projets-Stages",
+        "ects": 3,
+        "courses": [
+          "GMAT31-Stage-RAN",
+          "GMAT31-PROJET1"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "GM31_Hum",
+        "name": "UE UE Humanit\u00e9s",
+        "ects": 5,
+        "courses": [
+          "H-31-GSF-GM",
+          "H-31-APS-GM",
+          "H-31-ANG-GM",
+          "H-31-ALL-ASI-GM",
+          "H-31-ESP-GM",
+          "H-3451-FLE-GM",
+          "H-31-COM-GM",
+          "H-3451-ALL-DEB1",
+          "H-31-ESP-DPT-DEB",
+          "H3451-SDE-ECAO",
+          "H-3451-VEE-ECAO",
+          "H3451STE-JOUER-ECAO",
+          "H3451-SME-CHOR-ECAO"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "GM32_MMSN",
+        "name": "UE UE Mod\u00e9lisation Math\u00e9matique et Simulation Num\u00e9rique",
+        "ects": 9,
+        "courses": [
+          "GMAT32-MMSN-AnaNum",
+          "GMAT32-MMSN-AlgoNum",
+          "GMAT32-MMSN-EqDif"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "GM32_MSRO",
+        "name": "UE UE Mod\u00e9lisation Stochastique et Recherche Op\u00e9rationnelle",
+        "ects": 9,
+        "courses": [
+          "GMAT32-MSRO-AD",
+          "GMAT32-MSRO-Stat",
+          "GMAT32-MSRO-Sign"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "GM32_Info",
+        "name": "UE UE Informatique",
+        "ects": 5,
+        "courses": [
+          "GMAT32-INFO-S&R",
+          "GMAT32-INFO-ProgObj"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "GM32_Hum",
+        "name": "UE UE Humanit\u00e9s",
+        "ects": 4,
+        "courses": [
+          "H-32-GSF-GM",
+          "H-32-ANG-GM",
+          "H-32-APS-GM",
+          "H-32-ESP-GM",
+          "H-32-ALL-ASI-GM",
+          "H-342-FLE-GM"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "GM32_Projets",
+        "name": "UE UE Projets",
+        "ects": 3,
+        "courses": [
+          "GMAT32-PROJET2"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "GM41_MMSN",
+        "name": "UE UE Mod\u00e9lisation Math\u00e9matique et Simulation Num\u00e9rique",
+        "ects": 6,
+        "courses": [
+          "GMAT41-MMSN-EDP",
+          "GMAT41-MMSN-MNEDP1",
+          "GMAT41-MMSN-OptLin",
+          "GMAT41-St-calcul-f"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "GM41_MSRO",
+        "name": "UE UE Mod\u00e9lisation stochastique et Recherche Op\u00e9rationnelle",
+        "ects": 6,
+        "courses": [
+          "GMAT41-MSRO-Stat",
+          "GMAT41-MSRO-Mark",
+          "GMAT41-MSRO-Sign"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "GM41_Info",
+        "name": "UE UE Informatique",
+        "ects": 6,
+        "courses": [
+          "GMAT41-INFO-AlStrD",
+          "GMAT41-INFO-POA"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "GM41_Ouvert.Pro",
+        "name": "UE UE Ouverture professionnelle",
+        "ects": 8,
+        "courses": [
+          "GMAT41-PROJET1",
+          "GMAT41-Stage-Tech",
+          "GM41-INSAJOB"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "GM41_Hum",
+        "name": "UE UE Humanit\u00e9s",
+        "ects": 4,
+        "courses": [
+          "H-41-ANG-GM",
+          "H-41-ANG-TEST-TOEIC",
+          "H-41-GSF-GM",
+          "H-41-APS-GM",
+          "H-41-ANG-PREP-TOEIC",
+          "H-41-ALL-GM",
+          "H-41-ESP-GM",
+          "H-3451-FLE-GM",
+          "H3451-SME-INSTR-ECAO",
+          "H-3451-ALL-DEB1",
+          "H-3451-ALL-DEB2",
+          "H-3451-VEE-ECAO",
+          "H3451STE-SPECT-ECAO",
+          "H3451-SME-ORCH-ECAO",
+          "H3451-SME-MUSI-ECAO"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "GM42_MMSN",
+        "name": "UE UE Mod\u00e9lisation Math\u00e9matique et Simulation Num\u00e9rique",
+        "ects": 4,
+        "courses": [
+          "GMAT42-MMSN-ADG",
+          "GMAT42-MMSN-MNEDP2"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "GM42_MSRO",
+        "name": "UE UE Mod\u00e9lisation Stochastique et Recherche Op\u00e9rationnelle",
+        "ects": 6,
+        "courses": [
+          "GMAT42-MSRO-OpCom",
+          "GMAT42-MSRO-Auto",
+          "GMAT42-MSRO-ML"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "GM42_Info",
+        "name": "UE UE Informatique",
+        "ects": 6,
+        "courses": [
+          "GMAT42-INFO-BdD",
+          "GMAT42-INFO-C++"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "GM42_Ouvert.Pro",
+        "name": "UE UE Ouverture professionnelle",
+        "ects": 10,
+        "courses": [
+          "GMAT42-MMSN-CalDif",
+          "GMAT42-INFO-AnLex",
+          "GMAT42-PROJET2",
+          "GMAT42-Ouverture"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "GM42_Hum",
+        "name": "UE UE Humanit\u00e9s",
+        "ects": 4,
+        "courses": [
+          "H-42-ANG-GM",
+          "H-42-ENV-FINAN-GM",
+          "H-42-APS-GM"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "GM51_Sc.",
+        "name": "UE UE Scientifique",
+        "ects": 16,
+        "courses": [
+          "GMAT51-Sc-AML",
+          "GMAT51-Sc-ContOpt",
+          "GMAT51-Sc-SFin",
+          "GMAT51-Sc-MH",
+          "GMAT51-Sc-MIAS",
+          "GMAT51-Sc-P-Log",
+          "GMAT51-Sc-RVA",
+          "GMAT51-Sc-EqHam",
+          "GMAT51-Sc-CalFor",
+          "GMAT51-Sc-SysDyn",
+          "GMAT51-Sc-MetVar",
+          "GMAT51-Sc-CalPar",
+          "GMAT51-Sc-RNL",
+          "GMAT51-Sc-Crypt",
+          "GMAT51-Sc-OptimRes",
+          "GMAT51-Sc-PbIA",
+          "GMAT51-Sc-SMA",
+          "GMAT51-Sc-XAI",
+          "GMAT51-Sc-MSN",
+          "GMAT51-Sc-OptimGD",
+          "GMAT51-M-MFA",
+          "GMAT51-M-SID",
+          "GMAT51-Sc-ModAppPPI",
+          "GMAT51-Sc-AutoNLin",
+          "GMAT51-M-ITA",
+          "GMAT51-M-SSI",
+          "GMAT51-M-AIMAF",
+          "GMAT51-Sc-MNAEO",
+          "ASI51-ASTI"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "GM51_Huma",
+        "name": "UE UE Humanit\u00e9s",
+        "ects": 2,
+        "courses": [
+          "H-51-MANAG-GM",
+          "H-51-ENV-FINAN-GM",
+          "H-51-ANG-INSA5",
+          "H-51-ANG-TOEIC",
+          "H3451-SME-INSTR-ECAO"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "GM51_PFE",
+        "name": "UE UE Projet de fin d'\u00e9tudes",
+        "ects": 12,
+        "courses": [
+          "GMAT51-PROJETPFE"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "GM51_StageSpe",
+        "name": "UE UE Stage de Sp\u00e9cialit\u00e9",
+        "ects": 4,
+        "courses": [
+          "GMAT51-Stage-Spe"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "GM52_StageIng",
+        "name": "UE UE Stage Ing\u00e9nieur",
+        "ects": 30,
+        "courses": [
+          "GMAT52-Stage-Ing"
+        ],
+        "semester": 10
+      }
+    ],
+    "ects": 183
+  },
+  {
+    "id": "M\u00e9canique",
+    "name": "M\u00e9canique",
+    "cycles": [
+      "L3",
+      "M1",
+      "M2"
+    ],
+    "url": "https://www.insa-rouen.fr/formation/specialites-ingenieurses/mecanique",
+    "teaching_units": [
+      {
+        "id": "MECA31-HUMA",
+        "name": "UE Humanit\u00e9s",
+        "ects": 7,
+        "courses": [
+          "H-31-GP-MECA",
+          "H-31-ANG-MECA",
+          "H-31-APS-MECA",
+          "H-31-GSF-MECA",
+          "MECA3451-CONF",
+          "H-31-ESP-DPT-DEB",
+          "H-31-ALL-EP-MECA",
+          "H-31-ESP-MECA",
+          "H-31-FLE-EP-MECA",
+          "H-3451-ALL-DEB1",
+          "H-3451-ALL-DEB2",
+          "H3451-SDE-ECAO",
+          "H-3451-VEE-ECAO",
+          "H3451-SME-ORCH-ECAO",
+          "H3451-SME-MUSI-ECAO"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "MECA31-MAT&PRO",
+        "name": "UE Mat\u00e9riaux et Proc\u00e9d\u00e9s",
+        "ects": 7,
+        "courses": [
+          "MECA31-LC1",
+          "MECA31-PROC2",
+          "MECA31-TPPROC",
+          "MECA31-PMAT",
+          "MECA31-PROC1"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "MECA31-MMD",
+        "name": "UE M\u00e9canique des Milieux D\u00e9formables",
+        "ects": 8,
+        "courses": [
+          "MECA31-MMC",
+          "MECA31-CSCS1",
+          "MECA31-FLUID",
+          "MECA31-MEXP"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "MECA31-SMC",
+        "name": "UE Syst\u00e8mes M\u00e9caniques et Commandes",
+        "ects": 8,
+        "courses": [
+          "MECA31-INFO1",
+          "MECA31-PAM",
+          "MECA31-TPBE",
+          "MECA31-BE1"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "MECA31-RN",
+        "name": "UE MECA Remise \u00e0 niveau",
+        "ects": null,
+        "courses": [
+          "MECA31-RANINFO",
+          "MECA31-RANMATH",
+          "MECA31-RANBE",
+          "MECA31-RANRDM"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "MECA32-OPM",
+        "name": "UE Outils Pour la Mod\u00e9lisation",
+        "ects": 11,
+        "courses": [
+          "MECA32-TPROBOT",
+          "MECA32-INFO2",
+          "MECA32-MNUM1",
+          "MECA32-AIRFOIL",
+          "MECA32-CAO",
+          "MECA32-SFAO",
+          "MECA32-CSCS2",
+          "MECA3452-CONF"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "MECA32-FDM",
+        "name": "UE Fondamentaux De la M\u00e9canique",
+        "ects": 11,
+        "courses": [
+          "MECA32-MGEN",
+          "MECA32-VIB",
+          "MECA32-TPVIB",
+          "MECA32-GASDYN",
+          "MECA32-BLAYER",
+          "MECA32-RDM"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "MECA32-HUMA",
+        "name": "UE Humanit\u00e9s",
+        "ects": 8,
+        "courses": [
+          "H-32-GSF-MECA",
+          "H-32-ANG-MECA",
+          "H-32-APS-MECA",
+          "MECA32-INNO4.0",
+          "H-32-ALL-EP-MECA",
+          "H-32-ESP-MECA",
+          "H-32-FLE-EP-MECA",
+          "H-32-ESP-DPT-DEB",
+          "H-342-ALL-DEB1",
+          "H-32-COM-MECA",
+          "H-342-ALL-DEB2"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "MECA41-HUMA",
+        "name": "UE Humanit\u00e9s",
+        "ects": 6,
+        "courses": [
+          "H-41-APS-MECA",
+          "H-41-ANG-MECA",
+          "H-41-GSF-MECA",
+          "H-41-ANG-TEST-TOEIC",
+          "H-41-ANG-PREP-TOEIC",
+          "MECA41-INSAJOB",
+          "H-41-ESP-EP-MECA",
+          "H-41-ESP-DPT-DEB",
+          "H-41-ALL-EP-MECA",
+          "H-451-FLE-MECA",
+          "H-3451-ALL-DEB1",
+          "H-3451-ALL-DEB2",
+          "H3451-SME-ORCH-ECAO",
+          "H-3451-VEE-ECAO"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "MECA41-TECH&MAT",
+        "name": "UE TECHnologie et MAT\u00e9riaux",
+        "ects": 12,
+        "courses": [
+          "MECA41-CMCO",
+          "MECA41-TMP",
+          "MECA41-TPTMP",
+          "MECA41-PCFR1",
+          "MECA41-ISDM",
+          "MECA41-TPMAT",
+          "MECA41-BE2",
+          "MECA41-SCOMP"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "MECA41-CANUM",
+        "name": "UE Calcul Num\u00e9rique",
+        "ects": 12,
+        "courses": [
+          "MECA41-MVAR",
+          "MECA41-OPTI",
+          "MECA41-CSCF",
+          "MECA41-MODSYS",
+          "MECA41-MNUM2"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "MECA51-SP",
+        "name": "UE EXPERIENCE EN ENTREPRISE",
+        "ects": 4,
+        "courses": [
+          "MECA51-Stage-Spe"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "MECA42-HUMA",
+        "name": "UE Humanit\u00e9s",
+        "ects": 8,
+        "courses": [
+          "H-42-ANG-MECA",
+          "H-42-APS-MECA",
+          "H-42-QUAL-MECA ",
+          "H-42-ANG-TEST-TOEIC"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "MECA42-SYST",
+        "name": "UE Syst\u00e8mes",
+        "ects": 6,
+        "courses": [
+          "MECA42-SAP",
+          "MECA42-SNUM",
+          "MECA42-PCFR2",
+          "MECA42-SCL"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "MECA42-ONA",
+        "name": "UE Outils Num\u00e9riques Avanc\u00e9s",
+        "ects": 9,
+        "courses": [
+          "MECA42-MASD",
+          "MECA42-FAT",
+          "MECA42-MNUM3",
+          "MECA42-INFO3"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "MECA42-OUV",
+        "name": "UE UE d'ouverture",
+        "ects": 7,
+        "courses": [
+          "MECA42-METHO",
+          "MECA42-HEAT",
+          "MECA42-FABADD",
+          "MECA42-SPRAY",
+          "MECA42-SNST",
+          "MECA42-SNDS",
+          "MECA42-SNSO",
+          "MECA42-LC2",
+          "MECA42-TURB"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "MECA51-HUMA",
+        "name": "UE Humanites",
+        "ects": 2,
+        "courses": [
+          "MECA51-LEAN",
+          "MECA51-MRCS",
+          "H-51-ANG-INSA5",
+          "H-51-ANG-TOEIC",
+          "H3451-SME-CHOR-ECAO"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MECA51-PSI",
+        "name": "UE PROJET SCIENTIFIQUE ET D'INNOVATION",
+        "ects": 8,
+        "courses": [
+          "MECA51-PSI",
+          "MECA3451-CONF",
+          "M21-IC-PSI"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MECA51-SP",
+        "name": "UE EXPERIENCE EN ENTREPRISE",
+        "ects": 4,
+        "courses": [
+          "MECA51-Stage-Spe"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MECA51-1",
+        "name": "UE UE \u00e0 choix - 1",
+        "ects": 4,
+        "courses": [
+          "MECA51-PROBA",
+          "MECA51-VIBAL",
+          "MECA51-FAST",
+          "MECA51-ROBOT",
+          "MECA51-MTNIC1",
+          "MECA51-MTNIC2",
+          "MECA51-AERO",
+          "MECA51-SPACE",
+          "MECA51-ROAD",
+          "MECA51-PROCESS"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MECA51-2",
+        "name": "UE UE \u00e0 choix - 2",
+        "ects": 4,
+        "courses": [
+          "MECA51-ECCO",
+          "M21-IC-MCI",
+          "M21-IC-MEC",
+          "MECA51-FIA",
+          "MECA51-CFD",
+          "MECA51-HOCFD",
+          "MECA51-MLEARN ",
+          "MECA51-LBM",
+          "MECA51-PROPUL",
+          "MECA51-WIND",
+          "M21-IC-CBI",
+          "MECA51-BIOP",
+          "MECA51-CMI"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MECA51-3",
+        "name": "UE UE \u00e0 choix - 3",
+        "ects": 5,
+        "courses": [
+          "MECA51-MPA",
+          "MECA51-IDSG",
+          "MECA51-ARC",
+          "MECA51-INTER",
+          "MECA51-IAM",
+          "MECA51-DYNA ",
+          "MECA51-AFM",
+          "MECA51-AGD",
+          "MECA51-NOISE",
+          "MECA51-FSI",
+          "MECA51-ERP"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MECA51-4",
+        "name": "UE UE \u00e0 choix - 4",
+        "ects": 3,
+        "courses": [
+          "MECA51-DYNAE",
+          "MECA51-RETRO",
+          "MECA51-CNP",
+          "MECA51-MODEL",
+          "MECA51-TURBUL"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MECA51-CPRO",
+        "name": "UE CONTRAT DE PROFESSIONNALISATION",
+        "ects": 12,
+        "courses": [
+          "MECA51-CPRO"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MECA51-M-IC-MM",
+        "name": "UE MASTER MATERIAUX",
+        "ects": 12,
+        "courses": [
+          "MECA51-M-IC-MAT"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MECA52-SI",
+        "name": "UE EXPERIENCE EN ENTREPRISE",
+        "ects": 30,
+        "courses": [
+          "MECA52-Stage-Ing",
+          "CPRO52-SEM",
+          "MECA52-CPRO"
+        ],
+        "semester": 10
+      },
+      {
+        "id": "MECA52-SI",
+        "name": "UE EXPERIENCE EN ENTREPRISE",
+        "ects": 30,
+        "courses": [
+          "MECA52-Stage-Ing",
+          "CPRO52-SEM",
+          "MECA52-CPRO"
+        ],
+        "semester": 10
+      }
+    ],
+    "ects": 238
+  },
+  {
+    "id": "Informatique et technologie de l'information",
+    "name": "Informatique et technologie de l'information",
+    "cycles": [
+      "L3",
+      "M1",
+      "M2"
+    ],
+    "url": "https://www.insa-rouen.fr/formation/specialites-ingenieurses/informatique-et-technologie-de-linformation",
+    "teaching_units": [
+      {
+        "id": "ASI31-ACQSys1",
+        "name": "UE Acquisition et Syst\u00e8me1",
+        "ects": 7,
+        "courses": [
+          "ASI31-SE",
+          "ASI31-ELEC"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "ASI31-INFO1",
+        "name": "UE Informatique 1",
+        "ects": 7,
+        "courses": [
+          "ASI31-ALGO",
+          "ASI31-BD1",
+          "ASI31-RAN Info"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "ASI31-MathsING1",
+        "name": "UE Mathematiques pour l'ingenieur 1",
+        "ects": 8,
+        "courses": [
+          "ASI31-ANANUM",
+          "ASI31-TDS",
+          "ASI31-RAN Maths"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "ASI31-r\u00e9unions",
+        "name": "UE r\u00e9unions",
+        "ects": null,
+        "courses": [
+          "ASI31-Reunion"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "ASI31-Huma",
+        "name": "UE Humanites",
+        "ects": 7,
+        "courses": [
+          "H-31-ANG-ASI",
+          "H-3451-FLE-ASI",
+          "H-31-GSF-ASI",
+          "H-31-APS-ASI",
+          "H-31-ALL-ASI-GM",
+          "H-31-ESP-ASI",
+          "H-341-ESP-ASI",
+          "H-31-ESP-DPT-DEB",
+          "H-3451-ALL-DEB1",
+          "H-3451-ALL-DEB2",
+          "H3451-SIE-VIDEO-ECAO",
+          "H3451-SME-CHOR-ECAO",
+          "H3451-SME-MUSI-ECAO",
+          "H-3451-VEE-ECAO"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "ASI32-ACQSys2",
+        "name": "UE Acquisition et Systeme 2",
+        "ects": 6,
+        "courses": [
+          "ASI32-CAPT",
+          "ASI32-PAO-AcqSys-1.5",
+          "ASI32-PAO-Python",
+          "ASI32-PAO-AcqSys-3",
+          "ASI32-AUTO",
+          "ASI32-PAO-RAN-BD",
+          "ASI32-PAO-RAN-MATH",
+          "ASI32-PAO-RAN-ALGO",
+          "ASI32-PAO-RAN-ANA",
+          "ASI32-PAO-RAN-TDS"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "ASI32-INFO2",
+        "name": "UE Informatique 2",
+        "ects": 10,
+        "courses": [
+          "ASI32-PROGAV",
+          "ASI32-COMPIL",
+          "ASI32-UMLP",
+          "ASI32-TW1"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "ASI32-MathsING2",
+        "name": "UE Math\u00e9matiques pour l'ing\u00e9nieur 2",
+        "ects": 7,
+        "courses": [
+          "ASI32-STAT",
+          "ASI32-TSA",
+          "ASI32-PAO-Maths2-1.5",
+          "ASI32-PAO-Python",
+          "ASI32-PAO-AcqSys-1.5",
+          "ASI32-PAO-RAN-ANA",
+          "ASI32-PAO-RAN-TDS"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "ASI32-Huma",
+        "name": "UE Humanites",
+        "ects": 7,
+        "courses": [
+          "H-32-ANG-ASI",
+          "H-32-APS-ASI",
+          "H-32-QUAL-ASI",
+          "H-32-DROIT-ASI",
+          "H-32-ALL-ASI-GM",
+          "H-32-ESP-ASI",
+          "H-32-ESP-DPT-DEB",
+          "H-32-FLE-ASI",
+          "H-342-ESP-ASI",
+          "H-342-ALL-DEB2",
+          "H-342-ALL-DEB1"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "ASI41-Spe1",
+        "name": "UE Specialite 1",
+        "ects": 9,
+        "courses": [
+          "ASI41-TI",
+          "ASI41-TIM",
+          "ASI41-RI"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "ASI41-Spe2",
+        "name": "UE Specialite 2",
+        "ects": 10,
+        "courses": [
+          "ASI41-RO",
+          "ASI41-IML",
+          "ASI41-BD2",
+          "ASI41-TW2",
+          "ASI41-OPTIM",
+          "ASI41-PAO-Spe2-3",
+          "ASI41-PAO-Spe2-1.5-A",
+          "ASI41-PAO-Python",
+          "ASI41-PAO-Spe2-1.5-B",
+          "ASI41-PAO-RAN-Algo",
+          "ASI41-PAO-RAN-ANANUM",
+          "ASI41-PAO-RAN-BD1",
+          "ASI41-PAO-RAN-TDS"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "ASI41-Huma",
+        "name": "UE Humanites",
+        "ects": 10,
+        "courses": [
+          "H-41-GP-ASI",
+          "H-41-GSF2-ASI",
+          "ASI41-MGPI",
+          "H-41-ANG-ASI",
+          "H-41-APS-ASI",
+          "H-41-ANG-TEST-TOEIC",
+          "H-41-ANG-PREP-TOEIC",
+          "H-41-ALL-ASI",
+          "H-3451-ALL-DEB1",
+          "H-41-ESP-ASI",
+          "H-41-ESP-DPT-DEB",
+          "H-3451-FLE-ASI",
+          "ASI41-INSAJOB",
+          "H-341-ESP-ASI",
+          "H-41-ESP-DPT-DEB",
+          "H3451-SIE-VIDEO-ECAO",
+          "H3451-SME-CHOR-ECAO"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "ASI41-INSAJOB",
+        "name": "UE INSA JOB",
+        "ects": null,
+        "courses": [
+          "ASI41-INSAJOB"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "ASI42-Spec",
+        "name": "UE Specialite",
+        "ects": 12,
+        "courses": [
+          "ASI42-DOC",
+          "ASI42-IR",
+          "ASI42-SV",
+          "ASI42-ML",
+          "ASI42-PAO-Spe4.5",
+          "ASI42-PAO-Python",
+          "ASI42-PAO-Spe1.5a",
+          "ASI42-PAO-SpeML",
+          "ASI42-PAO-Inforep",
+          "ASI42-PAO-Spe3a",
+          "ASI42-PAO-Spe3b",
+          "ASI42-PAO-Spe1.5b",
+          "ASI42-PAO-MasterSSI",
+          "ASI42-BGD"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "ASI42-Huma",
+        "name": "UE Humanites",
+        "ects": 4,
+        "courses": [
+          "H-42-ANG-ASI",
+          "H-42-APS-ASI",
+          "H-42-ANG-TEST-TOEIC"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "ASI42-PIC-Chef",
+        "name": "UE Projet INSA Certifie-Chef",
+        "ects": 16,
+        "courses": [
+          "ASI42-PIC-Meth-R\u00e9al",
+          "ASI42-PIC-Pil-Qual",
+          "ASI42-PIC-COM",
+          "ASI42-PIC-Cond-Proj"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "ASI42-PIC-Gr",
+        "name": "UE Projet INSA Certifie-Groupe",
+        "ects": 14,
+        "courses": [
+          "ASI42-PIC-Meth-R\u00e9al",
+          "ASI42-PIC-Pil-Qual",
+          "ASI42-PIC-COM"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "ASI51-Approf",
+        "name": "UE Approfondissement",
+        "ects": 2,
+        "courses": [
+          "ASI51-PAO-Appr-3a",
+          "ASI51-PAO-Appr-1.5a",
+          "ASI51-PAO-Appr-SEM",
+          "H-51-ANG-TOEIC",
+          "ASI51-PAO-Crypto-GM",
+          "ASI51-PAO-Python",
+          "ASI51-PAO-Appr-SID",
+          "ASI51-PAO-Appr-1.5b",
+          "H3451STE-SPECT-ECAO",
+          "H3451-SME-ORCH-ECAO",
+          "ASI51-PAO-Appr-4.5",
+          "ASI51-PAO-Appr-3b"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "ASI51-PIC-Chef",
+        "name": "UE Projet INSA Certifie-Chef",
+        "ects": 16,
+        "courses": [
+          "ASI51-PIC-Cond-Proj",
+          "ASI51-PIC-Meth-R\u00e9al",
+          "ASI51-PIC-Pil-Qual",
+          "ASI51-PIC-COM"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "ASI51-PIC-Gr",
+        "name": "UE Projet INSA Certifie-Groupe",
+        "ects": 14,
+        "courses": [
+          "ASI51-PIC-Meth-R\u00e9al",
+          "ASI51-PIC-Pil-Qual",
+          "ASI51-PIC-COM"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "ASI51-StageSpe",
+        "name": "UE Stage de specialite",
+        "ects": 4,
+        "courses": [
+          "ASI51-Stage Spe"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "ASI51-CMR",
+        "name": "UE Conferences Metiers et Recherche",
+        "ects": 1,
+        "courses": [
+          "ASI51-CMR"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "ASI51-Spec",
+        "name": "UE Specialite",
+        "ects": 10,
+        "courses": [
+          "ASI51-CASI",
+          "ASI51-ASTI",
+          "ASI51-APPC",
+          "ASI51-EDTS",
+          "ASI51-IHME",
+          "ASI51-SEM",
+          "ASI51-WOS",
+          "GMAT51-Sc-Crypt",
+          "GMAT51-Sc-OptimGD",
+          "GMAT51-Sc-OptimRes",
+          "GMAT51-Sc-RVA"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "ASI52-Profess",
+        "name": "UE Experience dans l'entreprise",
+        "ects": 15,
+        "courses": [
+          "ASI52-Profession-st",
+          "CPRO52-SEM"
+        ],
+        "semester": 10
+      },
+      {
+        "id": "ASI52-StageIng",
+        "name": "UE Stage Ingenieur",
+        "ects": 30,
+        "courses": [
+          "ASI52-Stage ing"
+        ],
+        "semester": 10
+      }
+    ],
+    "ects": 226
+  },
+  {
+    "id": "G\u00e9nie civil et urbain",
+    "name": "G\u00e9nie civil et urbain",
+    "cycles": [
+      "L3",
+      "M1",
+      "M2"
+    ],
+    "url": "https://www.insa-rouen.fr/formation/specialites-ingenieurses/genie-civil-et-urbain",
+    "teaching_units": [
+      {
+        "id": "GC31-MC",
+        "name": "UE Milieux Continus",
+        "ects": 7,
+        "courses": [
+          "GC31-ELAS",
+          "GC31-MECA-FLU",
+          "GC31-MAT-CONSTR"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "GC31-SI",
+        "name": "UE Sciences de l'Ing\u00e9nieur",
+        "ects": 5,
+        "courses": [
+          "GC31-METHNUM",
+          "GC31-INFORM"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "GC31-MecaStruc",
+        "name": "UE M\u00e9canique des Structures",
+        "ects": 5,
+        "courses": [
+          "GC31-DESSIN-BAT",
+          "GC31-Meca Struc1",
+          "GC31-Meca Struc2"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "GC31-GeoTech",
+        "name": "UE G\u00e9otechnique",
+        "ects": 5,
+        "courses": [
+          "GC31-APPBTP",
+          "GC31-TOPOGR",
+          "GC31-GEO-APPL"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "GC31-HUMA",
+        "name": "UE Humanites",
+        "ects": 7,
+        "courses": [
+          "H-341-FLE-GCCD",
+          "H-341-ALL-GCCD",
+          "H-31-GSH-GSF-GCCD",
+          "H-31-ANG-GCCD",
+          "H-341-ESP-GCCD",
+          "H-31-APS-GCCD",
+          "H-31-GSH-GP-GCCD"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "GC32-CONSTAPPL",
+        "name": "UE Construction Appliqu\u00e9e",
+        "ects": 8,
+        "courses": [
+          "GC32-MECASTR3",
+          "GC32-BET-ARME",
+          "GC32-Concepstruc"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "GC32-MODELCONST",
+        "name": "UE Mod\u00e9lisation et Construction",
+        "ects": 3,
+        "courses": [
+          "GC32-APPBTP",
+          "GC32-CAO",
+          "GC32-BIM"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "GC32-AMBIANCE",
+        "name": "UE Maitrise des Ambiances",
+        "ects": 4,
+        "courses": [
+          "GC32-Therm",
+          "GC32-ProjetArchi"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "GC32-HYDROGEO",
+        "name": "UE Hydraulique et G\u00e9otechnique",
+        "ects": 7,
+        "courses": [
+          "GC32-SOLS1",
+          "GC32-HYDRO"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "GC32-HUMA",
+        "name": "UE Humanit\u00e9s",
+        "ects": 7,
+        "courses": [
+          "H-32-ALL-GCCD",
+          "H-32-ANG-GCCD",
+          "H-32-APS-GCCD",
+          "H-342-FLE-GCCD",
+          "H-32-ESP-GCCD",
+          "H-32-GSH-GSF-GCCD",
+          "H-32-COM-GC",
+          "H-342-VEE-ECAO"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "GC41-CONSTR",
+        "name": "UE Construction et Energie",
+        "ects": 10,
+        "courses": [
+          "GC41-CONSTMETAL",
+          "GC41-TECHNO1",
+          "GC41-CONSTBOIS",
+          "GC41-BET-ARME",
+          "GC41-ENG-BAT"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "GC41-MODEL",
+        "name": "UE Mod\u00e9lisation",
+        "ects": 6,
+        "courses": [
+          "GC41-ELEM",
+          "GC41-DYN",
+          "GC41-PROBA"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "GC41-GeoTech",
+        "name": "UE G\u00e9otechnique",
+        "ects": 7,
+        "courses": [
+          "GC41-SOLS2",
+          "GC41-ROCHES",
+          "GC41-TECHROUT"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "GC41-HUMA",
+        "name": "UE Humanit\u00e9s",
+        "ects": 6,
+        "courses": [
+          "H-41-ANG-GCCD",
+          "H-341-ALL-GCCD",
+          "H-41-APS-GCCD",
+          "H-341-FLE-GCCD",
+          "H-41-GSH-ASH-GCCD",
+          "H-341-ESP-GCCD",
+          "H41-AN-PREP-TOEIC-GC",
+          "H41-AN-TEST-TOEIC-GC",
+          "GC41-INSAJOB",
+          "H-41-COM-GC",
+          "H-3451-VEE-ECAO"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "GC42-CONSTR",
+        "name": "UE Construction",
+        "ects": 7,
+        "courses": [
+          "GC42-BETON",
+          "GC42-OUV",
+          "GC42-CONSTMIX",
+          "GC42-TECHNO2",
+          "GC42-GENIPARA"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "GC42-AmbEco",
+        "name": "UE AMBIANCE ECO-construction",
+        "ects": 7,
+        "courses": [
+          "GC42-CDD",
+          "GC42-ACOUST",
+          "GC42-UrbaA"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "GC42-GeoTech",
+        "name": "UE G\u00e9otechnique",
+        "ects": 3,
+        "courses": [
+          "GC42-SOLS3",
+          "GC42-HYDRO",
+          "GC42-Proj"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "GC42-MODEL",
+        "name": "UE Mod\u00e9lisation",
+        "ects": 7,
+        "courses": [
+          "GC42-COMPNL",
+          "GC42-OPTI",
+          "GC42-CURV"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "GC42-HUMA",
+        "name": "UE Humanit\u00e9s",
+        "ects": 5,
+        "courses": [
+          "H-342-FLE-GCCD",
+          "H-42-Geo-GCCD",
+          "H-42-GSH-MPub-GCCD",
+          "H-42-ANG-GCCD",
+          "H-42-APS-GCCD",
+          "GCCD42-ECAO-Huma",
+          "H-342-VEE-ECAO"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "GC51-StageSpe",
+        "name": "UE Stage de Sp\u00e9cialit\u00e9",
+        "ects": 4,
+        "courses": [
+          "GC51-Stage Spe"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "GC51-U-PMM",
+        "name": "UE Physique du milieu marin",
+        "ects": 5,
+        "courses": [
+          "GC51-U-GEO",
+          "GC51-U-HOULE",
+          "GC51-U-SEDIM",
+          "GC51-U-PROJ"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "GC51-U-APC",
+        "name": "UE Am\u00e9nagement portuaires et cotiers",
+        "ects": 3,
+        "courses": [
+          "GC51-U-IO",
+          "GC51-U-NAV",
+          "GC51-U-GeoMarin",
+          "GC51-U-SEDCD"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "GC51-U-COM",
+        "name": "UE Conception des Ouvrages Maritimes",
+        "ects": 7,
+        "courses": [
+          "GC51-U-CSM",
+          "GC51-U-DIM",
+          "GC51-U-IFS",
+          "GC51-U-ISS",
+          "GC51-U-DROIT",
+          "GC51-U-MODENUM"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "GC51-U-APPROF",
+        "name": "UE Morphodynamique",
+        "ects": 2,
+        "courses": [
+          "GC51-U-LOGHY",
+          "GC51-U-PEMES"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "GC51-U-WMENERG",
+        "name": "UE Water and Marine Energy",
+        "ects": 5,
+        "courses": [
+          "GC51-U-MARENERG",
+          "GC51-U-OFFSHWE",
+          "GC51-U-OFFSTRUC",
+          "GC51-U-ENVIMRE",
+          "GC51-U-PJMAR"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "GC51-U-HUMA",
+        "name": "UE Humanit\u00e9s",
+        "ects": 3,
+        "courses": [
+          "GC51-U-ANG",
+          "GC51-U-PJ",
+          "GC51-U-GES"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "GC51-StageSpe",
+        "name": "UE Stage de Sp\u00e9cialit\u00e9",
+        "ects": 4,
+        "courses": [
+          "GC51-Stage Spe"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "GC51-I-SECOUV",
+        "name": "UE S\u00e9curit\u00e9s des ouvrages dans leurs environnements",
+        "ects": 6,
+        "courses": [
+          "GC51-I-CLIMNAT",
+          "GC51-I-ENV",
+          "GC51-I-GEOTECH"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "GC51-I-ISI",
+        "name": "UE Ing\u00e9nierie de la S\u00e9curit\u00e9 incendie",
+        "ects": 10,
+        "courses": [
+          "GC51-I-FEU",
+          "GC51-I-PROTECT",
+          "GC51-I-CMSFS",
+          "GC51-I-PSI1",
+          "GC51-I-PSI2"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "GC51-I-ISOE",
+        "name": "UE Ing\u00e9nierie de la s\u00e9curit\u00e9 stucturale des ouvrages",
+        "ects": 6,
+        "courses": [
+          "GC51-I-OEXPLO",
+          "GC51-I-IEXPLO",
+          "GC51-I-FIAB",
+          "GC51-I-FATI"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "GC51-I-Urbrisq",
+        "name": "UE Urbanisme et Risques",
+        "ects": 3,
+        "courses": [
+          "GC51-I-URBAI",
+          "GC51-I-URBAP",
+          "H-51-ANG-TOEIC"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "GC51-StageSpe",
+        "name": "UE Stage de Sp\u00e9cialit\u00e9",
+        "ects": 4,
+        "courses": [
+          "GC51-Stage Spe"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "GC52-StageIng",
+        "name": "UE Stage Ing\u00e9nieur",
+        "ects": 30,
+        "courses": [
+          "GC52-Stage Ing ",
+          "GC52-Stage IngV",
+          "GC52-Stage Ing CP"
+        ],
+        "semester": 10
+      }
+    ],
+    "ects": 208
+  },
+  {
+    "id": "Chimie et g\u00e9nie chimique",
+    "name": "Chimie et g\u00e9nie chimique",
+    "cycles": [
+      "L3",
+      "M1",
+      "M2"
+    ],
+    "url": "https://www.insa-rouen.fr/formation/specialites-ingenieurses/chimie-et-genie-chimique",
+    "teaching_units": [
+      {
+        "id": "CFI31-CHIMIE 1",
+        "name": "UE Sciences Chimiques",
+        "ects": 6,
+        "courses": [
+          "CFI31-TSP1",
+          "CFI31-COORD",
+          "CFI31-NUC1"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "CFI31-CHIMIE 2",
+        "name": "UE Sciences Chimiques 2",
+        "ects": 6,
+        "courses": [
+          "CFI31-SPECTRO",
+          "CFI31-ORGA1",
+          "CFI31-TCHIM"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "CFI31-HUMA",
+        "name": "UE Humanit\u00e9s",
+        "ects": 9,
+        "courses": [
+          "H-31-GSF-CFI",
+          "H-31-ANG-CFI-MRIE",
+          "H-31-APS-CFI",
+          "H-31-ALL-CFI-MRIE",
+          "H-3451-ALL-DEB1",
+          "H-31-ESP-CFI-MRI",
+          "H-31-ALL-CHIMIE-CFI",
+          "H-31-ESP-DPT-DEB",
+          "H-31-FLE-CFI-MRIE",
+          "H-31-CP-CFI",
+          "H3451-SME-CHOR-ECAO",
+          "H3451-SME-ORCH-ECAO",
+          "H3451STE-SPECT-ECAO",
+          "H-3451-VEE-ECAO"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "CFI31-INGE",
+        "name": "UE Sciences de l'Ing\u00e9nieur",
+        "ects": 6,
+        "courses": [
+          "CFI31-BTT",
+          "CFI31-GRC1",
+          "CFI31-TM",
+          "CFI31-ITS"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "CFI31-SCAPP",
+        "name": "UE Sciences appliqu\u00e9es",
+        "ects": 3,
+        "courses": [
+          "CFI31-BES&ST",
+          "CFI31-TPSPECTROCHRO",
+          "CFI31-TPMINE",
+          "CFI31-TPITS"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "CFI32-INGE",
+        "name": "UE Sciences de l'ing\u00e9nieur",
+        "ects": 6,
+        "courses": [
+          "CFI32-OUTM",
+          "CFI32-MF1",
+          "CFI32-ELECTRO"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "CFI32-CHIMIE",
+        "name": "UE Sciences Chimiques",
+        "ects": 5,
+        "courses": [
+          "CFI32-TSP2",
+          "CFI32-RMN",
+          "CFI32-CHRO"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "CFI32-HUMA",
+        "name": "UE Humanit\u00e9s",
+        "ects": 7,
+        "courses": [
+          "H-32-ANG-CFI-MRIE",
+          "H-32-APS-CFI",
+          "H-32-GP-CFI",
+          "H-32-ESP-DPT-DEB",
+          "H-32-ALL-CFI-MRIE",
+          "H-32-ESP-CFI-MRI",
+          "H-32-FLE-CFI-MRIE",
+          "H-342-ALL-DEB2"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "CFI32-OUVERT",
+        "name": "UE Ouverture et Personnalisation",
+        "ects": 1,
+        "courses": [
+          "CFI32-OMI1",
+          "CFI32-RAI"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "CFI32-SCAPP",
+        "name": "UE Sciences appliqu\u00e9es (travaux pratiques)",
+        "ects": 6,
+        "courses": [
+          "CFI32-TPORGA1",
+          "CFI32-POLTP1",
+          "CFI32-TPANALYSE"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "CFI32-MINE",
+        "name": "UE Chimie Min\u00e9rale",
+        "ects": 5,
+        "courses": [
+          "CFI32-MAT1a",
+          "CFI32-NUC2",
+          "CFI32-CRISTAL"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "CFI41-CHIMIE",
+        "name": "UE Sciences chimiques",
+        "ects": 6,
+        "courses": [
+          "CFI41-ANAMACRO",
+          "CFI41-FORMUL1",
+          "CFI41-ORGA2"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "CFI41-HUMA",
+        "name": "UE Humanit\u00e9s",
+        "ects": 6,
+        "courses": [
+          "H-41-ANG-CFI-MRIE",
+          "H-41-APS-CFI",
+          "H-41-GSF-CFI",
+          "H-41-ANG-PREP-TOEIC",
+          "H-41-ANG-TEST-TOEIC",
+          "H-41-ALL-CFI-MRIE",
+          "H-3451-ALL-DEB1",
+          "H-41-ESP-CFI-MRI",
+          "H-41-ESP-DPT-DEB",
+          "H-451-FLE-CFI-MRIE",
+          "H3451-SME-CHOR-ECAO",
+          "H3451-SME-ORCH-ECAO",
+          "H3451STE-SPECT-ECAO",
+          "H-3451-VEE-ECAO"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "CFI41-INGE",
+        "name": "UE Science de l'ing\u00e9nieur",
+        "ects": 4,
+        "courses": [
+          "CFI41-AUTO1",
+          "CFI41-INTEREX",
+          "CFI41-MAT1b"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "CFI41-OUVER",
+        "name": "UE Ouverture",
+        "ects": 6,
+        "courses": [
+          "CFI41-RMN2",
+          "CFI41-NUC3",
+          "CFI41-OMI2",
+          "CFI41-GRC2",
+          "CFI41-INSAJOB",
+          "CFI41-NUM1",
+          "CFI41-Stage Tech"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "CFI41-SCAPP",
+        "name": "UE Sciences appliqu\u00e9es (travaux pratiques)",
+        "ects": 8,
+        "courses": [
+          "CFI41-FORMUL2(TP)",
+          "CFI41-BES&ST",
+          "CFI41-TPMAT1",
+          "CFI41-TPORGA2",
+          "CFI41-TPAUTO1"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "CFI42-HUMA",
+        "name": "UE Humanit\u00e9s",
+        "ects": 4,
+        "courses": [
+          "H-42-ANG-CFI-MRIE",
+          "H-42-APS-CFI",
+          "H-42-ANG-TEST-TOEIC"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "CFI42-OUVERT",
+        "name": "UE UE d'ouverture et de personnalisation",
+        "ects": 7,
+        "courses": [
+          "CFI42-MECAPOL",
+          "CFI42-OCS",
+          "CFI42-OMI3",
+          "CFI42-ORGA+",
+          "CFI42-EVALECO",
+          "CFI42-HSA",
+          "CFI42-HOM",
+          "CFI42-NUC+",
+          "ASSYSTEM",
+          "CFI42-QUAL 1",
+          "CFI42-ANA SENSO COSM",
+          "CFI42-TPANA ARPA",
+          "CFI42-IG",
+          "CFI42-NUM2",
+          "CFI42-PPMAT",
+          "CFI42-ECO ",
+          "CFI42-CIA",
+          "CFI42-ANA SENSO COSM",
+          "CFI42-ANA SENSO OLF",
+          "CFI42-TPANA ARPA",
+          "CFI42-TPANA COS"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "CFI42-STAGPP",
+        "name": "UE Stage de sp\u00e9cialit\u00e9 et projet personnel",
+        "ects": 11,
+        "courses": [
+          "CFI42-STAGE SPE",
+          "CFI42-PROJPERSO",
+          "CFI42-PROJETUDE"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "CFI42-SCAPP",
+        "name": "UE Sciences appliqu\u00e9es et de l'ing\u00e9nieur",
+        "ects": 8,
+        "courses": [
+          "CFI42-PTP",
+          "CFI42-TPGP",
+          "CFI42-ANASOL",
+          "CFI42-CORRO",
+          "CFI42-POLTP2",
+          "CFI42-PEXP",
+          "CFI42-MNCP"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "CFI51-UE4",
+        "name": "UE Formation professionnelle",
+        "ects": 9,
+        "courses": [
+          "CFI51-ENV",
+          "CFI51-OMI4",
+          "H-51-ANG-INSA5",
+          "CFI51-REGLEM",
+          "CFI51-BIGDATA",
+          "CFI51-LEANMANUF",
+          "H-51-ANG-TOEIC",
+          "CFI51-PROCINDUS",
+          "CFI51-MSPROJ"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "CFI51-UE5",
+        "name": "UE Personnalisation",
+        "ects": 4,
+        "courses": [
+          "H-51-MANAG-CFI",
+          "H-51-MI-CFI",
+          "CFI51-INEC",
+          "H3451-SDE-ECAO"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "CFI51-EXPENT",
+        "name": "UE Exp\u00e9rience dans l'entreprise",
+        "ects": 8,
+        "courses": [
+          "CFI51-EXENTRE"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "CFI51-StageSpe",
+        "name": "UE Stage de Sp\u00e9cialit\u00e9",
+        "ects": 4,
+        "courses": [
+          "CFI51-Stage Tech"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "CFI51-PROJPERSO",
+        "name": "UE Projet Personnel",
+        "ects": 4,
+        "courses": [
+          "CFI51-PROJPERSO"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "CFI51-UE4",
+        "name": "UE Formation professionnelle",
+        "ects": 9,
+        "courses": [
+          "CFI51-ENV",
+          "CFI51-OMI4",
+          "H-51-ANG-INSA5",
+          "CFI51-REGLEM",
+          "CFI51-BIGDATA",
+          "CFI51-LEANMANUF",
+          "H-51-ANG-TOEIC",
+          "CFI51-PROCINDUS",
+          "CFI51-MSPROJ"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "CFI51-UE5",
+        "name": "UE Personnalisation",
+        "ects": 4,
+        "courses": [
+          "H-51-MANAG-CFI",
+          "H-51-MI-CFI",
+          "CFI51-INEC",
+          "H3451-SDE-ECAO"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "CFI51-EXPENT",
+        "name": "UE Exp\u00e9rience dans l'entreprise",
+        "ects": 8,
+        "courses": [
+          "CFI51-EXENTRE"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "CFI51-StageSpe",
+        "name": "UE Stage de Sp\u00e9cialit\u00e9",
+        "ects": 4,
+        "courses": [
+          "CFI51-Stage Tech"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "CFI51-PROJPERSO",
+        "name": "UE Projet Personnel",
+        "ects": 4,
+        "courses": [
+          "CFI51-PROJPERSO"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "CFI51-OPT MP1",
+        "name": "UE Option Mat\u00e9riaux Polym\u00e8res 1",
+        "ects": 3,
+        "courses": [
+          "CFI51-MAT3",
+          "CFI51-APPSP\u00e9"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "CFI51-OPT MP2",
+        "name": "UE Option Mat\u00e9riaux Polym\u00e8res 2",
+        "ects": 3,
+        "courses": [
+          "CFI51-POLTECH (MP)",
+          "CFI51-FORMUL3 A"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "CFI51-OPT MP3",
+        "name": "UE Option Mat\u00e9riaux Polym\u00e8res 3",
+        "ects": 3,
+        "courses": [
+          "CFI51-POLTP3 (MP)",
+          "CFI51-ProjetPOL (MP)"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "CFI51-MASTER MP",
+        "name": "UE Master mat\u00e9riaux ou polym\u00e8res",
+        "ects": 12,
+        "courses": [
+          "CFI51-M2-MAT",
+          "H-51-MANAG-CFI",
+          "H-51-MI-CFI",
+          "CFI51-INEC",
+          "CFI51-M2-POL"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "CFI51-UE6",
+        "name": "UE Projet PIE",
+        "ects": 8,
+        "courses": [
+          "CFI51-PIE CF",
+          "CFI51-CHRO2TP",
+          "CFI51-PIE MP GPC",
+          "CFI51-QUAL PIE"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "CFI51-UE4",
+        "name": "UE Formation professionnelle",
+        "ects": 9,
+        "courses": [
+          "CFI51-ENV",
+          "CFI51-OMI4",
+          "H-51-ANG-INSA5",
+          "CFI51-REGLEM",
+          "CFI51-BIGDATA",
+          "CFI51-LEANMANUF",
+          "H-51-ANG-TOEIC",
+          "CFI51-PROCINDUS",
+          "CFI51-MSPROJ"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "CFI51-UE5",
+        "name": "UE Personnalisation",
+        "ects": 4,
+        "courses": [
+          "H-51-MANAG-CFI",
+          "H-51-MI-CFI",
+          "CFI51-INEC",
+          "H3451-SDE-ECAO"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "CFI51-EXPENT",
+        "name": "UE Exp\u00e9rience dans l'entreprise",
+        "ects": 8,
+        "courses": [
+          "CFI51-EXENTRE"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "CFI51-StageSpe",
+        "name": "UE Stage de Sp\u00e9cialit\u00e9",
+        "ects": 4,
+        "courses": [
+          "CFI51-Stage Tech"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "CFI51-PROJPERSO",
+        "name": "UE Projet Personnel",
+        "ects": 4,
+        "courses": [
+          "CFI51-PROJPERSO"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "CFI51-OPT CF2",
+        "name": "UE Option Chimie Fine 2",
+        "ects": 4,
+        "courses": [
+          "CFI51-BIOCHIMIEA",
+          "CFI51-BIOMOLECULES",
+          "CFI51-BIOPHARMA"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "CFI51-MASTER CF",
+        "name": "UE Master Chimie organique-analytique-ARPAC",
+        "ects": 12,
+        "courses": [
+          "CFI51-M2-Organique",
+          "H-51-MI-CFI",
+          "H-51-MANAG-CFI",
+          "CFI51-M2-Analyse",
+          "CFI51-M2-ARPAC",
+          "CFI51-INEC",
+          "CFI51-CHRO2TP"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "CFI51-OPT CF1",
+        "name": "UE Option Chimie Fine 1",
+        "ects": 5,
+        "courses": [
+          "CFI51-CHIMINDUS ",
+          "CFI51-FORMUL 3 (CF)",
+          "CFI51-CHRO2",
+          "CFI51-FORMUL3 A"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "CFI51-UE6",
+        "name": "UE Projet PIE",
+        "ects": 8,
+        "courses": [
+          "CFI51-PIE CF",
+          "CFI51-CHRO2TP",
+          "CFI51-PIE MP GPC",
+          "CFI51-QUAL PIE"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "CFI51-UE4",
+        "name": "UE Formation professionnelle",
+        "ects": 9,
+        "courses": [
+          "CFI51-ENV",
+          "CFI51-OMI4",
+          "H-51-ANG-INSA5",
+          "CFI51-REGLEM",
+          "CFI51-BIGDATA",
+          "CFI51-LEANMANUF",
+          "H-51-ANG-TOEIC",
+          "CFI51-PROCINDUS",
+          "CFI51-MSPROJ"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "CFI51-UE5",
+        "name": "UE Personnalisation",
+        "ects": 4,
+        "courses": [
+          "H-51-MANAG-CFI",
+          "H-51-MI-CFI",
+          "CFI51-INEC",
+          "H3451-SDE-ECAO"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "CFI51-EXPENT",
+        "name": "UE Exp\u00e9rience dans l'entreprise",
+        "ects": 8,
+        "courses": [
+          "CFI51-EXENTRE"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "CFI51-StageSpe",
+        "name": "UE Stage de Sp\u00e9cialit\u00e9",
+        "ects": 4,
+        "courses": [
+          "CFI51-Stage Tech"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "CFI51-PROJPERSO",
+        "name": "UE Projet Personnel",
+        "ects": 4,
+        "courses": [
+          "CFI51-PROJPERSO"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "CFI51-OPT GPC 1",
+        "name": "UE Option GPC 1",
+        "ects": 7,
+        "courses": [
+          "CFI51-DIMPRO",
+          "CFI51-IOPI (GC)",
+          "CFI51-CINTRANS (GC)",
+          "CFI51-SIMPRO",
+          "CFI51-CATHET"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "CFI51-OPT GPC 2",
+        "name": "UE Option GPC 2",
+        "ects": 5,
+        "courses": [
+          "CFI51-FRAC",
+          "CFI51-THI",
+          "CFI51-TF"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "CFI51-OPT GPC 3",
+        "name": "UE Option GPC 3",
+        "ects": 5,
+        "courses": [
+          "CFI51-GPTPA (GC)",
+          "CFI51-MF2 (GC)",
+          "CFI51-SRC"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "CFI51-UE4",
+        "name": "UE Formation professionnelle",
+        "ects": 9,
+        "courses": [
+          "CFI51-ENV",
+          "CFI51-OMI4",
+          "H-51-ANG-INSA5",
+          "CFI51-REGLEM",
+          "CFI51-BIGDATA",
+          "CFI51-LEANMANUF",
+          "H-51-ANG-TOEIC",
+          "CFI51-PROCINDUS",
+          "CFI51-MSPROJ"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "CFI51-UE5",
+        "name": "UE Personnalisation",
+        "ects": 4,
+        "courses": [
+          "H-51-MANAG-CFI",
+          "H-51-MI-CFI",
+          "CFI51-INEC",
+          "H3451-SDE-ECAO"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "CFI51-EXPENT",
+        "name": "UE Exp\u00e9rience dans l'entreprise",
+        "ects": 8,
+        "courses": [
+          "CFI51-EXENTRE"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "CFI51-StageSpe",
+        "name": "UE Stage de Sp\u00e9cialit\u00e9",
+        "ects": 4,
+        "courses": [
+          "CFI51-Stage Tech"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "CFI51-PROJPERSO",
+        "name": "UE Projet Personnel",
+        "ects": 4,
+        "courses": [
+          "CFI51-PROJPERSO"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "CFI52-StageIng",
+        "name": "UE Stage ing\u00e9nieur",
+        "ects": 30,
+        "courses": [
+          "CFI52-Stage Ing"
+        ],
+        "semester": 10
+      },
+      {
+        "id": "CFI52-B2 FLE",
+        "name": "UE Certificat B2 FLE",
+        "ects": null,
+        "courses": [
+          "CFI52-B2-FLE"
+        ],
+        "semester": 10
+      },
+      {
+        "id": "CFI52-ExpEnt",
+        "name": "UE Exp\u00e9rience en entreprise",
+        "ects": null,
+        "courses": [
+          "CPRO52-SEM",
+          "CFI52-EXENTRE"
+        ],
+        "semester": 10
+      }
+    ],
+    "ects": 370
+  },
+  {
+    "id": "G\u00e9nie des proc\u00e9d\u00e9s et gestion des risques",
+    "name": "G\u00e9nie des proc\u00e9d\u00e9s et gestion des risques",
+    "cycles": [
+      "L3",
+      "M1",
+      "M2"
+    ],
+    "url": "https://www.insa-rouen.fr/formation/specialites-ingenieurses/genie-des-procedes-et-gestion-des-risques",
+    "teaching_units": [
+      {
+        "id": "MRIE31-Huma",
+        "name": "UE Humanit\u00e9s",
+        "ects": 10,
+        "courses": [
+          "H-31-APS-MRIE",
+          "H-31-ANG-CFI-MRIE",
+          "H-31-GSF-MRIE",
+          "H-31-ALL-CFI-MRIE",
+          "H-3451-ALL-DEB1",
+          "H-31-FLE-CFI-MRIE",
+          "H-31-ESP-CFI-MRI",
+          "H-31-ESP-DPT-DEB",
+          "H3451-SDE-ECAO",
+          "H3451-SME-CHOR-ECAO",
+          "H-3451-VEE-ECAO"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "MRIE31-UE1",
+        "name": "UE M\u00e9thodes num\u00e9riques, statistiques et algorithmique",
+        "ects": 5,
+        "courses": [
+          "MRIE31-MENU",
+          "MRIE31-SPE",
+          "MRIE31-ITS"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "MRIE31-UE4",
+        "name": "UE Gestion des Risques",
+        "ects": 4,
+        "courses": [
+          "MRIE31-HSRP",
+          "MRIE31-GRI1",
+          "MRIE31-BC",
+          "MRIE31-SST"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "MRIE31-UE2",
+        "name": "UE M\u00e9canique, thermodynamique et thermique",
+        "ects": 6,
+        "courses": [
+          "MRIE31-ITT",
+          "MRIE31-MF",
+          "MRIE31-TSCRE",
+          "MRIE31-TM"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "MRIE31-UE3",
+        "name": "UE Mat\u00e9riaux, chimie et analyse",
+        "ects": 5,
+        "courses": [
+          "MRIE31-THI",
+          "MRIE31-SCM",
+          "MRIE31-TANA1"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "MRIE31-UEstage",
+        "name": "UE Stage",
+        "ects": 4,
+        "courses": [
+          "MRIE31-stage sp\u00e9"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "MRIE32-UE1",
+        "name": "UE Sciences ing\u00e9nieurs 1",
+        "ects": 5,
+        "courses": [
+          "MRIE32-MSP",
+          "MRIE32-OSI",
+          "MRIE32-RAC"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "MRIE32-UE2",
+        "name": "UE Sciences ing\u00e9nieurs 2",
+        "ects": 5,
+        "courses": [
+          "MRIE32-RDM",
+          "MRIE32-TP1&2"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "MRIE32-UE3",
+        "name": "UE Sciences du Risques 1",
+        "ects": 5,
+        "courses": [
+          "MRIE32-GRI2",
+          "MRIE32-EAC",
+          "MRIE32-HSRP2"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "MRIE32-UE4",
+        "name": "UE Sciences du Risques 2",
+        "ects": 8,
+        "courses": [
+          "MRIE32-SARI",
+          "MRIE32-SST",
+          "MRIE32-GECR"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "MRIE32-Huma",
+        "name": "UE Humanit\u00e9s",
+        "ects": 7,
+        "courses": [
+          "H-32-GP-MRIE",
+          "H-32-ANG-CFI-MRIE",
+          "H-32-APS-MRIE",
+          "H-32-ALL-CFI-MRIE",
+          "H-32-ESP-CFI-MRI",
+          "H-32-FLE-CFI-MRIE",
+          "H-32-ESP-DPT-DEB",
+          "H-342-ALL-DEB1"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "MRIE41-UE1",
+        "name": "UE Sciences et Techniques de l'Ing\u00e9nieur",
+        "ects": 6,
+        "courses": [
+          "MRIE41-STIC1",
+          "MRIE41-SDF",
+          "MRIE41-STIE"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "MRIE41-UE2",
+        "name": "UE Gestion des Risques",
+        "ects": 6,
+        "courses": [
+          "MRIE41-TEL",
+          "MRIE41-AIC 1",
+          "MRIE41-CYBER",
+          "MRIE41-RSST",
+          "MRIE41-BIBLIO"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "MRIE41-UE3",
+        "name": "UE Projet INSA Certifi\u00e9 1",
+        "ects": 12,
+        "courses": [
+          "MRIE41-COM_PIC",
+          "MRIE41-QUAL_PIC",
+          "MRIE41-REVUE_PIC",
+          "MRIE41-SCIEN_PIC",
+          "MRIE41-SEM_QUAL_PIC",
+          "MRIE41-EPIC1"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "MRIE41-Huma",
+        "name": "UE Humanit\u00e9s",
+        "ects": 6,
+        "courses": [
+          "H-41-ANG-CFI-MRIE",
+          "H-41-APS-MRIE",
+          "MRIE41-ProjetPerso",
+          "H-41-ALL-CFI-MRIE",
+          "H-3451-ALL-DEB1",
+          "H-41-ESP-CFI-MRI",
+          "H-41-ESP-DPT-DEB",
+          "H-451-FLE-CFI-MRIE",
+          "H41-AN-TEST-TOEIC-GC",
+          "MRIE41-INSAJOB",
+          "H-3451-ALL-DEB2"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "MRIE42-UE1",
+        "name": "UE UE1-S8",
+        "ects": 5,
+        "courses": [
+          "H-42-SOCIO-MRIE",
+          "MRIE42-TP3"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "MRIE42-UE2",
+        "name": "UE UE2-S8",
+        "ects": 9,
+        "courses": [
+          "MRIE42-GRI3",
+          "MRIE42-AIC 2",
+          "MRIE42-STIC2",
+          "MRIE42-NUC"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "MRIE42-UE3",
+        "name": "UE Projet INSA Certifi\u00e9",
+        "ects": 11,
+        "courses": [
+          "MRIE42-EPIC2",
+          "MRIE42-COM_PIC",
+          "MRIE42-QUAL_PIC",
+          "MRIE42-REVUE_PIC",
+          "MRIE42-SCIEN_PIC"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "MRIE42-Huma",
+        "name": "UE Humanit\u00e9s",
+        "ects": 5,
+        "courses": [
+          "H-42-MOI-MRIE",
+          "H-42-ANG-CFI-MRIE",
+          "H-42-APS-MRIE",
+          "MRIE42-RSST",
+          "H-42-ANG-TEST-TOEIC"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "MRIE51-UE 1",
+        "name": "UE UE1",
+        "ects": 3,
+        "courses": [
+          "MRIE51-INNOV",
+          "MRIE51-CORR",
+          "MRIE51-PTA"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MRIE51-UE 2",
+        "name": "UE UE2",
+        "ects": 4,
+        "courses": [
+          "MRIE51-BIOC",
+          "MRIE51-DAA",
+          "MRIE51-MFC",
+          "MRIE51-PHAST2"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MRIE51-UE 3",
+        "name": "UE UE3",
+        "ects": 3,
+        "courses": [
+          "MRIE51-GRSC",
+          "MRIE51-EQR",
+          "MRIE51-RNAT",
+          "H-51-ANG-INSA5",
+          "H-51-ANG-TOEIC",
+          "MRIE51-REX",
+          "MRIE51-TPRR",
+          "H-3451-VEE-ECAO"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MRIE51-UE4-NCP",
+        "name": "UE Exp\u00e9riences Ouverture et Recherche (non Contrats Pro)",
+        "ects": 8,
+        "courses": [
+          "MRIE51-PHAST2",
+          "MRIE51-INEC",
+          "MRIE51-TPRR",
+          "MRIE51-PROR",
+          "MRIE51-REX",
+          "MRIE51-BIOC",
+          "MRIE51-GRSC"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MRIE51-StageSpe",
+        "name": "UE Stage specialite",
+        "ects": 4,
+        "courses": [
+          "MRIE51-Stage-Spe"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MRIE51-PROJPERS",
+        "name": "UE Projet personnel",
+        "ects": 3,
+        "courses": [
+          "MRIE41-ProjetPerso"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MRIE51-UE 1",
+        "name": "UE UE1",
+        "ects": 3,
+        "courses": [
+          "MRIE51-INNOV",
+          "MRIE51-CORR",
+          "MRIE51-PTA"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MRIE51-UE 2",
+        "name": "UE UE2",
+        "ects": 4,
+        "courses": [
+          "MRIE51-BIOC",
+          "MRIE51-DAA",
+          "MRIE51-MFC",
+          "MRIE51-PHAST2"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MRIE51-UE 3",
+        "name": "UE UE3",
+        "ects": 3,
+        "courses": [
+          "MRIE51-GRSC",
+          "MRIE51-EQR",
+          "MRIE51-RNAT",
+          "H-51-ANG-INSA5",
+          "H-51-ANG-TOEIC",
+          "MRIE51-REX",
+          "MRIE51-TPRR",
+          "H-3451-VEE-ECAO"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MRIE51-UE4-NCP",
+        "name": "UE Exp\u00e9riences Ouverture et Recherche (non Contrats Pro)",
+        "ects": 8,
+        "courses": [
+          "MRIE51-PHAST2",
+          "MRIE51-INEC",
+          "MRIE51-TPRR",
+          "MRIE51-PROR",
+          "MRIE51-REX",
+          "MRIE51-BIOC",
+          "MRIE51-GRSC"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MRIE51-StageSpe",
+        "name": "UE Stage specialite",
+        "ects": 4,
+        "courses": [
+          "MRIE51-Stage-Spe"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MRIE51-PROJPERS",
+        "name": "UE Projet personnel",
+        "ects": 3,
+        "courses": [
+          "MRIE41-ProjetPerso"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MRIE51-UE 1",
+        "name": "UE UE1",
+        "ects": 3,
+        "courses": [
+          "MRIE51-INNOV",
+          "MRIE51-CORR",
+          "MRIE51-PTA"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MRIE51-UE 2",
+        "name": "UE UE2",
+        "ects": 4,
+        "courses": [
+          "MRIE51-BIOC",
+          "MRIE51-DAA",
+          "MRIE51-MFC",
+          "MRIE51-PHAST2"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MRIE51-UE 3",
+        "name": "UE UE3",
+        "ects": 3,
+        "courses": [
+          "MRIE51-GRSC",
+          "MRIE51-EQR",
+          "MRIE51-RNAT",
+          "H-51-ANG-INSA5",
+          "H-51-ANG-TOEIC",
+          "MRIE51-REX",
+          "MRIE51-TPRR",
+          "H-3451-VEE-ECAO"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MRIE51-UE4-NCP",
+        "name": "UE Exp\u00e9riences Ouverture et Recherche (non Contrats Pro)",
+        "ects": 8,
+        "courses": [
+          "MRIE51-PHAST2",
+          "MRIE51-INEC",
+          "MRIE51-TPRR",
+          "MRIE51-PROR",
+          "MRIE51-REX",
+          "MRIE51-BIOC",
+          "MRIE51-GRSC"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MRIE51-StageSpe",
+        "name": "UE Stage specialite",
+        "ects": 4,
+        "courses": [
+          "MRIE51-Stage-Spe"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MRIE51-PROJPERS",
+        "name": "UE Projet personnel",
+        "ects": 3,
+        "courses": [
+          "MRIE41-ProjetPerso"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MRIE51-UE5-R&P",
+        "name": "UE Risque et procedes",
+        "ects": 8,
+        "courses": [
+          "MRIE51 RP-SIMPRO",
+          "MRIE51 RP-SRC",
+          "MRIE51 RP-TPS",
+          "CFI51-DIMPRO"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MRIE51-UE 1",
+        "name": "UE UE1",
+        "ects": 3,
+        "courses": [
+          "MRIE51-INNOV",
+          "MRIE51-CORR",
+          "MRIE51-PTA"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MRIE51-UE 2",
+        "name": "UE UE2",
+        "ects": 4,
+        "courses": [
+          "MRIE51-BIOC",
+          "MRIE51-DAA",
+          "MRIE51-MFC",
+          "MRIE51-PHAST2"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MRIE51-UE 3",
+        "name": "UE UE3",
+        "ects": 3,
+        "courses": [
+          "MRIE51-GRSC",
+          "MRIE51-EQR",
+          "MRIE51-RNAT",
+          "H-51-ANG-INSA5",
+          "H-51-ANG-TOEIC",
+          "MRIE51-REX",
+          "MRIE51-TPRR",
+          "H-3451-VEE-ECAO"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MRIE51-UE4-NCP",
+        "name": "UE Exp\u00e9riences Ouverture et Recherche (non Contrats Pro)",
+        "ects": 8,
+        "courses": [
+          "MRIE51-PHAST2",
+          "MRIE51-INEC",
+          "MRIE51-TPRR",
+          "MRIE51-PROR",
+          "MRIE51-REX",
+          "MRIE51-BIOC",
+          "MRIE51-GRSC"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MRIE51-StageSpe",
+        "name": "UE Stage specialite",
+        "ects": 4,
+        "courses": [
+          "MRIE51-Stage-Spe"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MRIE51-PROJPERS",
+        "name": "UE Projet personnel",
+        "ects": 3,
+        "courses": [
+          "MRIE41-ProjetPerso"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MRIE51-UE5-R&E",
+        "name": "UE Risque et energie",
+        "ects": 8,
+        "courses": [
+          "MRIE51-RE-PSI",
+          "MRIE51 RE-GEO",
+          "MRIE51 RE-EOLE ",
+          "MRIE51-RE-RH2"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MRIE51-UE4-CP",
+        "name": "UE Exp\u00e9rience dans l'entreprise",
+        "ects": 8,
+        "courses": [
+          "MRIE51-EXENTRE"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MRIE51-UE 1",
+        "name": "UE UE1",
+        "ects": 3,
+        "courses": [
+          "MRIE51-INNOV",
+          "MRIE51-CORR",
+          "MRIE51-PTA"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MRIE51-UE 2",
+        "name": "UE UE2",
+        "ects": 4,
+        "courses": [
+          "MRIE51-BIOC",
+          "MRIE51-DAA",
+          "MRIE51-MFC",
+          "MRIE51-PHAST2"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MRIE51-UE 3",
+        "name": "UE UE3",
+        "ects": 3,
+        "courses": [
+          "MRIE51-GRSC",
+          "MRIE51-EQR",
+          "MRIE51-RNAT",
+          "H-51-ANG-INSA5",
+          "H-51-ANG-TOEIC",
+          "MRIE51-REX",
+          "MRIE51-TPRR",
+          "H-3451-VEE-ECAO"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MRIE51-UE4-NCP",
+        "name": "UE Exp\u00e9riences Ouverture et Recherche (non Contrats Pro)",
+        "ects": 8,
+        "courses": [
+          "MRIE51-PHAST2",
+          "MRIE51-INEC",
+          "MRIE51-TPRR",
+          "MRIE51-PROR",
+          "MRIE51-REX",
+          "MRIE51-BIOC",
+          "MRIE51-GRSC"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MRIE51-StageSpe",
+        "name": "UE Stage specialite",
+        "ects": 4,
+        "courses": [
+          "MRIE51-Stage-Spe"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MRIE51-PROJPERS",
+        "name": "UE Projet personnel",
+        "ects": 3,
+        "courses": [
+          "MRIE41-ProjetPerso"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "GC51-I-SECOUV",
+        "name": "UE S\u00e9curit\u00e9s des ouvrages dans leurs environnements",
+        "ects": 6,
+        "courses": [
+          "GC51-I-CLIMNAT",
+          "GC51-I-ENV",
+          "GC51-I-GEOTECH"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MRIE51-StageSpe",
+        "name": "UE Stage specialite",
+        "ects": 4,
+        "courses": [
+          "MRIE51-Stage-Spe"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "GC51-I-ISI",
+        "name": "UE Ing\u00e9nierie de la S\u00e9curit\u00e9 incendie",
+        "ects": 10,
+        "courses": [
+          "GC51-I-FEU",
+          "GC51-I-PROTECT",
+          "GC51-I-CMSFS",
+          "GC51-I-PSI1",
+          "GC51-I-PSI2"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "GC51-I-ISOE",
+        "name": "UE Ing\u00e9nierie de la s\u00e9curit\u00e9 stucturale des ouvrages",
+        "ects": 6,
+        "courses": [
+          "GC51-I-OEXPLO",
+          "GC51-I-IEXPLO",
+          "GC51-I-FIAB",
+          "GC51-I-FATI"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "GC51-I-Urbrisq",
+        "name": "UE Urbanisme et Risques",
+        "ects": 3,
+        "courses": [
+          "GC51-I-URBAI",
+          "GC51-I-URBAP",
+          "H-51-ANG-TOEIC"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "MRIE52-StageIng",
+        "name": "UE Stage Ing\u00e9nieur",
+        "ects": 30,
+        "courses": [
+          "MRIE52-Stage-Ing"
+        ],
+        "semester": 10
+      },
+      {
+        "id": "MRIE52-ExpEnt",
+        "name": "UE Exp\u00e9rience en entreprise",
+        "ects": null,
+        "courses": [
+          "CPRO52-SEM",
+          "MRIE52-EXENTRE"
+        ],
+        "semester": 10
+      },
+      {
+        "id": "MRIE52-StageSpe",
+        "name": "UE Stage specialite",
+        "ects": 4,
+        "courses": [
+          "MRIE52-Stage-Spe"
+        ],
+        "semester": 10
+      }
+    ],
+    "ects": 336
+  }
+]

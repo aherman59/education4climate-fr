@@ -1,0 +1,218 @@
+{
+    "STP03-ESP-LV3: Espagnol 3  LV3": {
+        "fr": {
+            "energ[^ ]+ renouvelab[^ ]+": [
+                "de l'environnement  energies renouvelables + attitude << verte",
+                "de l'environnement  energies renouvelables + attitude << verte"
+            ]
+        }
+    },
+    "STP03-ESP: Espagnol 3": {
+        "fr": {
+            "energ[^ ]+ renouvelab[^ ]+": [
+                "de l'environnement  energies renouvelables + attitude << verte",
+                "de l'environnement  energies renouvelables + attitude << verte"
+            ]
+        }
+    },
+    "STP03-THEN-FIRE: Thermo-energ\u00e9tique FIRE (Thermophysics and Energy)": {
+        "fr": {
+            "[consom[^ ]+ (?:d')?energ[^ ]+, developp[^ ]+ durab[^ ]+, environnement]": [
+                " production et a la consommation d'energie et en particulier s",
+                "opolitique  vers le developpement durable  importance majeure",
+                "ions economiques et environnementales  ressources  ge"
+            ],
+            "[developp[^ ]+ durab[^ ]+, environnement, [ ]ecolo[^ ]+|ecosyst[^ ]+]": [
+                "opolitique  vers le developpement durable  importance majeure",
+                "ions economiques et environnementales  ressources  ge",
+                " enjeux economiques  ecologiques et societaux associ"
+            ]
+        }
+    },
+    "STP03-THEN: Thermo-energ\u00e9tique (Thermophysics and Energy)": {
+        "fr": {
+            "[consom[^ ]+ (?:d')?energ[^ ]+, developp[^ ]+ durab[^ ]+, environnement]": [
+                " production et a la consommation d'energie et en particulier s",
+                "opolitique  vers le developpement durable  importance majeure",
+                "ions economiques et environnementales  ressources  ge"
+            ],
+            "[developp[^ ]+ durab[^ ]+, environnement, [ ]ecolo[^ ]+|ecosyst[^ ]+]": [
+                "opolitique  vers le developpement durable  importance majeure",
+                "ions economiques et environnementales  ressources  ge",
+                " enjeux economiques  ecologiques et societaux associ"
+            ]
+        }
+    },
+    "GPM09-ENER: Energies Renouvelables": {
+        "fr": {
+            "energ[^ ]+ renouvelab[^ ]+": [
+                "energies renouvelables  presentation du co",
+                "actuel et place des energies renouvelables  presentation energ",
+                "gie des differentes energies renouvelables   eolien  solaire  ",
+                "fferentes sources d'energie renouvelable disponibles au xxie",
+                "ine industriel  les energies renouvelables  eolien  solaire  g",
+                "dans le domaine des energies renouvelables   bibliographie   e",
+                "theque insa rennes  energies renouvelables    2006   bibliothe",
+                "ergy agency sur les energies renouvelables dans le monde   pre"
+            ]
+        }
+    },
+    "ESM05-SIG: Signaux et Syst\u00e8mes": {
+        "fr": {
+            "[electri[^ ]+, stockage]": [
+                "rynck j   \"traite d'electricite  theorie des reseau",
+                "oulon f   \"traite d'electricite  theorie et traitem",
+                "elements reactifs a stockage d'energie potentiel"
+            ]
+        }
+    },
+    "HUM09-PM-F: Parcours de management F": {
+        "fr": {
+            "[bio(?:diversite|sphere), ecolo[^ ]+]": [
+                "ntaux du numerique  biodiversite et jardins  ess  es",
+                "tion energetique et ecologique >>  groupe de trava"
+            ],
+            "[bio(?:diversite|sphere), impact, environnement|[ ]ecolo[^ ]+|ecosyst[^ ]+]": [
+                "ntaux du numerique  biodiversite et jardins  ess  es",
+                "erences sur le dd   impacts environnementaux d",
+                "sur le dd   impacts environnementaux du numerique  bi",
+                "ition energetique et ecologique >>  groupe de trava",
+                "ands principes de l'environnement juridique    biblio"
+            ],
+            "[climat, environnement, [ ]ecolo[^ ]+]": [
+                "il << la fresque du climat >>     les parcours",
+                "insa enjeux energie-climat dans la formation i",
+                " la fresque pour le climat >> - en equipes plu",
+                "sur le dd   impacts environnementaux du numerique  bi",
+                "ands principes de l'environnement juridique    biblio",
+                "ition energetique et ecologique >>  groupe de trava"
+            ],
+            "[developp[^ ]+ durab[^ ]+, environnement, [ ]ecolo[^ ]+|ecosyst[^ ]+]": [
+                "rs de management f  developpement durable  28h  programme - p",
+                "amme du parcours << developpement durable >>  developpement d",
+                "ppement durable >>  developpement durable  28h   le developpe",
+                "t durable  28h   le developpement durable constitue un enjeu ",
+                "labellisation ddrs  developpement durable responsabilite soci",
+                "mite de pilotage du developpement durable  et le cric-dd  col",
+                "nter-campus pour le developpement durable    objectifs * appr",
+                "sur le dd   impacts environnementaux du numerique  bi",
+                "ands principes de l'environnement juridique    biblio",
+                "ition energetique et ecologique >>  groupe de trava"
+            ],
+            "[developp[^ ]+ durab[^ ]+, transiti[^ ]+ energ[^ ]+]": [
+                "rs de management f  developpement durable  28h  programme - p",
+                "amme du parcours << developpement durable >>  developpement d",
+                "ppement durable >>  developpement durable  28h   le developpe",
+                "t durable  28h   le developpement durable constitue un enjeu ",
+                "labellisation ddrs  developpement durable responsabilite soci",
+                "mite de pilotage du developpement durable  et le cric-dd  col",
+                "nter-campus pour le developpement durable    objectifs * appr",
+                "a faire leur propre transition energetique et ecologique >>  g"
+            ],
+            "[[ ]ecolo[^ ]+, transiti[^ ]+ energ[^ ]+]": [
+                "ition energetique et ecologique >>  groupe de trava",
+                "a faire leur propre transition energetique et ecologique >>  g"
+            ],
+            "transiti[^ ]+ energ[^ ]+": [
+                "a faire leur propre transition energetique et ecologique >>  g"
+            ]
+        }
+    },
+    "GCU09-HUR: Hydraulique Urbaine": {
+        "fr": {
+            "gestion (?:de l'|des )?eaux?": [
+                "s  1986 f  valiron  gestion des eaux  presses de l'enpc "
+            ]
+        }
+    },
+    "GCU09-HYU: Hydrologie Urbaine": {
+        "fr": {
+            "gestion (?:de l'|des )?eaux?": [
+                "problemes lies a la gestion des eaux pluviales en milieu"
+            ]
+        }
+    },
+    "GCU09-THER3: Thermique III": {
+        "fr": {
+            "[electri[^ ]+, stockage]": [
+                "lifie iii 1  schema electrique equivalent iii 2  m",
+                "t aux phenomenes de stockage et destockage de ch",
+                "es de stockage et destockage de chaleur lies soi"
+            ]
+        }
+    },
+    "GCU09-URBA1: Urbanisme I": {
+        "fr": {
+            "[durab(?:le|ilite), mobilite]": [
+                "iter et se deplacer durablement mobilite  ville",
+                "eplacer durablement mobilite  ville  amenagement",
+                "rank lloyd wright - mobilite et urbanisme dans l",
+                " theories et outils mobilites et formes urbaines"
+            ]
+        }
+    },
+    "GCU06-THER1: Thermique I": {
+        "fr": {
+            "energ[^ ]+ solaire": [
+                "facteurs de forme - energie solaire    acquerir les bas"
+            ]
+        }
+    },
+    "HUM05-RISQ: Gestion du Risque": {
+        "fr": {
+            "objectifs? (de )?developpements? durables?": [
+                "par rapports aux 17 objectifs de developpement durable  odd    acquerir le"
+            ]
+        }
+    },
+    "ELE08-RS-DD: Responsabilit\u00e9 soci\u00e9tale - D\u00e9veloppement durable": {
+        "fr": {
+            "[climat, environnement, [ ]ecolo[^ ]+]": [
+                "ions unies - enjeux climatiques - responsabili",
+                "ux du rechauffement climatique  grace a l'outi",
+                " l'outil fresque du climat    -pourront temoig",
+                "consacre aux enjeux climatiques  avec l'outil ",
+                " la fresque pour le climat comme support privi",
+                "ns large  dimension environnementale  sociale et ethi",
+                "entifique des enjeux ecologiques  et permettre aux a",
+                "ition energetique et ecologique et/ou la demarche s"
+            ],
+            "[developp[^ ]+ durab[^ ]+, environnement, [ ]ecolo[^ ]+|ecosyst[^ ]+]": [
+                "abilite societale - developpement durable  le programme s'art",
+                "es   - objectifs de developpement durable  odd  du programme ",
+                "s entreprises    le developpement durable et sa declinaison a",
+                "et reconnues sur le developpement durable et la responsabilit",
+                "ortes en matiere de developpement durable au sens large  dime",
+                "ns large  dimension environnementale  sociale et ethi",
+                "entifique des enjeux ecologiques  et permettre aux a",
+                "ition energetique et ecologique et/ou la demarche s"
+            ],
+            "[developp[^ ]+ durab[^ ]+, transiti[^ ]+ energ[^ ]+]": [
+                "abilite societale - developpement durable  le programme s'art",
+                "es   - objectifs de developpement durable  odd  du programme ",
+                "s entreprises    le developpement durable et sa declinaison a",
+                "et reconnues sur le developpement durable et la responsabilit",
+                "ortes en matiere de developpement durable au sens large  dime",
+                "urs engages dans la transition energetique et ecologique et/ou"
+            ],
+            "[[ ]ecolo[^ ]+, transiti[^ ]+ energ[^ ]+]": [
+                "entifique des enjeux ecologiques  et permettre aux a",
+                "ition energetique et ecologique et/ou la demarche s",
+                "urs engages dans la transition energetique et ecologique et/ou"
+            ],
+            "enjeux? climat[^ ]+": [
+                "des nations unies - enjeux climatiques - responsabilite so",
+                " de 4h consacre aux enjeux climatiques  avec l'outil de la"
+            ],
+            "objectifs? (de )?developpements? durables?": [
+                "iques suivantes   - objectifs de developpement durable  odd  du programme "
+            ],
+            "rechauffement climat[^ ]+": [
+                "obale des enjeux du rechauffement climatique  grace a l'outil fr"
+            ],
+            "transiti[^ ]+ energ[^ ]+": [
+                "urs engages dans la transition energetique et ecologique et/ou"
+            ]
+        }
+    }
+}

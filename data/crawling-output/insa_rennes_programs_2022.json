@@ -1,0 +1,4978 @@
+[
+  {
+    "id": "CDTI",
+    "name": "\u00c9lectronique - Conception et D\u00e9veloppement de Technologies Innovantes - APPRENTISSAGE",
+    "cycles": [],
+    "url": "https://applisjava.insa-rennes.fr/OffreFormationWeb/main?action=RECHERCHE_MAQUETTE&formation=159&ec=1&langue=100",
+    "teaching_units": [
+      {
+        "id": "ELE05-STPI",
+        "name": "SCIENCES ET TECHNIQUES POUR L'INGENIEUR",
+        "ects": 16.0,
+        "courses": [
+          "ELE05-OUTMAT",
+          "ELE05-ARCHPR",
+          "ELE05-TTSD",
+          "ELE05-ELECAN",
+          "ELE05-ELECNU",
+          "ELE05-LANGA1"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "ELE05-HUM",
+        "name": "HUMANITES",
+        "ects": 4.0,
+        "courses": [
+          "ELE05-CREA",
+          "ELE05-COMPTA",
+          "ELE05-ANGL",
+          "ELE05-SPORT",
+          "ELE05-ANGRE"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "ELE05-EP",
+        "name": "EXPERIENCE PROFESSIONNELLE",
+        "ects": 10.0,
+        "courses": [
+          "ELE05-MISSI",
+          "ELE05-PPS",
+          "ELE05-PIX"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "ELE06-STPI",
+        "name": "SCIENCES ET TECHNIQUES POUR L'INGENIEUR",
+        "ects": 17.0,
+        "courses": [
+          "ELE06-TTSA",
+          "ELE06-ELECAN",
+          "ELE06-TRANSM",
+          "ELE06-SMP",
+          "ELE06-SYSEXP",
+          "ELE06-LANGA2",
+          "ELE06-OUTPRO",
+          "ELE06-PLAEXP"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "ELE06-HUM",
+        "name": "HUMANITES",
+        "ects": 3.0,
+        "courses": [
+          "ELE06-ANGL",
+          "ELE06-GESPROD",
+          "ELE06-SPORT",
+          "ELE06-ANGRE"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "ELE06-EP",
+        "name": "EXPERIENCE PROFESSIONNELLE",
+        "ects": 10.0,
+        "courses": [
+          "ELE06-MISSI",
+          "ELE06-PPS"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "ELE07-STPI",
+        "name": "SCIENCE ET TECHNIQUES POUR L'INGENIEUR",
+        "ects": 13.0,
+        "courses": [
+          "ELE07-VHDL",
+          "ELE07-BUSCOM",
+          "ELE07-POO",
+          "ELE07-SYEXEM",
+          "ELE07-RES1",
+          "ELE07-PJTINNOV"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "ELE07-HUM",
+        "name": "HUMANITES",
+        "ects": 7.0,
+        "courses": [
+          "ELE07-GESPJT",
+          "ELE07-MANAGRH",
+          "ELE07-INNOV",
+          "ELE07-ANGL",
+          "ELE07-SPORT",
+          "ELE07-ANGRE"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "ELE07-EP",
+        "name": "EXPERIENCE PROFESSIONNELLE",
+        "ects": 10.0,
+        "courses": [
+          "ELE07-MISSI",
+          "ELE07-PPS"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "ELE08-STPI",
+        "name": "SCIENCES ET TECHNIQUES POUR L'INGENIEUR",
+        "ects": 11.0,
+        "courses": [
+          "ELE08-COMNUM",
+          "ELE08-AUTO",
+          "ELE08-ELEMAG",
+          "ELE08-LOGIQ"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "ELE08-HUM",
+        "name": "HUMANITES",
+        "ects": 3.0,
+        "courses": [
+          "ELE08-RS-DD",
+          "ELE08-ANGL",
+          "ELE08-SPORT",
+          "ELE08-DROIT"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "ELE08-EP",
+        "name": "EXPERIENCE PROFESSIONNELLE",
+        "ects": 16.0,
+        "courses": [
+          "ELE08-PPS",
+          "ELE08-MISSI"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "ELE09-STPI",
+        "name": "SCIENCES ET TECHNIQUES POUR L'INGENIEUR",
+        "ects": 11.0,
+        "courses": [
+          "ELE09-RES",
+          "ELE09-ANT",
+          "ELE09-HARD - Advanced Hardware Design",
+          "ELE09-DISPS",
+          "ELE09-STR",
+          "ELE09-VVT",
+          "ELE09-CYBER",
+          "ELE09-RPI"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "ELE09-HUM",
+        "name": "HUMANITES",
+        "ects": 2.5,
+        "courses": [
+          "ELE09-MANAGI",
+          "ELE09-GESTP",
+          "ELE09-ANGL"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "ELE09-EP",
+        "name": "EXPERIENCE PROFESIONNELLE",
+        "ects": 16.5,
+        "courses": [
+          "ELE09-MISSI",
+          "ELE09-PPS"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "ELE09-STPI",
+        "name": "SCIENCES ET TECHNIQUES POUR L'INGENIEUR",
+        "ects": 11.0,
+        "courses": [
+          "ELE09-RES",
+          "ELE09-ANT",
+          "ELE09-HARD - Advanced Hardware Design",
+          "ELE09-DISPS",
+          "ELE09-STR",
+          "ELE09-VVT",
+          "ELE09-CYBER",
+          "ELE09-RPI"
+        ],
+        "semester": 10
+      },
+      {
+        "id": "ELE09-HUM",
+        "name": "HUMANITES",
+        "ects": 2.5,
+        "courses": [
+          "ELE09-MANAGI",
+          "ELE09-GESTP",
+          "ELE09-ANGL"
+        ],
+        "semester": 10
+      },
+      {
+        "id": "ELE09-EP",
+        "name": "EXPERIENCE PROFESIONNELLE",
+        "ects": 16.5,
+        "courses": [
+          "ELE09-MISSI",
+          "ELE09-PPS"
+        ],
+        "semester": 10
+      }
+    ],
+    "ects": 180.0
+  },
+  {
+    "id": "GCU",
+    "name": "G\u00e9nie Civil et Urbain",
+    "cycles": [],
+    "url": "https://applisjava.insa-rennes.fr/OffreFormationWeb/main?action=RECHERCHE_MAQUETTE&formation=4&ec=1&langue=100",
+    "teaching_units": [
+      {
+        "id": "GCU05-ESM",
+        "name": "ENSEIGNEMENTS SCIENTIFIQUES MUTUALISES",
+        "ects": 2.5,
+        "courses": [
+          "GCU05-PROBA",
+          "ESM05-MATLAB"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "GCU05-1",
+        "name": "MECANIQUE DES SOLIDES ET DES STRUCTURES",
+        "ects": 8.5,
+        "courses": [
+          "GCU05-MSD",
+          "GCU05-MSTR1"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "GCU05-2",
+        "name": "GEOLOGIE & EAU",
+        "ects": 5.5,
+        "courses": [
+          "GCU05-GEOL",
+          "GCU05-MFLU1"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "GCU05-3",
+        "name": "MATERIAUX ET ARCHITECTURE",
+        "ects": 6.5,
+        "courses": [
+          "GCU05-CMM",
+          "GCU05-CIME",
+          "GCU05-ARCH"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "HUM05",
+        "name": "ENSEIGNEMENTS D'HUMANITE S5",
+        "ects": 7.0,
+        "courses": [
+          "HUM05-RISQ",
+          "HUM05-ANGL",
+          "HUM05-PSH",
+          "HUM05-EPS"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "GCU05-OMM",
+        "name": "OUTILS MATHEMATIQUES POUR LA MECANIQUE",
+        "ects": 0.0,
+        "courses": [],
+        "semester": 5
+      },
+      {
+        "id": "HUMF1-RIE",
+        "name": "RIE : Recherche Innovation Entrepreneuriat",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1- RI",
+          "HUMF1- IE"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "GCU06-1",
+        "name": "ANALYSE DES STRUCTURES",
+        "ects": 6.0,
+        "courses": [
+          "GCU06-MSTR2",
+          "GCU06-BA1"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "GCU06-2",
+        "name": "SOL, EAU ET TRANSFERTS",
+        "ects": 8.5,
+        "courses": [
+          "GCU06-MFLU2",
+          "GCU06-MDS1",
+          "GCU06-THER1"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "GCU06-3",
+        "name": "MATERIAUX ET TECHNIQUES DE CONSTRUCTION",
+        "ects": 4.5,
+        "courses": [
+          "GCU06-MAT",
+          "GCU06-TECH",
+          "GCU06-TOPO"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "HUM06",
+        "name": "ENSEIGNEMENTS D'HUMANITE S6",
+        "ects": 7.0,
+        "courses": [
+          "HUM06-IMO",
+          "HUM06-ANGL",
+          "HUM06-SIM",
+          "HUM06-EPS",
+          "HUM06-PPI"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "GCU-STAGE06",
+        "name": "STAGE 3GCU",
+        "ects": 4.0,
+        "courses": [
+          "GCU06-STAGE"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "GCU07-1",
+        "name": "ANALYSE DES STRUCTURES",
+        "ects": 9.0,
+        "courses": [
+          "GCU07-AES",
+          "GCU07-BA2"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "GCU07-2",
+        "name": "SOLS ET EAU",
+        "ects": 9.0,
+        "courses": [
+          "GCU07-MDS2",
+          "GCU07-PMDS",
+          "GCU07-ESL"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "GCU07-3",
+        "name": "PHYSIQUE DE L'HABITAT",
+        "ects": 6.0,
+        "courses": [
+          "GCU07-THER2",
+          "GCU07-ACOUS",
+          "GCU07-ECLA"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "HUM07",
+        "name": "ENSEIGNEMENTS D'HUMANITES S7",
+        "ects": 6.0,
+        "courses": [
+          "HUM07-ANGL",
+          "HUM07-EI",
+          "HUM07-IE",
+          "HUM07-EPS"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "GCU08-1",
+        "name": "ANALYSE AVANCEE DES STRUCTURES",
+        "ects": 5.5,
+        "courses": [
+          "GCU08-ADP",
+          "GCU08-CPS",
+          "GCU08-MEF"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "GCU08-2",
+        "name": "GEOLOGIE ET MATERIAUX",
+        "ects": 4.5,
+        "courses": [
+          "GCU08-SGH",
+          "GCU08-CDB",
+          "GCU08-IR"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "GCU08-3",
+        "name": "CONCEPTION ET DIMENSIONNEMENT DES OUVRAGES",
+        "ects": 6.0,
+        "courses": [
+          "GCU08-BA3",
+          "GCU08-CM1",
+          "C"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "HUM08",
+        "name": "ENSEIGNEMENTS D'HUMANITE S8",
+        "ects": 6.0,
+        "courses": [
+          "HUM08-ANGL",
+          "HUM08-TEJS",
+          "HUM08-SHES1",
+          "HUM08-SHES2",
+          "HUM08-EPS",
+          "HUM08-IE"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "GCU-STAGE08",
+        "name": "STAGE 4GCU",
+        "ects": 8.0,
+        "courses": [
+          "GCU08-STAGE"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "GCU09-1",
+        "name": "TRONC COMMUN 1",
+        "ects": 10.0,
+        "courses": [
+          "GCU09-DUR",
+          "GCU09-BA4",
+          "GCU09-BP1",
+          "GCU09-MARS",
+          "GCU09-MRO",
+          "GCU09-CBOI1"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "GCU09-2",
+        "name": "TRONC COMMUN 2",
+        "ects": 4.0,
+        "courses": [
+          "GCU09-DDC",
+          "GCU09-CPA1",
+          "GCU09-URBA1"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "GCU09-3",
+        "name": "UE A CHOIX : BATIMENT OU GENIE URBAIN OU TRAVAUX PUBLICS",
+        "ects": 10.5,
+        "courses": [
+          "GCU09-CBOI2",
+          "GCU09-CM2",
+          "GCU09-CPA2",
+          "GCU09-ABAT",
+          "GCU09-THER3",
+          "GCU09-TCOND",
+          "GCU09-FETB",
+          "GCU09-HYU",
+          "GCU09-HUR",
+          "GCU09-GTD",
+          "GCU09-QAIR",
+          "GCU09-AURB",
+          "GCU09-VIT",
+          "GCU09-DURB",
+          "GCU09-URBA2",
+          "GCU09-MECH",
+          "GCU09-OGEO",
+          "GCU09-HYTM",
+          "GCU09-HYDR",
+          "GCU09-BP2",
+          "GCU09-POUV",
+          "GCU09-CMX"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "HUM09",
+        "name": "ENSEIGNEMENTS D'HUMANITE S9",
+        "ects": 5.5,
+        "courses": [
+          "HUM09-ANGL-CONV",
+          "HUM09-ANGL-TOEIC",
+          "HUM09-PM-A",
+          "HUM09-PM-B",
+          "HUM09-PM-C",
+          "HUM09-PM-D",
+          "HUM09-PM-E",
+          "HUM09-PM-F",
+          "EII09-EVST",
+          "EII09-HUMT",
+          "EII09-EVST",
+          "INF09-STGDATING",
+          "GCU09-SPEC-GPC",
+          "GCU09-SPEC-GPD",
+          "DET09-CONF",
+          "HUM09-PM-PRO"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "HUMF1-ELSA Mus",
+        "name": "MUSIQUE  ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1-MUS"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "GCU-PFE10",
+        "name": "PROJET DE FIN D'ETUDES",
+        "ects": 30.0,
+        "courses": [
+          "GCU10-PFE"
+        ],
+        "semester": 10
+      }
+    ],
+    "ects": 182.0
+  },
+  {
+    "id": "GMA",
+    "name": "G\u00e9nie M\u00e9canique et Automatique - possibilit\u00e9 apprentissage",
+    "cycles": [],
+    "url": "https://applisjava.insa-rennes.fr/OffreFormationWeb/main?action=RECHERCHE_MAQUETTE&formation=5&langue=100",
+    "teaching_units": [
+      {
+        "id": "GMA05-01-FISA",
+        "name": "MECANIQUE & MATERIAUX  FISA S5",
+        "ects": 6.0,
+        "courses": [
+          "GMA05-MMC FISA",
+          "GMA05-MSI FISA",
+          "GMA05-MAT FISA"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "GMA05-02-FISA",
+        "name": "CONCEPTION & PROCEDES FISA S5",
+        "ects": 3.0,
+        "courses": [
+          "GMA05-PMI FISA",
+          "GMA05-ARSM FISA"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "GMA05-03-FISA",
+        "name": "AUTOMATIQUE & MODELISATION FISA S5",
+        "ects": 4.0,
+        "courses": [
+          "GMA05-SIG FISA",
+          "GMA05-AURES FISA",
+          "GMA05-ANAL FISA"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "GMA05-04-FISA",
+        "name": "HUMANITES FISA S5",
+        "ects": 5.0,
+        "courses": [
+          "GMA05-ANGL FISA",
+          "GMA05-RSDD FISA",
+          "GMA05-RISQ FISA",
+          "GMA05-EPS FISA"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "GMA05-05-FISA",
+        "name": "EXPERIENCE PROFESSIONNELLE FISA S5",
+        "ects": 12.0,
+        "courses": [
+          "GMA05-PRO MISSI FISA",
+          "GMA05-PRO PPS FISA"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "GMA05-1",
+        "name": "MECANIQUE & MATERIAUX S5",
+        "ects": 9.0,
+        "courses": [
+          "GMA05-MMC",
+          "GMA05-MSI",
+          "ESM05-MAT",
+          "GMA05-TPMAT"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "GMA05-2",
+        "name": "CONCEPTION & PROCEDES S5",
+        "ects": 6.5,
+        "courses": [
+          "GMA05-PMI",
+          "GMA05-ARSM"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "GMA05-3",
+        "name": "AUTOMATIQUE & MODELISATION S5",
+        "ects": 7.5,
+        "courses": [
+          "ESM05-SIG",
+          "GMA05-AURES",
+          "ESM05-ANAL",
+          "ESM05-MATLAB"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "HUM05",
+        "name": "ENSEIGNEMENTS D'HUMANITE S5",
+        "ects": 7.0,
+        "courses": [
+          "HUM05-RISQ",
+          "HUM05-ANGL",
+          "HUM05-PSH",
+          "HUM05-EPS"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "HUMF1-ELSA Thea",
+        "name": "THEATRE  ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1-THEA"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "HUMF1-ELSA Mus",
+        "name": "MUSIQUE  ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1-MUS"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "HUMF1-SAMSTA2-4",
+        "name": "SAM : Stage 2\u00e8me ann\u00e9e /  2nd Year Work Placement",
+        "ects": 4.0,
+        "courses": [
+          "EII05-STA2-4",
+          "GCU05-STA2-4",
+          "GMA05-STA2-4",
+          "INF05-STA2-4",
+          "ARO05-STA2-4"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "HUMF1-RIE",
+        "name": "RIE : Recherche Innovation Entrepreneuriat",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1- RI",
+          "HUMF1- IE"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "GMA06-01-FISA",
+        "name": "MECANIQUE & MATERIAUX S6 FISA",
+        "ects": 6.0,
+        "courses": [
+          "GMA06-CDM FISA",
+          "GMA06-MDF FISA",
+          "GMA06-RDM FISA"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "GMA06-02-FISA",
+        "name": "CONCEPTION & PROCEDES S6 FISA",
+        "ects": 3.0,
+        "courses": [
+          "GMA06-DICM FISA",
+          "GMA06-MOPI FISA"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "GMA06-03-FISA",
+        "name": "AUTOMATIQUE & MODELISATION S6 FISA",
+        "ects": 3.0,
+        "courses": [
+          "GMA06-AUT FISA",
+          "GMA06-MSMD FISA"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "GMA06-04-FISA",
+        "name": "HUMANITES S6 FISA",
+        "ects": 5.0,
+        "courses": [
+          "GMA06-ANGL FISA",
+          "GMA06-AMELIO FISA",
+          "GMA06-COMPTA FISA",
+          "GMA06-EPS FISA"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "GMA06-05-FISA",
+        "name": "EXPERIENCE PROFESSIONNELLE S6 FISA",
+        "ects": 12.0,
+        "courses": [
+          "GMA06-PRO MISSI FISA",
+          "GMA06-PRO PPS FISA"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "GMA06-1",
+        "name": "MECANIQUE & MATERIAUX S6",
+        "ects": 9.0,
+        "courses": [
+          "GMA06-CDM",
+          "GMA06-MDF",
+          "GMA06-RDM"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "GMA06-2",
+        "name": "CONCEPTION & PROCEDES S6",
+        "ects": 7.0,
+        "courses": [
+          "GMA06-DICM",
+          "GMA06-PCO",
+          "GMA06-MOPI"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "GMA06-3",
+        "name": "AUTOMATIQUE & MODELISATION S6",
+        "ects": 7.0,
+        "courses": [
+          "ESM06-AUTO",
+          "GMA06-MSMD",
+          "GMA06-EDP"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "HUM06",
+        "name": "ENSEIGNEMENTS D'HUMANITE S6",
+        "ects": 7.0,
+        "courses": [
+          "HUM06-IMO",
+          "HUM06-ANGL",
+          "HUM06-SIM",
+          "HUM06-EPS",
+          "HUM06-PPI"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "GMA07-1",
+        "name": "MECANIQUE & MATERIAUX S7",
+        "ects": 7.0,
+        "courses": [
+          "GMA07-MNEF",
+          "GMA07-RDM2"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "GMA07-2",
+        "name": "CONCEPTION & PROCEDES S7",
+        "ects": 7.0,
+        "courses": [
+          "GMA07-CMAO2",
+          "GMA07-PUIS"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "GMA07-3",
+        "name": "AUTOMATIQUE & MODELISATION S7",
+        "ects": 6.0,
+        "courses": [
+          "GMA07-AUTO2",
+          "GMA07-EEP"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "GMA07-4",
+        "name": "INDUSTRIALISATION",
+        "ects": 4.0,
+        "courses": [
+          "GMA07-PRIND"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "HUM07",
+        "name": "ENSEIGNEMENTS D'HUMANITES S7",
+        "ects": 6.0,
+        "courses": [
+          "HUM07-ANGL",
+          "HUM07-EI",
+          "HUM07-IE",
+          "HUM07-EPS"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "HUMF1-ELSA Thea",
+        "name": "THEATRE  ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1-THEA"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "HUMF1-ELSA Mus",
+        "name": "MUSIQUE  ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1-MUS"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "GMA08-1",
+        "name": "MECANIQUE & MATERIAUX S8",
+        "ects": 6.0,
+        "courses": [
+          "GMA08-CMAT",
+          "GMA08-COMP"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "GMA08-2",
+        "name": "CONCEPTION & PROCEDES S8",
+        "ects": 7.0,
+        "courses": [
+          "GMA08-PRCONS",
+          "GMA08-PROD"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "GMA08-3",
+        "name": "AUTOMATIQUE & MODELISATION S8",
+        "ects": 3.0,
+        "courses": [
+          "GMA08-MOROB"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "GMA08-STAGE",
+        "name": "STAGE",
+        "ects": 8.0,
+        "courses": [
+          "GMA08-STAGE"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "HUM08",
+        "name": "ENSEIGNEMENTS D'HUMANITE S8",
+        "ects": 6.0,
+        "courses": [
+          "HUM08-ANGL",
+          "HUM08-TEJS",
+          "HUM08-SHES1",
+          "HUM08-SHES2",
+          "HUM08-EPS",
+          "HUM08-IE"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "HUMF2-ELSA Mus",
+        "name": "MUSIQUE ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF2-MUS"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "GMA09-1",
+        "name": "MECANIQUE & MATERIAUX S9",
+        "ects": 7.5,
+        "courses": [
+          "GMA09-MECAFORM",
+          "GMA09-CMP",
+          "GMA09-MNEF"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "GMA09-2",
+        "name": "AUTOMATIQUE & MODELISATION S9",
+        "ects": 6.0,
+        "courses": [
+          "GMA09-ROBOT",
+          "GMA09-SYSME",
+          "GMA09-COMOP"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "GMA09-3",
+        "name": "OUVERTURE",
+        "ects": 11.0,
+        "courses": [
+          "GMA09-CORO",
+          "GMA09-INGAS",
+          "GMA09-VATR",
+          "GMA09-PI",
+          "GMA09-ANNUM"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "HUM09-GMA-CP",
+        "name": "ENSEIGNEMENTS D'HUMANITE S9",
+        "ects": 3.5,
+        "courses": [
+          "HUM09-ANGL-CONV",
+          "HUM09-ANGL-TOEIC"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "GMA09-1",
+        "name": "MECANIQUE & MATERIAUX S9",
+        "ects": 7.5,
+        "courses": [
+          "GMA09-MECAFORM",
+          "GMA09-CMP",
+          "GMA09-MNEF"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "GMA09-2",
+        "name": "AUTOMATIQUE & MODELISATION S9",
+        "ects": 6.0,
+        "courses": [
+          "GMA09-ROBOT",
+          "GMA09-SYSME",
+          "GMA09-COMOP"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "GMA09-3",
+        "name": "OUVERTURE",
+        "ects": 11.0,
+        "courses": [
+          "GMA09-CORO",
+          "GMA09-INGAS",
+          "GMA09-VATR",
+          "GMA09-PI",
+          "GMA09-ANNUM"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "HUM09",
+        "name": "ENSEIGNEMENTS D'HUMANITE S9",
+        "ects": 5.5,
+        "courses": [
+          "HUM09-ANGL-CONV",
+          "HUM09-ANGL-TOEIC",
+          "HUM09-PM-A",
+          "HUM09-PM-B",
+          "HUM09-PM-C",
+          "HUM09-PM-D",
+          "HUM09-PM-E",
+          "HUM09-PM-F",
+          "EII09-EVST",
+          "EII09-HUMT",
+          "EII09-EVST",
+          "INF09-STGDATING",
+          "GCU09-SPEC-GPC",
+          "GCU09-SPEC-GPD",
+          "DET09-CONF",
+          "HUM09-PM-PRO"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "HUMF1-ELSA Mus",
+        "name": "MUSIQUE  ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1-MUS"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "GMA10-1",
+        "name": "PROJET DE FIN D'ETUDE",
+        "ects": 30.0,
+        "courses": [
+          "GMA10-PFE"
+        ],
+        "semester": 10
+      },
+      {
+        "id": "GMA10-1",
+        "name": "PROJET DE FIN D'ETUDE",
+        "ects": 30.0,
+        "courses": [
+          "GMA10-PFE"
+        ],
+        "semester": 10
+      }
+    ],
+    "ects": 308.0
+  },
+  {
+    "id": "GPM",
+    "name": "G\u00e9nie Physique et Mat\u00e9riaux",
+    "cycles": [],
+    "url": "https://applisjava.insa-rennes.fr/OffreFormationWeb/main?action=RECHERCHE_MAQUETTE&formation=193&langue=100",
+    "teaching_units": [
+      {
+        "id": "GPM05-1",
+        "name": "OUTILS MATHEMATIQUES",
+        "ects": 4.5,
+        "courses": [
+          "ESM05-ANAL",
+          "ESM05-MATLAB",
+          "ESM05-SIG",
+          "GPM05-SMATH"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "GPM05-2",
+        "name": "SCIENCES PHYSIQUES 1",
+        "ects": 6.0,
+        "courses": [
+          "GPM05-POMI",
+          "GPM05-TP",
+          "GPM05-CONF"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "GPM05-3",
+        "name": "INSTRUMENTATION",
+        "ects": 4.5,
+        "courses": [
+          "GPM05-IM"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "GPM05-4",
+        "name": "SCIENCES DES MATERIAUX 1",
+        "ects": 8.0,
+        "courses": [
+          "GPM05-MQ",
+          "ESM05-MAT",
+          "GPM05-PM",
+          "GPM05-COMP"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "HUM05",
+        "name": "ENSEIGNEMENTS D'HUMANITE S5",
+        "ects": 7.0,
+        "courses": [
+          "HUM05-RISQ",
+          "HUM05-ANGL",
+          "HUM05-PSH",
+          "HUM05-EPS"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "HUMF1-RIE",
+        "name": "RIE : Recherche Innovation Entrepreneuriat",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1- RI",
+          "HUMF1- IE"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "HUMF1-ELSA Mus",
+        "name": "MUSIQUE  ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1-MUS"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "GPM06-1",
+        "name": "SCIENCES PHYSIQUES S6",
+        "ects": 5.0,
+        "courses": [
+          "GPM06-POMA",
+          "GPM06-CONF",
+          "GPM06-TP"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "GPM06-1",
+        "name": "SCIENCES PHYSIQUES S6",
+        "ects": 5.0,
+        "courses": [
+          "GPM06-POMA",
+          "GPM06-CONF",
+          "GPM06-TP"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "GPM06-2",
+        "name": "SCIENCES DES MATERIAUX S6",
+        "ects": 5.0,
+        "courses": [
+          "GPM06-TM",
+          "GPM06-CN",
+          "GPM06-CERA"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "GPM06-3",
+        "name": "PROPRIETES ELECTRONIQUES DES MATERIAUX",
+        "ects": 5.5,
+        "courses": [
+          "GPM06-PS",
+          "GPM06-SC"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "GPM06-4",
+        "name": "SYSTEMES",
+        "ects": 7.5,
+        "courses": [
+          "ESM06-AUTO",
+          "GPM06-ELEC"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "HUM06",
+        "name": "ENSEIGNEMENTS D'HUMANITE S6",
+        "ects": 7.0,
+        "courses": [
+          "HUM06-IMO",
+          "HUM06-ANGL",
+          "HUM06-SIM",
+          "HUM06-EPS",
+          "HUM06-PPI"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "GPM07-1",
+        "name": "SCIENCES DES MATERIAUX S7",
+        "ects": 11.0,
+        "courses": [
+          "GPM07-CRIS",
+          "GPM07-DRX",
+          "GPM07-MECA",
+          "GPM07-TPMA",
+          "GPM07-TPMA RI"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "GPM07-2",
+        "name": "SEMI-CONDUCTEURS ET ELECTRONIQUE",
+        "ects": 9.0,
+        "courses": [
+          "GPM07-ELEC",
+          "GPM07-DISP",
+          "GPM07-TPPED",
+          "GPM07-TPPED RI"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "GPM07-3",
+        "name": "SCIENCES DE L'INGENIEUR S7",
+        "ects": 4.0,
+        "courses": [
+          "GPM07-MOD",
+          "GPM07-PLAN",
+          "GPM07-CONF"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "HUM07",
+        "name": "ENSEIGNEMENTS D'HUMANITES S7",
+        "ects": 6.0,
+        "courses": [
+          "HUM07-ANGL",
+          "HUM07-EI",
+          "HUM07-IE",
+          "HUM07-EPS"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "GPM08-1",
+        "name": "SCIENCES DES MATERIAUX S8",
+        "ects": 4.0,
+        "courses": [
+          "GPM08-DIFF",
+          "GPM08-TCM",
+          "GPM08-TPMA",
+          "GPM08-TPMA RI"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "GPM08-2",
+        "name": "TECHNOLOGIES DE SALLE BLANCHE S8",
+        "ects": 6.5,
+        "courses": [
+          "GPM08-TCSI",
+          "GPM08-TPSB1",
+          "GPM08-TPSB2",
+          "GPM08-POM",
+          "GPM08-TPPED",
+          "GPM08-TPPED RI"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "GPM08-3",
+        "name": "SCIENCES DE L'INGENIEUR S8",
+        "ects": 5.5,
+        "courses": [
+          "GPM08-PSM",
+          "GPM08-LAB",
+          "GPM08-LAB RI - LabVIEW Fondamental 2",
+          "GPM08-CONF"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "GPM08-4",
+        "name": "STAGE S8",
+        "ects": 8.0,
+        "courses": [
+          "GPM08-STA4"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "HUM08",
+        "name": "ENSEIGNEMENTS D'HUMANITE S8",
+        "ects": 6.0,
+        "courses": [
+          "HUM08-ANGL",
+          "HUM08-TEJS",
+          "HUM08-SHES1",
+          "HUM08-SHES2",
+          "HUM08-EPS",
+          "HUM08-IE"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "GPM09-1",
+        "name": "SCIENCE DES MATERIAUX S9",
+        "ects": 10.5,
+        "courses": [
+          "GPM09-MIMA",
+          "GPM09-MECA",
+          "GPM09-COMP",
+          "GPM09-BIO",
+          "GPM09-MACC",
+          "GPM09-SCND",
+          "GPM09-CIMA"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "GPM09-2",
+        "name": "MICRO ET OPTOELECTRONIQUE S9",
+        "ects": 9.0,
+        "courses": [
+          "GPM09-ENER",
+          "GPM09-NANO",
+          "GPM09-BPMS",
+          "GPM09-OPTO",
+          "GPM09-ONL",
+          "GPM09-CIMO"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "GPM09-3",
+        "name": "Enseignement scientifiques \u00e0 choix S9",
+        "ects": 2.0,
+        "courses": [
+          "GPM09-MAVA",
+          "GPM09-ALP"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "GPM09-4",
+        "name": "Projets industriels",
+        "ects": 3.0,
+        "courses": [
+          "GPM09-PI"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "HUM09-GPM-PRO",
+        "name": "ENSEIGNEMENTS D'HUMANITE S9 CPro",
+        "ects": 5.5,
+        "courses": [
+          "HUM09-ANGL-CONV",
+          "HUM09-ANGL-TOEIC",
+          "HUM09-PM-PRO",
+          "GPM09-CONF"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "GPM09-1",
+        "name": "SCIENCE DES MATERIAUX S9",
+        "ects": 10.5,
+        "courses": [
+          "GPM09-MIMA",
+          "GPM09-MECA",
+          "GPM09-COMP",
+          "GPM09-BIO",
+          "GPM09-MACC",
+          "GPM09-SCND",
+          "GPM09-CIMA"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "GPM09-2",
+        "name": "MICRO ET OPTOELECTRONIQUE S9",
+        "ects": 9.0,
+        "courses": [
+          "GPM09-ENER",
+          "GPM09-NANO",
+          "GPM09-BPMS",
+          "GPM09-OPTO",
+          "GPM09-ONL",
+          "GPM09-CIMO"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "GPM09-3",
+        "name": "Enseignement scientifiques \u00e0 choix S9",
+        "ects": 2.0,
+        "courses": [
+          "GPM09-MAVA",
+          "GPM09-ALP"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "GPM09-4",
+        "name": "Projets industriels",
+        "ects": 3.0,
+        "courses": [
+          "GPM09-PI"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "HUM09-GPM",
+        "name": "HUMANITES",
+        "ects": 5.5,
+        "courses": [
+          "HUM09-ANGL-CONV",
+          "HUM09-ANGL-TOEIC",
+          "HUM09-PM-A",
+          "HUM09-PM-B",
+          "HUM09-PM-C",
+          "HUM09-PM-D",
+          "HUM09-PM-E",
+          "HUM09-PM-F",
+          "GPM09-CONF"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "GPM10-PFE",
+        "name": "Projet de Fin d'Etudes",
+        "ects": 30.0,
+        "courses": [
+          "GPM10-PFE"
+        ],
+        "semester": 10
+      },
+      {
+        "id": "GPM10-PFE",
+        "name": "Projet de Fin d'Etudes",
+        "ects": 30.0,
+        "courses": [
+          "GPM10-PFE"
+        ],
+        "semester": 10
+      }
+    ],
+    "ects": 247.0
+  },
+  {
+    "id": "filiere-classique-stpi",
+    "name": "Fili\u00e8re classique / ann\u00e9es 1 & 2",
+    "cycles": [],
+    "url": "https://applisjava.insa-rennes.fr/OffreFormationWeb/main?action=RECHERCHE_MAQUETTE&formation=8&langue=100",
+    "teaching_units": [
+      {
+        "id": "HUMF1-ELSA-STPI",
+        "name": "ARTS  ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1- AP",
+          "HUMF1-LUM",
+          "HUMF1-MUS",
+          "HUMF1-THEA",
+          "HUMF1-ES"
+        ],
+        "semester": 1
+      },
+      {
+        "id": "STP01-TCS-1",
+        "name": "SCIENCES FONDAMENTALES",
+        "ects": 10.0,
+        "courses": [
+          "STP01-ALG",
+          "STP01-MECA",
+          "STP01-ANAL",
+          "STP01-OMSP"
+        ],
+        "semester": 1
+      },
+      {
+        "id": "STP01-TCS-2",
+        "name": "SCIENCES EXPERIMENTALES",
+        "ects": 14.0,
+        "courses": [
+          "STP01-ELEC",
+          "STP01-CHIM",
+          "STP01-IMAG",
+          "STP01-PHYS",
+          "STP01-SIND"
+        ],
+        "semester": 1
+      },
+      {
+        "id": "STP01-ENS",
+        "name": "ENSEIGNEMENTS NON SCIENTIFIQUES",
+        "ects": 6.0,
+        "courses": [
+          "STP01-ANGL",
+          "STP01-COMM",
+          "STP01-EPS",
+          "STP01-ALL",
+          "STP01-ESP",
+          "STP01-ARA",
+          "STP01-CHI",
+          "STP01-ITA",
+          "STP01-JAP",
+          "STP01-POR",
+          "STP01-RUS",
+          "STP01-SA",
+          "STP01-OI",
+          "STP01-PPI"
+        ],
+        "semester": 1
+      },
+      {
+        "id": "HUMF1-LANG3STP1",
+        "name": "LANGUES VIV.3 STPI / sem.1",
+        "ects": 1.0,
+        "courses": [
+          "LV3 - Allemand 1",
+          "LV3 - Arabe 1",
+          "LV3 - Chinois 1",
+          "LV3 - Espagnol 1",
+          "LV3 - Italien 1",
+          "LV3 - Japonais 1",
+          "LV3 - Portugais 1",
+          "LV3 - Russe 1",
+          "LV3 - Soutien Anglais 1",
+          "STP01-OI"
+        ],
+        "semester": 1
+      },
+      {
+        "id": "HUMF1-ELSA-STPI",
+        "name": "ARTS  ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1- AP",
+          "HUMF1-LUM",
+          "HUMF1-MUS",
+          "HUMF1-THEA",
+          "HUMF1-ES"
+        ],
+        "semester": 1
+      },
+      {
+        "id": "HUMF2-ELSA-STPI",
+        "name": "ARTS  ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF2-AP",
+          "HUMF2-LUM",
+          "HUMF2-MUS",
+          "HUMF2-THEA",
+          "HUMF2-ES"
+        ],
+        "semester": 2
+      },
+      {
+        "id": "STP02-TCS-1",
+        "name": "SCIENCES FONDAMENTALES",
+        "ects": 15.0,
+        "courses": [
+          "STP02-ALG",
+          "STP02-INFO",
+          "STP02-ANAL",
+          "STP02-OMSP",
+          "STP02-MECA"
+        ],
+        "semester": 2
+      },
+      {
+        "id": "STP02-TCS-2",
+        "name": "SCIENCES EXPERIMENTALES",
+        "ects": 9.0,
+        "courses": [
+          "STP02-ELEC",
+          "STP02-PHYS",
+          "STP02-CHIM",
+          "STP02-THERMO",
+          "FIRE"
+        ],
+        "semester": 2
+      },
+      {
+        "id": "STP02-ENS",
+        "name": "ENSEIGNEMENTS NON SCIENTIFIQUES",
+        "ects": 6.0,
+        "courses": [
+          "STP02-ANGL",
+          "STP02-COMM",
+          "STP02-EPS",
+          "STP02-ALL",
+          "STP02-ESP",
+          "STP02-ARA",
+          "STP02-CHI",
+          "STP02-ITA",
+          "STP02-JAP",
+          "STP02-POR",
+          "STP02-RUS",
+          "STP02-SA",
+          "STP02-OI",
+          "STP02-PPI"
+        ],
+        "semester": 2
+      },
+      {
+        "id": "HUMF2-LANG3STP2",
+        "name": "LANGUES VIV.3 STPI / sem.2",
+        "ects": 1.0,
+        "courses": [
+          "LV3 - Allemand 2",
+          "LV3 - Arabe 2",
+          "LV3 - Chinois 2",
+          "LV3 - Espagnol 2",
+          "LV3 - Italien 2",
+          "LV3 - Japonais 2",
+          "LV3 - Portugais 2",
+          "LV3 - Russe 2",
+          "LV3 - Soutien Anglais 2"
+        ],
+        "semester": 2
+      },
+      {
+        "id": "HUMF2-ELSA-STPI",
+        "name": "ARTS  ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF2-AP",
+          "HUMF2-LUM",
+          "HUMF2-MUS",
+          "HUMF2-THEA",
+          "HUMF2-ES"
+        ],
+        "semester": 2
+      },
+      {
+        "id": "STP02-ER-FIRE",
+        "name": "ENSEIGNEMENT RESERVE FIRE",
+        "ects": 1.0,
+        "courses": [],
+        "semester": 2
+      },
+      {
+        "id": "STP03-TCS-1",
+        "name": "SCIENCES FONDAMENTALES",
+        "ects": 9.0,
+        "courses": [
+          "STP03-ALG3",
+          "STP03-INFO",
+          "STP03-MECA",
+          "STP03-MECA-FIRE",
+          "STP03-ANAL3"
+        ],
+        "semester": 3
+      },
+      {
+        "id": "STP03-TCS-2",
+        "name": "SCIENCES EXPERIMENTALES",
+        "ects": 11.0,
+        "courses": [
+          "STP03-ACSA",
+          "STP03-THEN",
+          "STP03-THEN-FIRE",
+          "STP03-CHIM",
+          "STP03-ELEC",
+          "FIRE",
+          "STP03-PHYS"
+        ],
+        "semester": 3
+      },
+      {
+        "id": "STP03-AIE",
+        "name": "AIE",
+        "ects": 1.0,
+        "courses": [
+          "STP03-AIE"
+        ],
+        "semester": 3
+      },
+      {
+        "id": "STP03-STAG",
+        "name": "STAGE",
+        "ects": 4.0,
+        "courses": [
+          "STP03-STAG"
+        ],
+        "semester": 3
+      },
+      {
+        "id": "STP03-ENS",
+        "name": "ENSEIGNEMENT NON SCIENTIFIQUE",
+        "ects": 6.0,
+        "courses": [
+          "STP03-ANGL",
+          "STP03-COMM",
+          "STP03-PPI",
+          "STP03-EPS",
+          "STP03-ALL",
+          "STP03-ESP",
+          "STP03-CHI",
+          "STP03-ITA",
+          "STP03-JAP",
+          "STP03-OI",
+          "STP03-RUS",
+          "STP03-POR",
+          "STP03-SA"
+        ],
+        "semester": 3
+      },
+      {
+        "id": "HUMF3-LANG3STP3",
+        "name": "LANGUES VIV.3 STPI / sem.3",
+        "ects": 1.0,
+        "courses": [
+          "STP03-ALL-LV3",
+          "STP03-ESP-LV3",
+          "STP03-CHI-LV3",
+          "STP03-ITA-LV3",
+          "STP03-JAP-LV3",
+          "STP03-RUS-LV3",
+          "STP03-POR-LV3"
+        ],
+        "semester": 3
+      },
+      {
+        "id": "HUMF1-ELSA-STPI",
+        "name": "ARTS  ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1- AP",
+          "HUMF1-LUM",
+          "HUMF1-MUS",
+          "HUMF1-THEA",
+          "HUMF1-ES"
+        ],
+        "semester": 3
+      },
+      {
+        "id": "STP04-TCS-1",
+        "name": "SCIENCES FONDAMENTALES",
+        "ects": 10.0,
+        "courses": [
+          "STP04-PROBA",
+          "STP04-GEOM",
+          "STP04-INFO"
+        ],
+        "semester": 4
+      },
+      {
+        "id": "STP04-TCS-2",
+        "name": "SCIENCES EXPERIMENTALES",
+        "ects": 14.0,
+        "courses": [
+          "STP04-MECA",
+          "STP04-ELMG",
+          "FIRE",
+          "STP04-CHIM",
+          "STP04-SI",
+          "STP04-ONDE",
+          "FIRE",
+          "STP04-PHYS"
+        ],
+        "semester": 4
+      },
+      {
+        "id": "STP04-AIE",
+        "name": "AIE",
+        "ects": 1.0,
+        "courses": [
+          "STP04-AIE"
+        ],
+        "semester": 4
+      },
+      {
+        "id": "STP04-ENS",
+        "name": "ENSEIGNEMENT NON SCIENTIFIQUE",
+        "ects": 6.0,
+        "courses": [
+          "STP04-ANGL",
+          "STP04-COMM",
+          "STP04-PPI",
+          "STP04-EPS",
+          "STP04-ALL",
+          "STP04-ESP",
+          "STP04-CHI",
+          "STP04-ITA",
+          "STP04-JAP",
+          "STP04-RUS",
+          "STP04-OI",
+          "STP04-POR",
+          "STP04-SA",
+          "STP04-RIE"
+        ],
+        "semester": 4
+      },
+      {
+        "id": "HUMF4-LANG3STP4",
+        "name": "LANGUES VIV.3 STPI / sem.4",
+        "ects": 1.0,
+        "courses": [
+          "STP04-ALL-LV3",
+          "STP04-ESP-LV3",
+          "STP04-CHI-LV3",
+          "STP04-ITA-LV3",
+          "STP04-JAP-LV3",
+          "STP04-POR-LV3",
+          "STP04-RUS"
+        ],
+        "semester": 4
+      },
+      {
+        "id": "HUMF2-ELSA-STPI",
+        "name": "ARTS  ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF2-AP",
+          "HUMF2-LUM",
+          "HUMF2-MUS",
+          "HUMF2-THEA",
+          "HUMF2-ES"
+        ],
+        "semester": 4
+      }
+    ],
+    "ects": 133.0
+  },
+  {
+    "id": "EII",
+    "name": "\u00c9lectronique et Informatique Industrielle",
+    "cycles": [],
+    "url": "https://applisjava.insa-rennes.fr/OffreFormationWeb/main?action=RECHERCHE_MAQUETTE&formation=2&langue=100",
+    "teaching_units": [
+      {
+        "id": "EII05-E",
+        "name": "ELECTRONIQUE S5",
+        "ects": 6.0,
+        "courses": [
+          "EII05-ELE"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "EII05-II - INFORMATIQUE INDUSTRIELLE S5",
+        "name": "Parcours Logique",
+        "ects": 10.5,
+        "courses": [
+          "ESM05-LOG",
+          "EII05-ARC",
+          "EII05-LANGC"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "EII05-MSA",
+        "name": "MATHS, SIGNAL, AUTOMATIQUE S5 - Parcours Logique",
+        "ects": 6.5,
+        "courses": [
+          "ESM05-SIG",
+          "ESM05-ANAL",
+          "EII05-PROBA",
+          "EII05-SIG2"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "HUM05",
+        "name": "ENSEIGNEMENTS D'HUMANITE S5",
+        "ects": 7.0,
+        "courses": [
+          "HUM05-RISQ",
+          "HUM05-ANGL",
+          "HUM05-PSH",
+          "HUM05-EPS"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "HUMF1-ELSA Mus",
+        "name": "MUSIQUE  ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1-MUS"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "HUMF1-ELSA Thea",
+        "name": "THEATRE  ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1-THEA"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "HUMF1-RIE",
+        "name": "RIE : Recherche Innovation Entrepreneuriat",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1- RI",
+          "HUMF1- IE"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "EII05-E",
+        "name": "ELECTRONIQUE S5",
+        "ects": 6.0,
+        "courses": [
+          "EII05-ELE"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "EII05-II-PM - INFORMATIQUE INDUSTRIELLE S5",
+        "name": "Parcours Math\u00e9matiques",
+        "ects": 8.5,
+        "courses": [
+          "EII05-ARC",
+          "EII05-LANGC"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "EII05-MSA-PM",
+        "name": "MATHS, SIGNAL, AUTOMATIQUE S5 - Parcours Math\u00e9matiques",
+        "ects": 8.5,
+        "courses": [
+          "ESM05-SIG",
+          "ESM05-ANAL",
+          "EII05-PROBA",
+          "EII05-SIG2",
+          "EII05-MATH"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "HUM05",
+        "name": "ENSEIGNEMENTS D'HUMANITE S5",
+        "ects": 7.0,
+        "courses": [
+          "HUM05-RISQ",
+          "HUM05-ANGL",
+          "HUM05-PSH",
+          "HUM05-EPS"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "HUMF1-ELSA Mus",
+        "name": "MUSIQUE  ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1-MUS"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "HUMF1-ELSA Thea",
+        "name": "THEATRE  ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1-THEA"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "HUMF1-RIE",
+        "name": "RIE : Recherche Innovation Entrepreneuriat",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1- RI",
+          "HUMF1- IE"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "EII06-E",
+        "name": "ELECTRONIQUE S6",
+        "ects": 6.0,
+        "courses": [
+          "EII06-ELE"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "EII06-II",
+        "name": "INFORMATIQUE INDUSTRIELLE S6",
+        "ects": 10.0,
+        "courses": [
+          "EII06-PS",
+          "EII06-SMC",
+          "EII06-PJM"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "EII06-MSA",
+        "name": "MATHS, SIGNAL, AUTOMATIQUE S6",
+        "ects": 7.0,
+        "courses": [
+          "EII06-TS",
+          "ESM06-AUTO"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "HUM06",
+        "name": "ENSEIGNEMENTS D'HUMANITE S6",
+        "ects": 7.0,
+        "courses": [
+          "HUM06-IMO",
+          "HUM06-ANGL",
+          "HUM06-SIM",
+          "HUM06-EPS",
+          "HUM06-PPI"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "HUMF2-ELSA Mus",
+        "name": "MUSIQUE ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF2-MUS"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "HUMF2-ELSA Thea",
+        "name": "THEATRE ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF2-THEA"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "EII06-E",
+        "name": "ELECTRONIQUE S6",
+        "ects": 6.0,
+        "courses": [
+          "EII06-ELE"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "EII06-II",
+        "name": "INFORMATIQUE INDUSTRIELLE S6",
+        "ects": 10.0,
+        "courses": [
+          "EII06-PS",
+          "EII06-SMC",
+          "EII06-PJM"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "EII06-MSA",
+        "name": "MATHS, SIGNAL, AUTOMATIQUE S6",
+        "ects": 7.0,
+        "courses": [
+          "EII06-TS",
+          "ESM06-AUTO"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "HUM06",
+        "name": "ENSEIGNEMENTS D'HUMANITE S6",
+        "ects": 7.0,
+        "courses": [
+          "HUM06-IMO",
+          "HUM06-ANGL",
+          "HUM06-SIM",
+          "HUM06-EPS",
+          "HUM06-PPI"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "HUMF2-ELSA Mus",
+        "name": "MUSIQUE ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF2-MUS"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "HUMF2-ELSA Thea",
+        "name": "THEATRE ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF2-THEA"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "EII07-II",
+        "name": "INFORMATIQUE INDUSTRIELLE S7",
+        "ects": 10.0,
+        "courses": [
+          "EII07-ARC",
+          "EII07-BdC",
+          "EII07-POO",
+          "EII07-VHDL"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "EII07-MSA",
+        "name": "MATHS, SIGNAL, AUTOMATIQUE S7",
+        "ects": 6.0,
+        "courses": [
+          "EII07-OM",
+          "EII07-TSAN"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "EII07-PJ",
+        "name": "PROJETS S7",
+        "ects": 8.0,
+        "courses": [
+          "EII07-INVR-EB",
+          "EII07-MCPJ"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "HUM07",
+        "name": "ENSEIGNEMENTS D'HUMANITES S7",
+        "ects": 6.0,
+        "courses": [
+          "HUM07-ANGL",
+          "HUM07-EI",
+          "HUM07-IE",
+          "HUM07-EPS"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "HUMF1-ELSA Mus",
+        "name": "MUSIQUE  ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1-MUS"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "HUMF1-ELSA Thea",
+        "name": "THEATRE  ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1-THEA"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "EII07-E",
+        "name": "ELECTRONIQUE S7",
+        "ects": 8.0,
+        "courses": [
+          "EII07-ELE",
+          "EII07-MCPJ"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "EII07-II",
+        "name": "INFORMATIQUE INDUSTRIELLE S7",
+        "ects": 10.0,
+        "courses": [
+          "EII07-ARC",
+          "EII07-BdC",
+          "EII07-POO",
+          "EII07-VHDL"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "EII07-MSA",
+        "name": "MATHS, SIGNAL, AUTOMATIQUE S7",
+        "ects": 6.0,
+        "courses": [
+          "EII07-OM",
+          "EII07-TSAN"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "HUM07",
+        "name": "ENSEIGNEMENTS D'HUMANITES S7",
+        "ects": 6.0,
+        "courses": [
+          "HUM07-ANGL",
+          "HUM07-EI",
+          "HUM07-IE",
+          "HUM07-EPS"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "HUMF1-ELSA Mus",
+        "name": "MUSIQUE  ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1-MUS"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "HUMF1-ELSA Thea",
+        "name": "THEATRE  ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1-THEA"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "EII08-PJ-R",
+        "name": "PROJETS S8",
+        "ects": 6.0,
+        "courses": [
+          "EII08-INVR-CR"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "EII08-II-R",
+        "name": "INFORMATIQUE INDUSTRIELLE S8",
+        "ects": 6.0,
+        "courses": [
+          "EII08-SEE",
+          "EII08-STR",
+          "EII08-LP"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "EII08-MSA",
+        "name": "MATHS, SIGNAL, AUTOMATIQUE S8",
+        "ects": 4.0,
+        "courses": [
+          "EII08-AI",
+          "EII08-IAE"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "HUM08",
+        "name": "ENSEIGNEMENTS D'HUMANITE S8",
+        "ects": 6.0,
+        "courses": [
+          "HUM08-ANGL",
+          "HUM08-TEJS",
+          "HUM08-SHES1",
+          "HUM08-SHES2",
+          "HUM08-EPS",
+          "HUM08-IE"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "EII-STAGE08",
+        "name": "STAGE S8",
+        "ects": 8.0,
+        "courses": [
+          "EII08-STAGE"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "HUMF2-ELSA Mus",
+        "name": "MUSIQUE ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF2-MUS"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "HUMF2-ELSA Thea",
+        "name": "THEATRE ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF2-THEA"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "EII08-PJ",
+        "name": "PROJETS S8",
+        "ects": 4.5,
+        "courses": [
+          "EII08-PROJ"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "EII08-II",
+        "name": "INFORMATIQUE INDUSTRIELLE S8",
+        "ects": 7.5,
+        "courses": [
+          "EII08-RES",
+          "EII08-SEE",
+          "EII08-STR",
+          "EII08-LP"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "EII08-MSA",
+        "name": "MATHS, SIGNAL, AUTOMATIQUE S8",
+        "ects": 4.0,
+        "courses": [
+          "EII08-AI",
+          "EII08-IAE"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "HUM08",
+        "name": "ENSEIGNEMENTS D'HUMANITE S8",
+        "ects": 6.0,
+        "courses": [
+          "HUM08-ANGL",
+          "HUM08-TEJS",
+          "HUM08-SHES1",
+          "HUM08-SHES2",
+          "HUM08-EPS",
+          "HUM08-IE"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "EII-STAGE08",
+        "name": "STAGE S8",
+        "ects": 8.0,
+        "courses": [
+          "EII08-STAGE"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "HUMF2-ELSA Mus",
+        "name": "MUSIQUE ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF2-MUS"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "HUMF2-ELSA Thea",
+        "name": "THEATRE ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF2-THEA"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "EII09-TTI",
+        "name": "TRAITEMENT ET TRANSMISSION DE L'INFORMATION",
+        "ects": 9.0,
+        "courses": [
+          "EII09-COTR",
+          "EII09-VIS",
+          "EII09-ANIM",
+          "EII09-DATA",
+          "EII09-CONF"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "L",
+        "name": "PROGRAMMATION ET LANGAGES",
+        "ects": 8.0,
+        "courses": [
+          "EII09-QLOG",
+          "EII09-PROJ"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "EII09-SE",
+        "name": "SYSTEMES EMBARQUES",
+        "ects": 7.5,
+        "courses": [
+          "EII09-CONSO",
+          "EII09-DISPS",
+          "EII09-AHD",
+          "EII09-SYSC",
+          "EII09-PPEM"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "HUM09",
+        "name": "ENSEIGNEMENTS D'HUMANITE S9",
+        "ects": 5.5,
+        "courses": [
+          "HUM09-ANGL-CONV",
+          "HUM09-ANGL-TOEIC",
+          "HUM09-PM-A",
+          "HUM09-PM-B",
+          "HUM09-PM-C",
+          "HUM09-PM-D",
+          "HUM09-PM-E",
+          "HUM09-PM-F",
+          "EII09-EVST",
+          "EII09-HUMT",
+          "EII09-EVST",
+          "INF09-STGDATING",
+          "GCU09-SPEC-GPC",
+          "GCU09-SPEC-GPD",
+          "DET09-CONF",
+          "HUM09-PM-PRO"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "N09-SEIR",
+        "name": "Syst\u00e8mes embarqu\u00e9s - Images- R\u00e9seaux",
+        "ects": 19.5,
+        "courses": [
+          "EII09-CONSO",
+          "EII09-DISPS",
+          "EII09-PPEM",
+          "EII09-AHD",
+          "EII09-SYSC",
+          "DET09-SOPC",
+          "DET09-REALTIME",
+          "DET09-SYSLAB",
+          "EII09-COTR",
+          "EII09-VIS",
+          "EII09-ANIM",
+          "DET09-PRCNUM",
+          "DET09-NETLAB",
+          "DET09-USECASE",
+          "DET09-LAN-DATA",
+          "DET09-MOBILE"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "N09-Projet",
+        "name": "Projet technologique",
+        "ects": 6.0,
+        "courses": [
+          "N09-PROJ"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "N EII",
+        "name": "ENSEIGNEMENTS D'HUMANITE - M&N09",
+        "ects": 5.5,
+        "courses": [
+          "HUM09-ANGL-CONV",
+          "HUM09-ANGL-TOEIC",
+          "HUM09-PM-A",
+          "HUM09-PM-B",
+          "HUM09-PM-C",
+          "HUM09-PM-D",
+          "HUM09-PM-E",
+          "HUM09-PM-F",
+          "EII09-EVST",
+          "EII09-CONF"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "EII-PFE10",
+        "name": "PROJET DE FIN D'ETUDES",
+        "ects": 30.0,
+        "courses": [
+          "EII10-PFE"
+        ],
+        "semester": 10
+      },
+      {
+        "id": "EII-PFE10",
+        "name": "PROJET DE FIN D'ETUDES",
+        "ects": 30.0,
+        "courses": [
+          "EII10-PFE"
+        ],
+        "semester": 10
+      }
+    ],
+    "ects": 379.0
+  },
+  {
+    "id": "ET",
+    "name": "\u00c9lectronique et T\u00e9l\u00e9communications",
+    "cycles": [],
+    "url": "https://applisjava.insa-rennes.fr/OffreFormationWeb/main?action=RECHERCHE_MAQUETTE&formation=197&langue=100",
+    "teaching_units": [
+      {
+        "id": "DET05-1",
+        "name": "Electronique et ondes",
+        "ects": 8.0,
+        "courses": [
+          "DET05-ELEC",
+          "DET05-WTLB"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "DET05-2",
+        "name": "Math\u00e9matiques et traitement du signal",
+        "ects": 8.5,
+        "courses": [
+          "DET05-SPB",
+          "ESM05-ANAL",
+          "DET05-PROBA",
+          "DET05-MATP"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "DET05-3",
+        "name": "Informatique et logique",
+        "ects": 6.5,
+        "courses": [
+          "ESM05-INFOC",
+          "ESM05-LOG",
+          "DET05-PROLOG"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "HUM05-ISP",
+        "name": "ENSEIGNEMENTS D'HUMANITE S5",
+        "ects": 4.0,
+        "courses": [
+          "HUM05-ANGL-ISP",
+          "HUM05-ALL-ISP",
+          "HUM05-ESP-ISP",
+          "HUM05-JAP-ISP",
+          "HUM05-RUS-ISP",
+          "HUM05-CHI-ISP",
+          "HUM05-PSH-ISP",
+          "HUM05-RISQ-ISP",
+          "HUM05-EPS"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "DET05-1",
+        "name": "Electronique et ondes",
+        "ects": 8.0,
+        "courses": [
+          "DET05-ELEC",
+          "DET05-WTLB"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "DET05-2",
+        "name": "Math\u00e9matiques et traitement du signal",
+        "ects": 8.5,
+        "courses": [
+          "DET05-SPB",
+          "ESM05-ANAL",
+          "DET05-PROBA",
+          "DET05-MATP"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "DET05-3",
+        "name": "Informatique et logique",
+        "ects": 6.5,
+        "courses": [
+          "ESM05-INFOC",
+          "ESM05-LOG",
+          "DET05-PROLOG"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "HUM05",
+        "name": "ENSEIGNEMENTS D'HUMANITE S5",
+        "ects": 7.0,
+        "courses": [
+          "HUM05-RISQ",
+          "HUM05-ANGL",
+          "HUM05-PSH",
+          "HUM05-EPS"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "HUMF1-ELSA Mus",
+        "name": "MUSIQUE  ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1-MUS"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "",
+        "name": "SAM : APES Responsabilit\u00e9s Associatives",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1-APES DIV"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "HUMF1-RIE",
+        "name": "RIE : Recherche Innovation Entrepreneuriat",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1- RI",
+          "HUMF1- IE"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "DET06-1",
+        "name": "Electronique Analogique",
+        "ects": 9.5,
+        "courses": [
+          "DET06-ALS",
+          "DET06-EWAB"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "DET06-2",
+        "name": "Traitement du signal et Communications",
+        "ects": 6.5,
+        "courses": [
+          "DET06-SSPB",
+          "DET06-COMSYS"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "DET06-3",
+        "name": "Electronique num\u00e9rique",
+        "ects": 7.0,
+        "courses": [
+          "DET06-AMI",
+          "DET06-DLS",
+          "DET06-RES"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "HUM06-ISP",
+        "name": "ENSEIGNEMENTS D'HUMANITE S6",
+        "ects": 4.0,
+        "courses": [
+          "HUM06-ANGL-ISP",
+          "HUM06-ALL-ISP",
+          "HUM06-ESP-ISP",
+          "HUM06-RUS-ISP",
+          "HUM06-IMO-ISP",
+          "HUM06-SIM-ISP",
+          "HUM06-EPS",
+          "HUM06-JAP-ISP",
+          "HUM06-CHI-ISP"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "DET06-1",
+        "name": "Electronique Analogique",
+        "ects": 9.5,
+        "courses": [
+          "DET06-ALS",
+          "DET06-EWAB"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "DET06-2",
+        "name": "Traitement du signal et Communications",
+        "ects": 6.5,
+        "courses": [
+          "DET06-SSPB",
+          "DET06-COMSYS"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "DET06-3",
+        "name": "Electronique num\u00e9rique",
+        "ects": 7.0,
+        "courses": [
+          "DET06-AMI",
+          "DET06-DLS",
+          "DET06-RES"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "HUM06",
+        "name": "ENSEIGNEMENTS D'HUMANITE S6",
+        "ects": 7.0,
+        "courses": [
+          "HUM06-IMO",
+          "HUM06-ANGL",
+          "HUM06-SIM",
+          "HUM06-EPS",
+          "HUM06-PPI"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "HUMF2-ELSA Mus",
+        "name": "MUSIQUE ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF2-MUS"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "DET07-1",
+        "name": "Electronique et Syst\u00e8mes",
+        "ects": 7.5,
+        "courses": [
+          "DET07-ESNL",
+          "DET07-DSP",
+          "DET07-CDC",
+          "DET07-RECH"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "DET07-2",
+        "name": "D\u00e9tection, estimation, radiocommunication",
+        "ects": 6.5,
+        "courses": [
+          "DET07-DETIC",
+          "DET07-RADIO1"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "DET07-3",
+        "name": "Communications",
+        "ects": 6.0,
+        "courses": [
+          "DET07-MB",
+          "DET07-CNUM1"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "DET07-4",
+        "name": "Outil pour la conception",
+        "ects": 4.0,
+        "courses": [
+          "DET07-VHDL",
+          ""
+        ],
+        "semester": 7
+      },
+      {
+        "id": "HUM07",
+        "name": "ENSEIGNEMENTS D'HUMANITES S7",
+        "ects": 6.0,
+        "courses": [
+          "HUM07-ANGL",
+          "HUM07-EI",
+          "HUM07-IE",
+          "HUM07-EPS"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "HUMF1-ELSA Mus",
+        "name": "MUSIQUE  ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1-MUS"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "",
+        "name": "SAM : APES Responsabilit\u00e9s Associatives",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1-APES DIV"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "DET07-1",
+        "name": "Electronique et Syst\u00e8mes",
+        "ects": 7.5,
+        "courses": [
+          "DET07-ESNL",
+          "DET07-DSP",
+          "DET07-CDC",
+          "DET07-RECH"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "DET07-2",
+        "name": "D\u00e9tection, estimation, radiocommunication",
+        "ects": 6.5,
+        "courses": [
+          "DET07-DETIC",
+          "DET07-RADIO1"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "DET07-3",
+        "name": "Communications",
+        "ects": 6.0,
+        "courses": [
+          "DET07-MB",
+          "DET07-CNUM1"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "DET07-4",
+        "name": "Outil pour la conception",
+        "ects": 4.0,
+        "courses": [
+          "DET07-VHDL",
+          ""
+        ],
+        "semester": 7
+      },
+      {
+        "id": "HUM07",
+        "name": "ENSEIGNEMENTS D'HUMANITES S7",
+        "ects": 6.0,
+        "courses": [
+          "HUM07-ANGL",
+          "HUM07-EI",
+          "HUM07-IE",
+          "HUM07-EPS"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "",
+        "name": "SAM : APES Responsabilit\u00e9s Associatives",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1-APES DIV"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "HUMF1-ELSA Mus",
+        "name": "MUSIQUE  ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1-MUS"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "DET08-1",
+        "name": "Hyper",
+        "ects": 5.0,
+        "courses": [
+          "DET08-MW",
+          "DET08-WA",
+          "DET08-RADIO-2"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "DET08-2",
+        "name": "Traitement Radar et projet",
+        "ects": 6.0,
+        "courses": [
+          "DET08-SYRAD",
+          "DET08-TSRS",
+          "DET08-PROJ",
+          "DET08-RECH"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "DET08-3",
+        "name": "R\u00e9seaux et communications",
+        "ects": 5.0,
+        "courses": [
+          "DET08-RES",
+          "DET08-CNUM2",
+          "DET08-MNUM"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "HUM08",
+        "name": "ENSEIGNEMENTS D'HUMANITE S8",
+        "ects": 6.0,
+        "courses": [
+          "HUM08-ANGL",
+          "HUM08-TEJS",
+          "HUM08-SHES1",
+          "HUM08-SHES2",
+          "HUM08-EPS",
+          "HUM08-IE"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "DET08-STAGE",
+        "name": "Stage",
+        "ects": 8.0,
+        "courses": [
+          "DET08-STAGE"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "DET08-1",
+        "name": "Hyper",
+        "ects": 5.0,
+        "courses": [
+          "DET08-MW",
+          "DET08-WA",
+          "DET08-RADIO-2"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "DET08-2",
+        "name": "Traitement Radar et projet",
+        "ects": 6.0,
+        "courses": [
+          "DET08-SYRAD",
+          "DET08-TSRS",
+          "DET08-PROJ",
+          "DET08-RECH"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "DET08-3",
+        "name": "R\u00e9seaux et communications",
+        "ects": 5.0,
+        "courses": [
+          "DET08-RES",
+          "DET08-CNUM2",
+          "DET08-MNUM"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "HUM08",
+        "name": "ENSEIGNEMENTS D'HUMANITE S8",
+        "ects": 6.0,
+        "courses": [
+          "HUM08-ANGL",
+          "HUM08-TEJS",
+          "HUM08-SHES1",
+          "HUM08-SHES2",
+          "HUM08-EPS",
+          "HUM08-IE"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "DET08-STAGE",
+        "name": "Stage",
+        "ects": 8.0,
+        "courses": [
+          "DET08-STAGE"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "DET08-STAGE",
+        "name": "Stage",
+        "ects": 8.0,
+        "courses": [
+          "DET08-STAGE"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "DET09-1",
+        "name": "Techniques de Communications",
+        "ects": 9.5,
+        "courses": [
+          "DET09-TCCOMP",
+          "DET09-TCMIMO",
+          "DET09-TCETA",
+          "DET09-TCFIBRES",
+          "DET09-TCRECA",
+          "DET09-TCANT",
+          "DET09-TCCEM"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "DET09-2",
+        "name": "Syst\u00e8mes Num\u00e9riques et Bureaux d'Etudes",
+        "ects": 8.5,
+        "courses": [
+          "DET09-MOBILE",
+          "DET09-USECASE",
+          "DET09-BE",
+          "DET09-SOPC",
+          "DET09-REALTIME",
+          "DET09-RECH"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "DET09-3",
+        "name": "UE \u00e0 choix",
+        "ects": 6.5,
+        "courses": [
+          "DET09-NETLAB",
+          "DET09-IRHINT",
+          "DET09-LAN-DATA",
+          "DET09-IRHPL",
+          "DET09-IRHPROJ",
+          "DET09-TCCROSS"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "HUM09-DET-PRO",
+        "name": "HUMANITES CONTRAT PRO E&T",
+        "ects": 9.0,
+        "courses": [
+          "HUM09-ANGL-CONV",
+          "HUM09-ANGL-TOEIC",
+          "DET09-CONF",
+          "DET09-TCpro",
+          "HUM09-PM-PRO",
+          "DET10-TCpro",
+          "HUM10-ANG-PRO-DET"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "DET09-1",
+        "name": "Techniques de Communications",
+        "ects": 9.5,
+        "courses": [
+          "DET09-TCCOMP",
+          "DET09-TCMIMO",
+          "DET09-TCETA",
+          "DET09-TCFIBRES",
+          "DET09-TCRECA",
+          "DET09-TCANT",
+          "DET09-TCCEM"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "DET09-2",
+        "name": "Syst\u00e8mes Num\u00e9riques et Bureaux d'Etudes",
+        "ects": 8.5,
+        "courses": [
+          "DET09-MOBILE",
+          "DET09-USECASE",
+          "DET09-BE",
+          "DET09-SOPC",
+          "DET09-REALTIME",
+          "DET09-RECH"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "DET09-3",
+        "name": "UE \u00e0 choix",
+        "ects": 6.5,
+        "courses": [
+          "DET09-NETLAB",
+          "DET09-IRHINT",
+          "DET09-LAN-DATA",
+          "DET09-IRHPL",
+          "DET09-IRHPROJ",
+          "DET09-TCCROSS"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "HUM09",
+        "name": "ENSEIGNEMENTS D'HUMANITE S9",
+        "ects": 5.5,
+        "courses": [
+          "HUM09-ANGL-CONV",
+          "HUM09-ANGL-TOEIC",
+          "HUM09-PM-A",
+          "HUM09-PM-B",
+          "HUM09-PM-C",
+          "HUM09-PM-D",
+          "HUM09-PM-E",
+          "HUM09-PM-F",
+          "EII09-EVST",
+          "EII09-HUMT",
+          "EII09-EVST",
+          "INF09-STGDATING",
+          "GCU09-SPEC-GPC",
+          "GCU09-SPEC-GPD",
+          "DET09-CONF",
+          "HUM09-PM-PRO"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "",
+        "name": "SAM : APES Responsabilit\u00e9s Associatives",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1-APES DIV"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "N09-SEIR",
+        "name": "Syst\u00e8mes embarqu\u00e9s - Images- R\u00e9seaux",
+        "ects": 19.5,
+        "courses": [
+          "EII09-CONSO",
+          "EII09-DISPS",
+          "EII09-PPEM",
+          "EII09-AHD",
+          "EII09-SYSC",
+          "DET09-SOPC",
+          "DET09-REALTIME",
+          "DET09-SYSLAB",
+          "EII09-COTR",
+          "EII09-VIS",
+          "EII09-ANIM",
+          "DET09-PRCNUM",
+          "DET09-NETLAB",
+          "DET09-USECASE",
+          "DET09-LAN-DATA",
+          "DET09-MOBILE"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "N09-Projet",
+        "name": "Projet technologique",
+        "ects": 6.0,
+        "courses": [
+          "N09-PROJ"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "",
+        "name": "SAM : APES Responsabilit\u00e9s Associatives",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1-APES DIV"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "N SRC",
+        "name": "ENSEIGNEMENTS D'HUMANITE - M&N09",
+        "ects": 4.5,
+        "courses": [
+          "HUM09-ANGL-CONV",
+          "HUM09-ANGL-TOEIC",
+          "HUM09-PM-A",
+          "HUM09-PM-B",
+          "HUM09-PM-C",
+          "HUM09-PM-D",
+          "HUM09-PM-E",
+          "HUM09-PM-F",
+          "DET09-CONF"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "DET10-2",
+        "name": "TC PRO Projet de Fin d'Etudes",
+        "ects": 30.0,
+        "courses": [],
+        "semester": 10
+      },
+      {
+        "id": "DET10-1",
+        "name": "Projet de Fin d'Etudes",
+        "ects": 30.0,
+        "courses": [
+          "DET10-PFE"
+        ],
+        "semester": 10
+      },
+      {
+        "id": "DET10-1",
+        "name": "Projet de Fin d'Etudes",
+        "ects": 30.0,
+        "courses": [
+          "DET10-PFE"
+        ],
+        "semester": 10
+      },
+      {
+        "id": "DET10-1",
+        "name": "Projet de Fin d'Etudes",
+        "ects": 30.0,
+        "courses": [
+          "DET10-PFE"
+        ],
+        "semester": 10
+      },
+      {
+        "id": "DET10-1",
+        "name": "Projet de Fin d'Etudes",
+        "ects": 30.0,
+        "courses": [
+          "DET10-PFE"
+        ],
+        "semester": 10
+      }
+    ],
+    "ects": 495.5
+  },
+  {
+    "id": "MA",
+    "name": "Math\u00e9matiques Appliqu\u00e9es",
+    "cycles": [],
+    "url": "https://applisjava.insa-rennes.fr/OffreFormationWeb/main?action=RECHERCHE_MAQUETTE&formation=198&langue=100",
+    "teaching_units": [
+      {
+        "id": "DMA05-MATHS",
+        "name": "MATHEMATIQUES",
+        "ects": 8.5,
+        "courses": [
+          "DMA05-OMB",
+          "DMA05-Proba",
+          "DMA05-REMED"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "DMA05-MOD",
+        "name": "MODELISATION",
+        "ects": 5.0,
+        "courses": [
+          "DMA05-AD",
+          "DMA05-MEDO"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "DMA05-INFOS",
+        "name": "INFORMATIQUE SCIENTIFIQUE",
+        "ects": 8.5,
+        "courses": [
+          "DMA05-PYTHO",
+          "DMA05-ILM",
+          "DMA05-MNL",
+          "ESM05-INFOC"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "DMA05-SEM",
+        "name": "SEMINAIRE ENTREPRISE",
+        "ects": 1.0,
+        "courses": [
+          "DMA05-SE"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "HUM05-ISP",
+        "name": "ENSEIGNEMENTS D'HUMANITE S5",
+        "ects": 4.0,
+        "courses": [
+          "HUM05-ANGL-ISP",
+          "HUM05-ALL-ISP",
+          "HUM05-ESP-ISP",
+          "HUM05-JAP-ISP",
+          "HUM05-RUS-ISP",
+          "HUM05-CHI-ISP",
+          "HUM05-PSH-ISP",
+          "HUM05-RISQ-ISP",
+          "HUM05-EPS"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "DMA05-MATHS",
+        "name": "MATHEMATIQUES",
+        "ects": 8.5,
+        "courses": [
+          "DMA05-OMB",
+          "DMA05-Proba",
+          "DMA05-REMED"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "DMA05-MOD",
+        "name": "MODELISATION",
+        "ects": 5.0,
+        "courses": [
+          "DMA05-AD",
+          "DMA05-MEDO"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "DMA05-INFOS",
+        "name": "INFORMATIQUE SCIENTIFIQUE",
+        "ects": 8.5,
+        "courses": [
+          "DMA05-PYTHO",
+          "DMA05-ILM",
+          "DMA05-MNL",
+          "ESM05-INFOC"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "DMA05-SEM",
+        "name": "SEMINAIRE ENTREPRISE",
+        "ects": 1.0,
+        "courses": [
+          "DMA05-SE"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "HUM05",
+        "name": "ENSEIGNEMENTS D'HUMANITE S5",
+        "ects": 7.0,
+        "courses": [
+          "HUM05-RISQ",
+          "HUM05-ANGL",
+          "HUM05-PSH",
+          "HUM05-EPS"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "HUMF1-RIE",
+        "name": "RIE : Recherche Innovation Entrepreneuriat",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1- RI",
+          "HUMF1- IE"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "HUMF1-ELSA Mus",
+        "name": "MUSIQUE  ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1-MUS"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "DMA06-MATHS",
+        "name": "MATHEMATIQUES",
+        "ects": 7.5,
+        "courses": [
+          "DMA06-Trans",
+          "DMA06-SI",
+          "DMA06-OC"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "DMA06-MOD",
+        "name": "MODELISATION",
+        "ects": 8.5,
+        "courses": [
+          "DMA06-MRL",
+          "DMA06-OD",
+          "DMA06-MM"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "DMA06-INFOS",
+        "name": "INFORMATIQUE SCIENTIFIQUE",
+        "ects": 6.0,
+        "courses": [
+          "DMA06-BD",
+          "DMA06-MNNL"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "DMA06-SEM",
+        "name": "SEMINAIRE ENTREPRISE",
+        "ects": 1.0,
+        "courses": [
+          "DMA06-SE"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "HUM06-ISP",
+        "name": "ENSEIGNEMENTS D'HUMANITE S6",
+        "ects": 4.0,
+        "courses": [
+          "HUM06-ANGL-ISP",
+          "HUM06-ALL-ISP",
+          "HUM06-ESP-ISP",
+          "HUM06-RUS-ISP",
+          "HUM06-IMO-ISP",
+          "HUM06-SIM-ISP",
+          "HUM06-EPS",
+          "HUM06-JAP-ISP",
+          "HUM06-CHI-ISP"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "DMA06-MATHS",
+        "name": "MATHEMATIQUES",
+        "ects": 7.5,
+        "courses": [
+          "DMA06-Trans",
+          "DMA06-SI",
+          "DMA06-OC"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "DMA06-MOD",
+        "name": "MODELISATION",
+        "ects": 8.5,
+        "courses": [
+          "DMA06-MRL",
+          "DMA06-OD",
+          "DMA06-MM"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "DMA06-INFOS",
+        "name": "INFORMATIQUE SCIENTIFIQUE",
+        "ects": 6.0,
+        "courses": [
+          "DMA06-BD",
+          "DMA06-MNNL"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "DMA06-SEM",
+        "name": "SEMINAIRE ENTREPRISE",
+        "ects": 1.0,
+        "courses": [
+          "DMA06-SE"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "HUM06",
+        "name": "ENSEIGNEMENTS D'HUMANITE S6",
+        "ects": 7.0,
+        "courses": [
+          "HUM06-IMO",
+          "HUM06-ANGL",
+          "HUM06-SIM",
+          "HUM06-EPS",
+          "HUM06-PPI"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "HUMF2-RIE",
+        "name": "RIE : Recherche Innovation Entrepreneuriat",
+        "ects": 1.0,
+        "courses": [
+          "HUMF2- RI",
+          "HUMF2- IE"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "DMA07-MA",
+        "name": "MATHEMATIQUES APPLIQUEES",
+        "ects": 7.0,
+        "courses": [
+          "DMA07-OHA",
+          "DMA07-MSSD"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "DMA07-MODS",
+        "name": "MODELISATION STATISTIQUE",
+        "ects": 6.5,
+        "courses": [
+          "DMA07-MSRS",
+          "DMA07-ST"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "DMA07-INFOS-ISP",
+        "name": "INFORMATIQUE SCIENTIFIQUE ET MATHEMATIQUES DISCRETES",
+        "ects": 3.5,
+        "courses": [
+          "DMA07-RO"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "DMA07-SEMP-ISP",
+        "name": "SEMINAIRE ENTREPRISE ET PROJET",
+        "ects": 4.0,
+        "courses": [
+          "DMA07-PI",
+          "DMA07-SE-ISP"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "HUM07-ISP",
+        "name": "ENSEIGNEMENTS D'HUMANITE S7",
+        "ects": 4.0,
+        "courses": [
+          "HUM07-ANGL-ISP",
+          "HUM07-ALL-ISP",
+          "HUM07-ESP-ISP",
+          "HUM07-RUS-ISP",
+          "HUM07-EPS ISP - Education Physique et Sportive S7"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "DMA07-MA",
+        "name": "MATHEMATIQUES APPLIQUEES",
+        "ects": 7.0,
+        "courses": [
+          "DMA07-OHA",
+          "DMA07-MSSD"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "DMA07-MODS",
+        "name": "MODELISATION STATISTIQUE",
+        "ects": 6.5,
+        "courses": [
+          "DMA07-MSRS",
+          "DMA07-ST"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "DMA07-INFOS",
+        "name": "INFORMATIQUE SCIENTIFIQUE ET MATHEMATIQUES DISCRETES",
+        "ects": 6.0,
+        "courses": [
+          "DMA07-POO",
+          "DMA07-RO"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "DMA07-SEMP",
+        "name": "SEMINAIRE ENTREPRISE ET PROJET",
+        "ects": 4.5,
+        "courses": [
+          "DMA07-PI",
+          "DMA07-SE"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "HUM07",
+        "name": "ENSEIGNEMENTS D'HUMANITES S7",
+        "ects": 6.0,
+        "courses": [
+          "HUM07-ANGL",
+          "HUM07-EI",
+          "HUM07-IE",
+          "HUM07-EPS"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "DEIF1-MOB15",
+        "name": "PROJET RECHERCHE MOBILITE ENTRANTE 1/3 SEMESTRE",
+        "ects": 15.0,
+        "courses": [
+          "DEIF1-MOB15"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "DMA07-MA",
+        "name": "MATHEMATIQUES APPLIQUEES",
+        "ects": 7.0,
+        "courses": [
+          "DMA07-OHA",
+          "DMA07-MSSD"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "DMA07-MODS",
+        "name": "MODELISATION STATISTIQUE",
+        "ects": 6.5,
+        "courses": [
+          "DMA07-MSRS",
+          "DMA07-ST"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "DMA07-INFOS",
+        "name": "INFORMATIQUE SCIENTIFIQUE ET MATHEMATIQUES DISCRETES",
+        "ects": 6.0,
+        "courses": [
+          "DMA07-POO",
+          "DMA07-RO"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "DMA07-SEMP-2",
+        "name": "SEMINAIRE ENTREPRISE ET PROJET",
+        "ects": 4.5,
+        "courses": [
+          "DMA07-PR1",
+          "DMA07-SE"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "HUM07",
+        "name": "ENSEIGNEMENTS D'HUMANITES S7",
+        "ects": 6.0,
+        "courses": [
+          "HUM07-ANGL",
+          "HUM07-EI",
+          "HUM07-IE",
+          "HUM07-EPS"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "DMA08-PROJ",
+        "name": "PROJET",
+        "ects": 2.5,
+        "courses": [
+          "DMA08-BE"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "HUM08-ISP",
+        "name": "ENSEIGNEMENTS D'HUMANITE S8",
+        "ects": 3.0,
+        "courses": [
+          "HUM08-ANGL-ISP",
+          "HUM08-ALL-ISP",
+          "HUM08-ESP-ISP",
+          "HUM08-RUS-ISP"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "DMA08-INFOS",
+        "name": "INFORMATIQUE SCIENTIFIQUE ET MATHEMATIQUES DISCRETES",
+        "ects": 7.0,
+        "courses": [
+          "DMA08-CHP",
+          "DMA08-MERN",
+          "DMA08-PMAA"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "DMA08-SN",
+        "name": "SCIENCES DU NUMERIQUE",
+        "ects": 6.0,
+        "courses": [
+          "DMA08-PE",
+          "DMA08-AS",
+          "DMA08-OGD"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "DMA08-SEMP",
+        "name": "SEMINAIRE ENTREPRISE ET PROJET",
+        "ects": 3.0,
+        "courses": [
+          "DMA08-BE",
+          "DMA08-SE"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "DMA08-STAGE",
+        "name": "STAGE",
+        "ects": 8.0,
+        "courses": [
+          "DMA08-STAGE08"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "HUM08",
+        "name": "ENSEIGNEMENTS D'HUMANITE S8",
+        "ects": 6.0,
+        "courses": [
+          "HUM08-ANGL",
+          "HUM08-TEJS",
+          "HUM08-SHES1",
+          "HUM08-SHES2",
+          "HUM08-EPS",
+          "HUM08-IE"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "DMA08-INFOS",
+        "name": "INFORMATIQUE SCIENTIFIQUE ET MATHEMATIQUES DISCRETES",
+        "ects": 7.0,
+        "courses": [
+          "DMA08-CHP",
+          "DMA08-MERN",
+          "DMA08-PMAA"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "DMA08-SN",
+        "name": "SCIENCES DU NUMERIQUE",
+        "ects": 6.0,
+        "courses": [
+          "DMA08-PE",
+          "DMA08-AS",
+          "DMA08-OGD"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "DMA08-SEMP-2",
+        "name": "SEMINAIRE ENTREPRISE ET PROJET",
+        "ects": 3.0,
+        "courses": [
+          "DMA08-PR2",
+          "DMA08-SE"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "DMA08-STAGE",
+        "name": "STAGE",
+        "ects": 8.0,
+        "courses": [
+          "DMA08-STAGE08"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "HUM08",
+        "name": "ENSEIGNEMENTS D'HUMANITE S8",
+        "ects": 6.0,
+        "courses": [
+          "HUM08-ANGL",
+          "HUM08-TEJS",
+          "HUM08-SHES1",
+          "HUM08-SHES2",
+          "HUM08-EPS",
+          "HUM08-IE"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "DMA09-IDS-2",
+        "name": "INGENIERIE DES DONNEES ET DES SYSTEMES",
+        "ects": 9.0,
+        "courses": [
+          "DMA09-PARCI",
+          "DMA09-OI"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "DMA09-IR",
+        "name": "INGENIERIE DU RISQUE",
+        "ects": 13.5,
+        "courses": [
+          "DMA09-AIS",
+          "DMA09-FMDV",
+          "DMA09-SEER"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "DMA09-SE",
+        "name": "SEMINAIRE ENTREPRISE",
+        "ects": 2.0,
+        "courses": [
+          "DMA09-SE"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "HUM09-GM-PRO",
+        "name": "ENSEIGNEMENTS D'HUMANITE S9",
+        "ects": 5.5,
+        "courses": [
+          "HUM09-ANGL-TOEIC",
+          "HUM09-ANGL-CONV",
+          "HUM09-PM-PRO"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "DMA09-IDS",
+        "name": "INGENIERIE DES DONNEES ET DES SYSTEMES",
+        "ects": 13.5,
+        "courses": [
+          "DMA09-CO",
+          "DMA09-PARCI",
+          "DMA09-OI"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "DMA09-IR-2",
+        "name": "INGENIERIE DU RISQUE",
+        "ects": 9.0,
+        "courses": [
+          "DMA09-AIS",
+          "DMA09-FMDV"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "DMA09-SE",
+        "name": "SEMINAIRE ENTREPRISE",
+        "ects": 2.0,
+        "courses": [
+          "DMA09-SE"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "HUM09",
+        "name": "ENSEIGNEMENTS D'HUMANITE S9",
+        "ects": 5.5,
+        "courses": [
+          "HUM09-ANGL-CONV",
+          "HUM09-ANGL-TOEIC",
+          "HUM09-PM-A",
+          "HUM09-PM-B",
+          "HUM09-PM-C",
+          "HUM09-PM-D",
+          "HUM09-PM-E",
+          "HUM09-PM-F",
+          "EII09-EVST",
+          "EII09-HUMT",
+          "EII09-EVST",
+          "INF09-STGDATING",
+          "GCU09-SPEC-GPC",
+          "GCU09-SPEC-GPD",
+          "DET09-CONF",
+          "HUM09-PM-PRO"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "DMA09-IDS",
+        "name": "INGENIERIE DES DONNEES ET DES SYSTEMES",
+        "ects": 13.5,
+        "courses": [
+          "DMA09-CO",
+          "DMA09-PARCI",
+          "DMA09-OI"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "DMA09-IR",
+        "name": "INGENIERIE DU RISQUE",
+        "ects": 13.5,
+        "courses": [
+          "DMA09-AIS",
+          "DMA09-FMDV",
+          "DMA09-SEER"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "DMA09-SE",
+        "name": "SEMINAIRE ENTREPRISE",
+        "ects": 2.0,
+        "courses": [
+          "DMA09-SE"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "HUM09",
+        "name": "ENSEIGNEMENTS D'HUMANITE S9",
+        "ects": 5.5,
+        "courses": [
+          "HUM09-ANGL-CONV",
+          "HUM09-ANGL-TOEIC",
+          "HUM09-PM-A",
+          "HUM09-PM-B",
+          "HUM09-PM-C",
+          "HUM09-PM-D",
+          "HUM09-PM-E",
+          "HUM09-PM-F",
+          "EII09-EVST",
+          "EII09-HUMT",
+          "EII09-EVST",
+          "INF09-STGDATING",
+          "GCU09-SPEC-GPC",
+          "GCU09-SPEC-GPD",
+          "DET09-CONF",
+          "HUM09-PM-PRO"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "DMA09-IDS-PR-2",
+        "name": "INGENIERIE DES DONNEES ET DES SYSTEMES",
+        "ects": 8.0,
+        "courses": [
+          "DMA09-PARCI-PR",
+          "DMA09-OI-PR"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "DMA09-IR-2-PR",
+        "name": "INGENIERIE DU RISQUE",
+        "ects": 12.0,
+        "courses": [
+          "DMA09-AIS-PR",
+          "DMA09-FMDV-PR",
+          "DMA09-SEER-PR"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "DMA09-PR",
+        "name": "PROJET D'INITIATION A LA RECHERCHE",
+        "ects": 4.5,
+        "courses": [
+          "DMA09-PR"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "HUM09",
+        "name": "ENSEIGNEMENTS D'HUMANITE S9",
+        "ects": 5.5,
+        "courses": [
+          "HUM09-ANGL-CONV",
+          "HUM09-ANGL-TOEIC",
+          "HUM09-PM-A",
+          "HUM09-PM-B",
+          "HUM09-PM-C",
+          "HUM09-PM-D",
+          "HUM09-PM-E",
+          "HUM09-PM-F",
+          "EII09-EVST",
+          "EII09-HUMT",
+          "EII09-EVST",
+          "INF09-STGDATING",
+          "GCU09-SPEC-GPC",
+          "GCU09-SPEC-GPD",
+          "DET09-CONF",
+          "HUM09-PM-PRO"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "DMA09-IDS-2",
+        "name": "INGENIERIE DES DONNEES ET DES SYSTEMES",
+        "ects": 9.0,
+        "courses": [
+          "DMA09-PARCI",
+          "DMA09-OI"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "DMA09-IR",
+        "name": "INGENIERIE DU RISQUE",
+        "ects": 13.5,
+        "courses": [
+          "DMA09-AIS",
+          "DMA09-FMDV",
+          "DMA09-SEER"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "DMA09-SE",
+        "name": "SEMINAIRE ENTREPRISE",
+        "ects": 2.0,
+        "courses": [
+          "DMA09-SE"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "HUM09",
+        "name": "ENSEIGNEMENTS D'HUMANITE S9",
+        "ects": 5.5,
+        "courses": [
+          "HUM09-ANGL-CONV",
+          "HUM09-ANGL-TOEIC",
+          "HUM09-PM-A",
+          "HUM09-PM-B",
+          "HUM09-PM-C",
+          "HUM09-PM-D",
+          "HUM09-PM-E",
+          "HUM09-PM-F",
+          "EII09-EVST",
+          "EII09-HUMT",
+          "EII09-EVST",
+          "INF09-STGDATING",
+          "GCU09-SPEC-GPC",
+          "GCU09-SPEC-GPD",
+          "DET09-CONF",
+          "HUM09-PM-PRO"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "DMA10-PFE",
+        "name": "PROJET FIN D'ETUDES",
+        "ects": 30.0,
+        "courses": [
+          "DMA10-PFE"
+        ],
+        "semester": 10
+      },
+      {
+        "id": "DMA10-PFE",
+        "name": "PROJET FIN D'ETUDES",
+        "ects": 30.0,
+        "courses": [
+          "DMA10-PFE"
+        ],
+        "semester": 10
+      },
+      {
+        "id": "DMA10-PFE",
+        "name": "PROJET FIN D'ETUDES",
+        "ects": 30.0,
+        "courses": [
+          "DMA10-PFE"
+        ],
+        "semester": 10
+      },
+      {
+        "id": "DMA10-PFE",
+        "name": "PROJET FIN D'ETUDES",
+        "ects": 30.0,
+        "courses": [
+          "DMA10-PFE"
+        ],
+        "semester": 10
+      },
+      {
+        "id": "DMA10-PFE",
+        "name": "PROJET FIN D'ETUDES",
+        "ects": 30.0,
+        "courses": [
+          "DMA10-PFE"
+        ],
+        "semester": 10
+      },
+      {
+        "id": "DMA10-PFE",
+        "name": "PROJET FIN D'ETUDES",
+        "ects": 30.0,
+        "courses": [
+          "DMA10-PFE"
+        ],
+        "semester": 10
+      }
+    ],
+    "ects": 617.0
+  },
+  {
+    "id": "INFO",
+    "name": "Informatique",
+    "cycles": [],
+    "url": "https://applisjava.insa-rennes.fr/OffreFormationWeb/main?action=RECHERCHE_MAQUETTE&formation=6&langue=100",
+    "teaching_units": [
+      {
+        "id": "INF05-1",
+        "name": "MATHEMATIQUES POUR L'INFORMATIQUE",
+        "ects": 4.0,
+        "courses": [
+          "INF05-PROBA",
+          "INF05-ADFD"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "INF05-2",
+        "name": "ARCHITECTURE LOGICIELLE ET MATERIELLE",
+        "ects": 6.0,
+        "courses": [
+          "INF05-CLP",
+          "ESM05-INFOC",
+          "INF05-HI"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "INF05-3",
+        "name": "PARADIGMES DE PROGRAMMATION",
+        "ects": 6.5,
+        "courses": [
+          "INF05-PL",
+          "INF05-FUS",
+          "INF05-PF"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "INF05-4",
+        "name": "CONCEPTION LOGICIELLE",
+        "ects": 6.5,
+        "courses": [
+          "INF05-EP",
+          "INF05-CPOO1",
+          "INF05-SDD"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "HUM05-ISP",
+        "name": "ENSEIGNEMENTS D'HUMANITE S5",
+        "ects": 4.0,
+        "courses": [
+          "HUM05-ANGL-ISP",
+          "HUM05-ALL-ISP",
+          "HUM05-ESP-ISP",
+          "HUM05-JAP-ISP",
+          "HUM05-RUS-ISP",
+          "HUM05-CHI-ISP",
+          "HUM05-PSH-ISP",
+          "HUM05-RISQ-ISP",
+          "HUM05-EPS"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "HUMF1-ELSA Mus",
+        "name": "MUSIQUE  ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1-MUS"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "INF05-REM JAVA2",
+        "name": "REMEDIATION JAVA 2",
+        "ects": 1.0,
+        "courses": [
+          "INF05-RJ2"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "INF05-1",
+        "name": "MATHEMATIQUES POUR L'INFORMATIQUE",
+        "ects": 4.0,
+        "courses": [
+          "INF05-PROBA",
+          "INF05-ADFD"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "INF05-2",
+        "name": "ARCHITECTURE LOGICIELLE ET MATERIELLE",
+        "ects": 6.0,
+        "courses": [
+          "INF05-CLP",
+          "ESM05-INFOC",
+          "INF05-HI"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "INF05-3",
+        "name": "PARADIGMES DE PROGRAMMATION",
+        "ects": 6.5,
+        "courses": [
+          "INF05-PL",
+          "INF05-FUS",
+          "INF05-PF"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "INF05-4",
+        "name": "CONCEPTION LOGICIELLE",
+        "ects": 6.5,
+        "courses": [
+          "INF05-EP",
+          "INF05-CPOO1",
+          "INF05-SDD"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "HUM05-INF",
+        "name": "ENSEIGNEMENTS D'HUMANITE S5 - INFO",
+        "ects": 7.0,
+        "courses": [
+          "HUM05-RISQ",
+          "HUM05-PSH-ANGL - Projet Sciences Humaines",
+          "HUM05-EPS"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "INF05-REM BD",
+        "name": "REMEDIATION BASE DE DONNEES",
+        "ects": 1.0,
+        "courses": [
+          "INF05-RBD"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "INF05-REM JAVA1",
+        "name": "REMEDIATION JAVA 1",
+        "ects": 1.0,
+        "courses": [
+          "INF05-RJ1"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "INF05-REM JAVA2",
+        "name": "REMEDIATION JAVA 2",
+        "ects": 1.0,
+        "courses": [
+          "INF05-RJ2"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "INF05-REM MATHS",
+        "name": "REMEDIATION MATHS",
+        "ects": 2.0,
+        "courses": [
+          "INF05-RM"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "HUMF1-ELSA Mus",
+        "name": "MUSIQUE  ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1-MUS"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "HUMF1-ELSA Thea",
+        "name": "THEATRE  ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1-THEA"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "HUMF1-RIE",
+        "name": "RIE : Recherche Innovation Entrepreneuriat",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1- RI",
+          "HUMF1- IE"
+        ],
+        "semester": 5
+      },
+      {
+        "id": "INF06-1",
+        "name": "INGENIERIE ET RESEAUX",
+        "ects": 5.5,
+        "courses": [
+          "INF06-RES",
+          "INF06-BDWEB"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "INF06-2",
+        "name": "INFORMATIQUE THEORIQUE",
+        "ects": 8.5,
+        "courses": [
+          "INF06-GA",
+          "INF06-COMPX",
+          "INF06-PRED",
+          "INF06-APPR"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "INF06-3",
+        "name": "PROJETS ET OUVERTURE",
+        "ects": 4.0,
+        "courses": [
+          "INF06-EP - Etude pratique",
+          "INF06-CONF",
+          "INFT2-IAJ",
+          "INFT2-PM",
+          "INFT2-ROBO",
+          "INFT2-IOT"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "INF06-4",
+        "name": "OPTIONS",
+        "ects": 5.0,
+        "courses": [
+          "INF06-TALEO",
+          "INF06-SD",
+          "INF06-CHP",
+          "INF06-SECU"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "HUM06-ISP",
+        "name": "ENSEIGNEMENTS D'HUMANITE S6",
+        "ects": 4.0,
+        "courses": [
+          "HUM06-ANGL-ISP",
+          "HUM06-ALL-ISP",
+          "HUM06-ESP-ISP",
+          "HUM06-RUS-ISP",
+          "HUM06-IMO-ISP",
+          "HUM06-SIM-ISP",
+          "HUM06-EPS",
+          "HUM06-JAP-ISP",
+          "HUM06-CHI-ISP"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "INF06-1",
+        "name": "INGENIERIE ET RESEAUX",
+        "ects": 5.5,
+        "courses": [
+          "INF06-RES",
+          "INF06-BDWEB"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "INF06-2",
+        "name": "INFORMATIQUE THEORIQUE",
+        "ects": 8.5,
+        "courses": [
+          "INF06-GA",
+          "INF06-COMPX",
+          "INF06-PRED",
+          "INF06-APPR"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "INF06-3",
+        "name": "PROJETS ET OUVERTURE",
+        "ects": 4.0,
+        "courses": [
+          "INF06-EP - Etude pratique",
+          "INF06-CONF",
+          "INFT2-IAJ",
+          "INFT2-PM",
+          "INFT2-ROBO",
+          "INFT2-IOT"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "INF06-4",
+        "name": "OPTIONS",
+        "ects": 5.0,
+        "courses": [
+          "INF06-TALEO",
+          "INF06-SD",
+          "INF06-CHP",
+          "INF06-SECU"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "HUM06",
+        "name": "ENSEIGNEMENTS D'HUMANITE S6",
+        "ects": 7.0,
+        "courses": [
+          "HUM06-IMO",
+          "HUM06-ANGL",
+          "HUM06-SIM",
+          "HUM06-EPS",
+          "HUM06-PPI"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "HUMF2-ELSA Thea",
+        "name": "THEATRE ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF2-THEA"
+        ],
+        "semester": 6
+      },
+      {
+        "id": "INF07-1-FISP",
+        "name": "GENIE LOGICIEL",
+        "ects": 5.0,
+        "courses": [
+          "INF07-CPOO2",
+          "INF07-PROJ-CPOO"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "INF07-2",
+        "name": "SYSTEMES ET MODELISATION",
+        "ects": 6.5,
+        "courses": [
+          "INF07-SYST",
+          "INF07-MSTOC"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "INF07-3",
+        "name": "OPTIONS",
+        "ects": 5.0,
+        "courses": [
+          "INF07-TIV",
+          "INF07-IG",
+          "INF07-SECU",
+          "INF07-CRYPTO",
+          "INF07-PP",
+          "INF07-PERF"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "INF07-4",
+        "name": "PROJET",
+        "ects": 5.0,
+        "courses": [
+          "INF07-GEST",
+          "INF07-PROJ1",
+          "INF07-CONF"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "HUM07-ISP",
+        "name": "ENSEIGNEMENTS D'HUMANITE S7",
+        "ects": 4.0,
+        "courses": [
+          "HUM07-ANGL-ISP",
+          "HUM07-ALL-ISP",
+          "HUM07-ESP-ISP",
+          "HUM07-RUS-ISP",
+          "HUM07-EPS ISP - Education Physique et Sportive S7"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "INF07-1",
+        "name": "GENIE LOGICIEL",
+        "ects": 7.5,
+        "courses": [
+          "INF07-CPP - Conception CPP",
+          "INF07-CPOO2",
+          "INF07-PROJ-CPOO"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "INF07-2",
+        "name": "SYSTEMES ET MODELISATION",
+        "ects": 6.5,
+        "courses": [
+          "INF07-SYST",
+          "INF07-MSTOC"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "INF07-3-FISP",
+        "name": "OPTIONS",
+        "ects": 2.5,
+        "courses": [
+          "INF07-IG"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "INF07-4",
+        "name": "PROJET",
+        "ects": 5.0,
+        "courses": [
+          "INF07-GEST",
+          "INF07-PROJ1",
+          "INF07-CONF"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "HUM07-ISP",
+        "name": "ENSEIGNEMENTS D'HUMANITE S7",
+        "ects": 4.0,
+        "courses": [
+          "HUM07-ANGL-ISP",
+          "HUM07-ALL-ISP",
+          "HUM07-ESP-ISP",
+          "HUM07-RUS-ISP",
+          "HUM07-EPS ISP - Education Physique et Sportive S7"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "INF07-1",
+        "name": "GENIE LOGICIEL",
+        "ects": 7.5,
+        "courses": [
+          "INF07-CPP - Conception CPP",
+          "INF07-CPOO2",
+          "INF07-PROJ-CPOO"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "INF07-2",
+        "name": "SYSTEMES ET MODELISATION",
+        "ects": 6.5,
+        "courses": [
+          "INF07-SYST",
+          "INF07-MSTOC"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "INF07-3",
+        "name": "OPTIONS",
+        "ects": 5.0,
+        "courses": [
+          "INF07-TIV",
+          "INF07-IG",
+          "INF07-SECU",
+          "INF07-CRYPTO",
+          "INF07-PP",
+          "INF07-PERF"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "INF07-4",
+        "name": "PROJET",
+        "ects": 5.0,
+        "courses": [
+          "INF07-GEST",
+          "INF07-PROJ1",
+          "INF07-CONF"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "HUM07",
+        "name": "ENSEIGNEMENTS D'HUMANITES S7",
+        "ects": 6.0,
+        "courses": [
+          "HUM07-ANGL",
+          "HUM07-EI",
+          "HUM07-IE",
+          "HUM07-EPS"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "HUMF1-ELSA Mus",
+        "name": "MUSIQUE  ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1-MUS"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "HUMF1-SAMSTINF3",
+        "name": "SAM : Stages Compl\u00e9mentaires de 3\u00e8me ann\u00e9e 3CR",
+        "ects": 3.0,
+        "courses": [
+          "INF07-STA3 3CR"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "HUMF1-ELSA Thea",
+        "name": "THEATRE  ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1-THEA"
+        ],
+        "semester": 7
+      },
+      {
+        "id": "INF08-ISP",
+        "name": "PROJET",
+        "ects": 3.0,
+        "courses": [
+          "INF08-PROJ2"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "HUM08-ISP",
+        "name": "ENSEIGNEMENTS D'HUMANITE S8",
+        "ects": 3.0,
+        "courses": [
+          "HUM08-ANGL-ISP",
+          "HUM08-ALL-ISP",
+          "HUM08-ESP-ISP",
+          "HUM08-RUS-ISP"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "INF08-ISP",
+        "name": "PROJET",
+        "ects": 3.0,
+        "courses": [
+          "INF08-PROJ2"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "HUM08-ISP",
+        "name": "ENSEIGNEMENTS D'HUMANITE S8",
+        "ects": 3.0,
+        "courses": [
+          "HUM08-ANGL-ISP",
+          "HUM08-ALL-ISP",
+          "HUM08-ESP-ISP",
+          "HUM08-RUS-ISP"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "INF08-1",
+        "name": "LANGAGES ET PROGRAMMATION",
+        "ects": 6.5,
+        "courses": [
+          "INF08-GRL",
+          "INF08-COMPIL",
+          "INF08-CONTR"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "INF08-2",
+        "name": "PROJET ET OUVERTURES",
+        "ects": 5.5,
+        "courses": [
+          "INF08-PROJ2",
+          "INF08-CONF",
+          "INFT2-IAJ",
+          "INFT2-PM",
+          "INFT2-ROBO",
+          "INFT2-IOT"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "INF08-3",
+        "name": "OPTIONS",
+        "ects": 4.0,
+        "courses": [
+          "INF08-RIV",
+          "INF08-TALIL",
+          "INF08-PRGSECU",
+          "INF08-CLOUDS"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "INF-STAGE08",
+        "name": "STAGES",
+        "ects": 8.0,
+        "courses": [
+          "INF08-STAGE"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "HUM08",
+        "name": "ENSEIGNEMENTS D'HUMANITE S8",
+        "ects": 6.0,
+        "courses": [
+          "HUM08-ANGL",
+          "HUM08-TEJS",
+          "HUM08-SHES1",
+          "HUM08-SHES2",
+          "HUM08-EPS",
+          "HUM08-IE"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "HUMF2-ELSA Mus",
+        "name": "MUSIQUE ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF2-MUS"
+        ],
+        "semester": 8
+      },
+      {
+        "id": "INF09-1",
+        "name": "SPECIALISATION",
+        "ects": 12.5,
+        "courses": [
+          "INF09-DevOps",
+          "INF09-BDASW",
+          "INF09-DSL",
+          "INF09-CP"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "INF09-2",
+        "name": "PROJETS ET MISE EN PRATIQUE",
+        "ects": 6.0,
+        "courses": [
+          "INF09-SFFS",
+          "INF09-CCU"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "INF09-3",
+        "name": "OUVERTURES ET OPTIONS",
+        "ects": 6.0,
+        "courses": [
+          "INF09-RV",
+          "INF09-AMRG",
+          "INF09-SECU",
+          "INF09-PROTOCOL",
+          "INF09-ALGODATA",
+          "INF09-DATA",
+          "INF09-AD"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "HUM09-INFO-PRO",
+        "name": "ENSEIGNEMENTS D'HUMANITE S9 (CONTRAT PRO)",
+        "ects": 5.5,
+        "courses": [
+          "HUM09-ANGL-CONV",
+          "HUM09-ANGL-TOEIC",
+          "INF09-STGDATING",
+          "HUM09-PM-PRO"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "INF09-1",
+        "name": "SPECIALISATION",
+        "ects": 12.5,
+        "courses": [
+          "INF09-DevOps",
+          "INF09-BDASW",
+          "INF09-DSL",
+          "INF09-CP"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "INF09-2",
+        "name": "PROJETS ET MISE EN PRATIQUE",
+        "ects": 6.0,
+        "courses": [
+          "INF09-SFFS",
+          "INF09-CCU"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "INF09-3",
+        "name": "OUVERTURES ET OPTIONS",
+        "ects": 6.0,
+        "courses": [
+          "INF09-RV",
+          "INF09-AMRG",
+          "INF09-SECU",
+          "INF09-PROTOCOL",
+          "INF09-ALGODATA",
+          "INF09-DATA",
+          "INF09-AD"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "HUM09",
+        "name": "ENSEIGNEMENTS D'HUMANITE S9",
+        "ects": 5.5,
+        "courses": [
+          "HUM09-ANGL-CONV",
+          "HUM09-ANGL-TOEIC",
+          "HUM09-PM-A",
+          "HUM09-PM-B",
+          "HUM09-PM-C",
+          "HUM09-PM-D",
+          "HUM09-PM-E",
+          "HUM09-PM-F",
+          "EII09-EVST",
+          "EII09-HUMT",
+          "EII09-EVST",
+          "INF09-STGDATING",
+          "GCU09-SPEC-GPC",
+          "GCU09-SPEC-GPD",
+          "DET09-CONF",
+          "HUM09-PM-PRO"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "HUMF1-ELSA Mus",
+        "name": "MUSIQUE  ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1-MUS"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "INF09-SIF",
+        "name": "MASTER SCIENCE INFORMATIQUE (SIF)",
+        "ects": 24.5,
+        "courses": [
+          "INF09-SIF",
+          "INF09-BIBL"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "HUM09",
+        "name": "ENSEIGNEMENTS D'HUMANITE S9",
+        "ects": 5.5,
+        "courses": [
+          "HUM09-ANGL-CONV",
+          "HUM09-ANGL-TOEIC",
+          "HUM09-PM-A",
+          "HUM09-PM-B",
+          "HUM09-PM-C",
+          "HUM09-PM-D",
+          "HUM09-PM-E",
+          "HUM09-PM-F",
+          "EII09-EVST",
+          "EII09-HUMT",
+          "EII09-EVST",
+          "INF09-STGDATING",
+          "GCU09-SPEC-GPC",
+          "GCU09-SPEC-GPD",
+          "DET09-CONF",
+          "HUM09-PM-PRO"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "HUMF1-ELSA Mus",
+        "name": "MUSIQUE  ETUDES",
+        "ects": 1.0,
+        "courses": [
+          "HUMF1-MUS"
+        ],
+        "semester": 9
+      },
+      {
+        "id": "INF-PFE10",
+        "name": "PFE",
+        "ects": 30.0,
+        "courses": [
+          "INF10-PFE"
+        ],
+        "semester": 10
+      },
+      {
+        "id": "INF-PFE10",
+        "name": "PFE",
+        "ects": 30.0,
+        "courses": [
+          "INF10-PFE"
+        ],
+        "semester": 10
+      },
+      {
+        "id": "INF-PFE10",
+        "name": "PFE",
+        "ects": 30.0,
+        "courses": [
+          "INF10-PFE"
+        ],
+        "semester": 10
+      },
+      {
+        "id": "INF-PFE10",
+        "name": "PFE",
+        "ects": 30.0,
+        "courses": [
+          "INF10-PFE"
+        ],
+        "semester": 10
+      }
+    ],
+    "ects": 466.0
+  }
+]

@@ -8,15 +8,25 @@ import pandas as pd
 from settings import CRAWLING_OUTPUT_FOLDER, SCORING_OUTPUT_FOLDER
 
 
-def main(school: str, year: int):
+def main(school: str, year: int, new_structure: bool = False):
 
     # Load programs crawling output
     programs_fn = CRAWLING_OUTPUT_FOLDER.joinpath(f"{school}_programs_{year}.json")
-    programs_courses_ds = (
-        pd.read_json(open(programs_fn, "r"), dtype={"id": str})
-        .set_index("id")["courses"]
-        .squeeze()
-    )
+    if new_structure:
+        programs_courses_ds = (
+            pd.read_json(open(programs_fn, "r"), dtype={"id": str})
+                .set_index("id")["teaching_units"]
+                .apply(lambda p: [c for tu in p for c in tu['courses']])
+                .squeeze()
+        )
+        print(programs_courses_ds)
+
+    else:
+        programs_courses_ds = (
+            pd.read_json(open(programs_fn, "r"), dtype={"id": str})
+            .set_index("id")["courses"]
+            .squeeze()
+        )
 
     # Load scoring output for courses
     courses_scores_fn = SCORING_OUTPUT_FOLDER.joinpath(
@@ -50,7 +60,8 @@ def main(school: str, year: int):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("-s", "--school", help="input json file path")
-    parser.add_argument("-y", "--year", help="academic year", default=2020)
+    parser.add_argument("-s", "--school", help="school name defined in spider")
+    parser.add_argument("-y", "--year", help="academic year", default=2022)
+    parser.add_argument("--new_structure", help="indicates if file follows new structure", default=False)
     arguments = vars(parser.parse_args())
     main(**arguments)

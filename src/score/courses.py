@@ -117,9 +117,9 @@ def score_school_courses(
     courses_df["scoring_text"] = courses_df[fields].apply(
         lambda x: "\n".join(x.values), axis=1
     )
-    courses_df["full_text"] = courses_df[
-        ["name", "program_content", "goal"]  # , "activity", "other"]
-    ].apply(lambda x: "\n".join(x.values), axis=1)
+    courses_df["full_text"] = courses_df[fields].apply(
+        lambda x: "\n".join(x.values), axis=1
+    )
     courses_df["languages"] = "fr"
     courses_df = courses_df[
         ["id", "languages", "name", "scoring_text", "full_text"]
