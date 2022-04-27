@@ -40,7 +40,7 @@ class InsaLyonProgramSpider(scrapy.Spider, ABC):
 
     def start_requests(self):
         for cursus_id, cursus_name in CURSUS_CODE.items():
-            url = BASE_URL.format(cursus_id)
+            url = CURSUS_URL.format(cursus_id)
             yield scrapy.Request(
                 url,
                 self.parse_main,
@@ -49,6 +49,7 @@ class InsaLyonProgramSpider(scrapy.Spider, ABC):
 
     def parse_main(self, response, cursus_id):
         programs = response.xpath("//div[@class='diplome']")
+        print(programs)
         for program in programs:
             program_id = program.xpath("@id").get()
             name = program.xpath(".//h3//a/text()").get()
