@@ -30,13 +30,14 @@ class InsaStrasbourgCourseSpider(scrapy.Spider, ABC):
         df = pd.read_json(open(PROG_DATA_PATH, "r"))
 
         for row in df.itertuples():
-            for course_id, url_course in row.courses:
+            for course_id, url_course, heures, etcs in zip(row.courses, row.courses_urls, row.heures, row.ETCS):
                 yield scrapy.Request(url=url_course,
+
                                      callback=self.parse_course,
-                                     cb_kwargs={"course_id": course_id})
+                                     cb_kwargs={"course_id": course_id, "heures": heures, "etcs": etcs})
 
     @staticmethod
-    def parse_course(response, course_id):
+    def parse_course(response, course_id, heures, etcs):
 
         course_name = cleanup(response.xpath("//h1").get())
 
@@ -61,5 +62,7 @@ class InsaStrasbourgCourseSpider(scrapy.Spider, ABC):
             'goal': objectif,
             'other': competences,
             'activity': "",
-            'languages' : "fr"
+            'languages': "fr",
+            'heures': heures,
+            'ECTC': etcs
         }

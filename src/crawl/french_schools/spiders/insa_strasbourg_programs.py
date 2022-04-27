@@ -61,17 +61,20 @@ class InsaStrasbourgSpider(scrapy.Spider, ABC):
     @staticmethod
     def parse_program(response, program_id, nom_formation):
 
-        courses = [(course.attrib['title'], PROGRAM_URL.format(program_id, course.attrib['href'])) for course in response.xpath("//a[@title]")]
+        cours = response.xpath("//a[@title]")
+        courses = [course.attrib['title'] for course in cours]
+        urls = [PROGRAM_URL.format(program_id, course.attrib['href']) for course in cours]
 
         poids = [remove_spaces.sub("", p.root.text) for p in response.xpath('//a[@title]/parent::td/following-sibling::td')]
-        heures = poids[0::2]
-        ECTS = poids[1::2]
-        courses = courses[-len(heures):]
+        heures = tuple(poids[0::2])
+        ECTS = tuple(poids[1::2])
+        courses = tuple(courses[-len(heures):])
         yield {
             "formation": nom_formation,
             "id": program_id,
             "name": program_id,
             "url": response.url,
+            "courses_urls": urls,
             "courses": courses,
             "heures": heures,
             "ETCS": ECTS
